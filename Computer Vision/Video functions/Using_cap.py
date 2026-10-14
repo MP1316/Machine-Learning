@@ -1,0 +1,17 @@
+import cv2
+cap = cv2.VideoCapture(0)
+while True:
+    ret, frame = cap.read() #ret=true/false frame=image
+
+    if not ret :
+        print("could not return:")
+        break
+
+    cv2.imshow("webcam feed:", frame)
+    if cv2.waitKey(1) & 0xff == ord('q'):
+        print("Quiting...")
+        break
+
+cap.release()
+cv2.destroyAllWindows ()
+
