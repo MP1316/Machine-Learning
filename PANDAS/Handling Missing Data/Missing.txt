@@ -1,0 +1,6 @@
+NaN (Not a number)
+None(For object data trypes)
+
+isnull()
+True - NaN is Missing
+False - value is present
