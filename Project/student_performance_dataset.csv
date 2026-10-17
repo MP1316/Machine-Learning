@@ -1,0 +1,2501 @@
+student_id,age,gender,class,subject,attendance_pct,study_hours_per_day,sleep_hours_per_day,assignment_score,previous_exam_score,exam_score,grade,passed
+STU00001,16,Female,12,Science,78.4,4.4,5.3,86.2,72.1,60.4,C,Yes
+STU00002,14,Male,10,Science,,2.2,6.7,86.7,69.4,65.0,C,Yes
+STU00003,16,Male,12,English,75.8,7.1,5.9,45.4,81.4,53.9,D,Yes
+STU00004,15,Male,11,Computer,100.0,2.6,8.0,81.5,88.9,65.9,C,Yes
+STU00005,16,Female,9,Science,85.4,12.0,5.7,73.7,89.9,87.7,A,Yes
+STU00006,14,Female,12,Computer,83.9,,6.5,69.0,91.3,70.6,B,Yes
+STU00007,19,Male,11,Computer,79.1,3.6,6.6,73.3,58.6,45.1,F,Yes
+STU00008,15,Male,12,Math,100.0,3.0,8.4,54.2,48.5,49.7,F,Yes
+STU00009,14,Male,9,Social Studies,96.4,3.5,6.4,50.7,84.0,63.7,C,Yes
+STU00010,17,Male,10,Math,74.1,6.6,7.6,93.5,90.7,90.1,A+,Yes
+STU00011,16,Female,10,Computer,79.0,2.9,7.3,82.5,93.3,64.2,C,Yes
+STU00012,19,Female,12,English,79.6,1.3,8.1,42.2,77.3,59.1,D,Yes
+STU00013,16,Female,11,Computer,83.6,,8.0,67.9,40.0,57.2,D,Yes
+STU00014,17,Female,12,Computer,74.3,2.9,7.1,88.3,75.5,64.8,C,Yes
+STU00015,19,Female,10,Computer,86.8,3.8,5.2,72.1,78.3,69.8,C,Yes
+STU00016,19,Male,9,Computer,98.0,1.8,6.8,93.4,88.8,61.2,C,Yes
+STU00017,18,Female,11,Social Studies,67.6,2.0,7.1,90.7,91.4,62.4,C,Yes
+STU00018,17,Female,9,Computer,69.6,3.9,7.4,57.0,83.6,78.9,B,Yes
+STU00019,18,Male,12,Social Studies,76.7,4.0,6.3,74.0,61.2,77.2,B,Yes
+STU00020,15,Female,11,English,77.2,6.0,8.4,69.7,54.6,74.5,B,Yes
+STU00021,19,Female,11,Science,100.0,2.1,7.1,56.6,78.0,76.7,B,Yes
+STU00022,19,Male,10,Science,93.0,4.7,6.1,55.6,58.1,44.1,F,Yes
+STU00023,16,Female,12,Computer,92.4,3.0,6.6,64.7,92.1,61.3,C,Yes
+STU00024,14,Male,12,English,79.1,2.4,9.2,67.0,44.4,53.8,D,Yes
+STU00025,18,Male,12,Math,78.9,3.1,7.8,80.0,78.5,92.9,A+,Yes
+STU00026,14,Female,9,Science,66.0,3.4,8.3,90.6,74.8,65.0,C,Yes
+STU00027,14,Male,10,Social Studies,90.6,1.2,6.0,83.2,66.9,70.2,B,Yes
+STU00028,19,Male,9,Computer,87.4,1.3,6.3,86.5,56.1,64.0,C,Yes
+STU00029,17,Male,9,Computer,96.1,5.2,6.4,72.3,39.1,66.0,C,Yes
+STU00030,17,Male,11,Math,79.7,2.5,7.3,84.4,62.0,63.1,C,Yes
+STU00031,19,Male,11,Math,80.4,3.8,6.9,73.9,62.3,51.6,D,Yes
+STU00032,19,Male,12,Science,83.9,5.1,6.6,69.8,86.7,45.6,F,Yes
+STU00033,19,Male,10,Social Studies,91.8,3.1,6.7,,58.3,81.4,A,Yes
+STU00034,14,Female,10,English,65.8,4.8,6.2,43.4,76.8,53.3,D,Yes
+STU00035,15,Male,10,Computer,90.1,3.4,6.9,49.8,50.6,38.2,F,Yes
+STU00036,18,Male,9,English,81.8,3.6,8.3,81.4,77.2,75.2,B,Yes
+STU00037,14,Male,9,English,70.4,7.0,5.4,72.3,36.4,62.6,C,Yes
+STU00038,15,Female,10,Computer,59.1,2.9,7.5,55.9,100.0,72.5,B,Yes
+STU00039,17,Female,9,Social Studies,80.5,5.2,8.6,61.2,67.9,78.6,B,Yes
+STU00040,16,Male,11,English,97.9,1.0,6.9,63.1,28.1,40.9,F,Yes
+STU00041,15,,10,English,100.0,3.8,6.5,88.5,59.2,60.7,C,Yes
+STU00042,19,Female,12,Social Studies,85.9,8.1,8.1,93.0,56.9,74.0,B,Yes
+STU00043,16,Female,11,Science,100.0,12.0,6.0,99.0,60.2,95.9,A+,Yes
+STU00044,16,Female,10,Social Studies,81.5,1.1,7.1,53.8,64.5,34.2,F,Yes
+STU00045,17,Male,12,English,92.5,2.5,6.0,56.9,60.1,59.8,D,Yes
+STU00046,18,Female,12,Social Studies,77.0,1.5,5.0,55.9,57.8,60.4,C,Yes
+STU00047,16,Male,10,English,76.3,3.0,6.9,94.0,52.6,71.3,B,Yes
+STU00048,19,Female,10,Computer,74.5,5.8,5.7,81.8,82.3,79.1,B,Yes
+STU00049,15,Female,11,Science,59.3,7.1,7.1,77.1,88.0,84.3,A,Yes
+STU00050,19,Female,9,Computer,96.2,7.3,8.3,79.2,66.2,50.4,D,Yes
+STU00051,19,Male,9,Science,74.9,1.0,9.1,75.2,69.7,77.9,B,Yes
+STU00052,14,Male,9,Computer,73.2,3.4,7.2,60.3,53.1,59.6,D,Yes
+STU00053,18,Male,12,Computer,69.0,2.1,8.2,83.2,71.1,76.9,B,Yes
+STU00054,14,Male,11,English,79.8,2.9,7.5,73.4,73.4,53.6,D,Yes
+STU00055,16,Female,11,English,100.0,2.3,6.7,59.2,66.7,45.4,F,Yes
+STU00056,19,Male,12,Science,100.0,1.0,5.0,84.0,75.9,83.7,A,Yes
+STU00057,15,Female,10,Computer,63.7,7.2,8.9,70.0,74.6,62.5,C,Yes
+STU00058,17,Female,11,English,78.1,1.8,5.9,79.2,54.2,53.6,D,Yes
+STU00059,18,Female,9,English,70.6,2.1,8.6,74.3,87.9,72.6,B,Yes
+STU00060,16,Female,9,Math,92.9,8.1,7.7,88.5,66.9,87.8,A,Yes
+STU00061,14,Male,11,Math,85.2,0.9,6.0,79.1,95.1,78.8,B,Yes
+STU00062,14,Male,10,Math,75.0,4.4,7.4,63.6,76.3,68.3,C,Yes
+STU00063,17,Male,11,Social Studies,82.8,6.3,9.4,80.5,99.6,73.3,B,Yes
+STU00064,14,Male,11,Social Studies,76.7,7.7,8.8,81.0,87.6,88.4,A,Yes
+STU00065,14,Male,11,Math,99.8,4.2,6.5,83.2,73.4,80.4,A,Yes
+STU00066,19,Female,11,Math,88.0,5.3,6.3,90.5,59.2,51.8,D,Yes
+STU00067,17,Female,11,Computer,89.4,6.3,7.2,67.4,59.5,83.0,A,Yes
+STU00068,16,Female,10,English,52.7,3.0,6.9,85.4,78.0,37.7,F,Yes
+STU00069,14,Male,9,Science,81.3,1.6,8.4,51.9,72.1,69.9,C,Yes
+STU00070,18,Other,10,Computer,100.0,8.5,7.9,74.3,61.2,71.9,B,Yes
+STU00071,17,Female,9,Science,96.6,4.9,5.2,72.2,82.5,79.7,B,Yes
+STU00072,15,Male,10,Math,61.7,3.4,7.6,96.3,70.6,71.4,B,Yes
+STU00073,18,Male,12,Science,78.6,1.1,6.9,73.8,82.6,63.1,C,Yes
+STU00074,15,Male,9,Social Studies,68.8,0.4,7.1,84.5,55.4,59.2,D,Yes
+STU00075,17,Male,9,Computer,100.0,4.3,7.4,51.3,85.0,70.5,B,Yes
+STU00076,17,Male,10,Math,84.7,0.3,8.4,71.1,77.5,70.2,B,Yes
+STU00077,15,Male,10,English,73.6,3.4,8.2,64.2,88.0,90.0,A+,Yes
+STU00078,19,Male,11,Social Studies,82.4,1.9,6.3,100.0,84.7,57.6,D,Yes
+STU00079,18,Female,11,Social Studies,53.3,2.3,7.0,66.7,68.7,23.2,F,No
+STU00080,15,Male,12,Computer,70.1,7.3,6.6,77.0,67.5,65.9,C,Yes
+STU00081,14,Female,11,Math,82.4,1.9,5.2,77.8,96.7,63.8,C,Yes
+STU00082,15,Male,10,Science,91.3,3.5,7.0,53.7,65.6,58.6,D,Yes
+STU00083,16,,12,Science,60.6,1.9,9.1,68.6,81.2,53.0,D,Yes
+STU00084,17,Female,9,Math,77.8,4.1,5.2,81.7,64.3,72.4,B,Yes
+STU00085,16,Female,9,Math,93.1,3.7,7.1,77.2,42.1,47.6,F,Yes
+STU00086,14,Female,9,Science,66.0,3.4,7.0,43.8,51.6,55.2,D,Yes
+STU00087,18,Female,11,English,84.5,6.3,7.4,68.1,76.1,79.2,B,Yes
+STU00088,16,Female,10,Science,82.7,0.9,6.0,90.3,80.5,68.8,C,Yes
+STU00089,16,Female,9,English,100.0,0.7,5.5,84.2,76.1,70.8,B,Yes
+STU00090,17,Female,10,Science,79.5,1.2,5.6,93.1,87.2,76.9,B,Yes
+STU00091,19,Male,9,Math,80.1,3.7,8.6,62.2,75.9,67.4,C,Yes
+STU00092,14,Male,11,Social Studies,91.4,4.6,6.0,93.9,58.4,66.0,C,Yes
+STU00093,19,Male,10,English,67.4,0.1,6.6,75.4,78.9,62.8,C,Yes
+STU00094,17,Female,10,Science,79.6,4.5,9.4,98.3,72.5,81.6,A,Yes
+STU00095,17,Female,10,Social Studies,77.0,2.6,6.3,76.0,61.4,68.8,C,Yes
+STU00096,14,Male,11,Social Studies,80.5,8.7,7.5,47.3,77.1,55.8,D,Yes
+STU00097,18,Female,10,Social Studies,91.3,4.3,8.3,87.9,71.2,72.1,B,Yes
+STU00098,18,Female,9,Math,88.1,8.0,8.2,69.8,60.9,63.4,C,Yes
+STU00099,17,Male,9,Computer,73.8,7.1,5.6,70.7,67.3,73.5,B,Yes
+STU00100,18,Male,12,Social Studies,83.5,2.6,6.3,55.7,91.2,72.9,B,Yes
+STU00101,19,Female,12,Social Studies,98.4,5.8,7.4,98.7,90.7,82.3,A,Yes
+STU00102,19,Male,11,Science,72.9,2.6,9.2,68.7,72.8,56.9,D,Yes
+STU00103,15,Female,10,Social Studies,83.6,9.3,6.3,98.1,70.9,87.8,A,Yes
+STU00104,18,Male,12,English,79.9,2.8,6.6,70.0,48.5,55.1,D,Yes
+STU00105,14,Female,12,English,81.3,4.7,7.6,63.0,95.8,87.9,A,Yes
+STU00106,17,Female,11,English,64.1,10.4,7.8,94.5,85.5,100.0,A+,Yes
+STU00107,14,Male,10,Computer,97.5,4.8,7.8,75.0,81.3,86.0,A,Yes
+STU00108,15,Female,10,Math,73.5,2.4,6.2,75.1,35.9,53.6,D,Yes
+STU00109,18,Male,9,English,93.3,1.1,6.5,58.1,70.6,78.0,B,Yes
+STU00110,16,Female,12,Social Studies,75.2,0.9,7.3,69.6,68.1,60.3,C,Yes
+STU00111,19,Male,10,English,75.1,4.5,8.5,82.0,80.2,67.6,C,Yes
+STU00112,14,Male,9,Science,95.3,3.1,6.8,57.8,63.2,55.6,D,Yes
+STU00113,19,Male,10,Math,92.9,1.3,7.1,68.5,66.5,54.6,D,Yes
+STU00114,18,Male,11,English,84.3,5.4,6.0,70.1,79.3,70.5,B,Yes
+STU00115,16,Female,9,Computer,90.4,5.3,9.1,76.9,58.4,75.6,B,Yes
+STU00116,14,Male,12,English,78.8,3.1,7.3,96.7,61.4,52.5,D,Yes
+STU00117,14,Female,11,Social Studies,81.9,8.3,8.3,71.8,72.9,72.7,B,Yes
+STU00118,16,Male,11,Computer,74.7,0.7,7.1,66.3,90.1,64.8,C,Yes
+STU00119,17,Male,10,English,91.9,2.4,7.2,100.0,82.1,80.9,A,Yes
+STU00120,17,Male,11,Math,74.4,4.8,5.4,69.9,86.1,68.1,C,Yes
+STU00121,15,Male,11,English,98.3,1.4,4.7,73.3,70.9,64.8,C,Yes
+STU00122,17,Male,11,Math,78.5,5.7,8.5,71.0,92.4,64.4,C,Yes
+STU00123,17,Female,9,Computer,82.2,6.9,7.2,,43.9,55.9,D,Yes
+STU00124,16,Male,10,Math,90.3,0.2,7.3,77.1,100.0,69.6,C,Yes
+STU00125,15,Male,9,Social Studies,82.3,8.4,5.7,88.9,100.0,90.4,A+,Yes
+STU00126,16,Female,10,Science,78.7,4.6,6.1,81.7,76.8,71.8,B,Yes
+STU00127,18,Male,10,English,81.7,2.2,8.3,91.1,82.5,63.0,C,Yes
+STU00128,17,Female,9,Math,91.8,0.9,9.0,90.6,69.4,65.8,C,Yes
+STU00129,14,Female,9,Science,74.7,6.3,6.4,78.9,66.9,84.1,A,Yes
+STU00130,19,Female,11,Social Studies,80.6,1.2,7.8,81.3,60.8,66.0,C,Yes
+STU00131,15,Female,9,Science,82.1,4.6,7.3,91.5,69.3,69.9,C,Yes
+STU00132,18,Male,12,English,91.5,1.3,7.0,60.4,78.3,52.7,D,Yes
+STU00133,14,Male,11,Social Studies,80.9,3.3,9.1,100.0,76.3,67.3,C,Yes
+STU00134,15,Male,10,Computer,100.0,6.1,6.6,68.8,99.8,81.7,A,Yes
+STU00135,17,Male,11,Math,80.3,2.2,8.5,71.1,71.5,67.1,C,Yes
+STU00136,19,Female,9,Science,79.4,8.4,7.5,59.0,47.7,71.9,B,Yes
+STU00137,17,Female,12,Science,80.1,4.9,7.1,59.4,94.7,76.0,B,Yes
+STU00138,14,Female,10,Science,67.5,1.4,8.6,89.6,51.7,54.5,D,Yes
+STU00139,19,Male,12,Science,70.6,1.0,7.4,100.0,61.6,56.3,D,Yes
+STU00140,15,Female,9,English,76.2,1.8,7.0,68.1,74.1,81.4,A,Yes
+STU00141,16,Male,10,Science,94.5,3.2,8.6,80.9,76.3,67.3,C,Yes
+STU00142,14,Male,10,Science,81.6,8.9,8.5,79.1,48.3,60.2,C,Yes
+STU00143,18,Male,12,English,76.7,10.0,8.4,90.0,58.8,62.8,C,Yes
+STU00144,16,Male,11,Science,95.5,2.2,3.0,100.0,47.8,56.7,D,Yes
+STU00145,15,Female,10,Science,99.1,2.1,7.6,97.3,79.3,84.0,A,Yes
+STU00146,17,Male,10,English,95.8,5.5,7.3,72.7,87.8,72.0,B,Yes
+STU00147,15,Male,10,Social Studies,72.6,5.4,7.1,83.4,51.7,79.0,B,Yes
+STU00148,17,Male,11,English,76.6,7.5,7.8,84.8,84.9,79.7,B,Yes
+STU00149,17,Male,10,English,100.0,7.7,7.4,75.7,84.0,93.8,A+,Yes
+STU00150,18,Male,9,Social Studies,84.7,1.7,7.8,60.7,60.1,50.6,D,Yes
+STU00151,18,Other,12,Computer,79.1,0.8,6.8,64.8,40.3,41.8,F,Yes
+STU00152,17,Female,12,Science,89.9,5.0,8.7,92.1,53.9,72.4,B,Yes
+STU00153,14,Male,9,Science,93.1,3.8,8.0,93.5,61.1,76.1,B,Yes
+STU00154,15,Male,11,English,75.7,0.5,7.7,73.1,93.1,63.6,C,Yes
+STU00155,17,Female,9,English,84.4,0.8,7.6,79.7,68.2,65.0,C,Yes
+STU00156,17,Male,11,Math,92.2,4.8,8.4,92.8,54.9,77.6,B,Yes
+STU00157,17,Female,10,Math,69.2,3.0,8.2,52.1,72.2,45.3,F,Yes
+STU00158,18,Male,11,Science,82.1,4.9,7.0,69.8,50.6,58.8,D,Yes
+STU00159,19,Female,11,Social Studies,69.7,1.3,8.2,100.0,77.7,62.1,C,Yes
+STU00160,17,Female,11,Computer,71.2,5.1,7.3,80.2,55.3,59.2,D,Yes
+STU00161,14,Male,9,Social Studies,75.8,4.2,9.2,60.2,57.5,66.1,C,Yes
+STU00162,16,Female,12,Math,87.2,5.4,8.3,77.6,75.6,69.4,C,Yes
+STU00163,15,Female,9,English,78.5,2.3,6.4,90.3,96.3,52.3,D,Yes
+STU00164,17,Female,9,English,74.9,1.9,9.7,40.3,100.0,63.4,C,Yes
+STU00165,17,Male,11,English,82.6,0.9,4.8,78.5,54.4,43.8,F,Yes
+STU00166,17,Male,10,English,69.4,2.6,7.8,70.8,61.1,63.9,C,Yes
+STU00167,17,Male,12,Science,86.7,6.7,6.3,53.0,77.7,78.2,B,Yes
+STU00168,15,Female,12,Math,94.4,7.9,9.2,77.1,87.5,63.6,C,Yes
+STU00169,15,Male,10,Social Studies,81.1,1.2,7.4,74.1,37.5,44.5,F,Yes
+STU00170,19,Female,12,Social Studies,79.8,3.2,6.2,75.7,71.3,67.8,C,Yes
+STU00171,16,Male,10,Math,86.1,9.0,6.8,71.1,62.7,60.6,C,Yes
+STU00172,15,Female,10,English,59.7,9.8,6.3,61.7,41.1,69.8,C,Yes
+STU00173,19,Female,10,English,87.9,2.5,6.8,55.6,49.9,65.9,C,Yes
+STU00174,14,Female,12,Computer,100.0,7.1,6.7,66.3,61.5,70.9,B,Yes
+STU00175,16,Male,9,Social Studies,80.7,6.3,6.3,88.0,70.9,65.4,C,Yes
+STU00176,18,Male,9,English,80.7,6.0,7.4,79.3,85.1,53.0,D,Yes
+STU00177,16,Female,10,Computer,90.2,0.7,7.5,75.0,75.3,72.3,B,Yes
+STU00178,19,Male,12,Social Studies,100.0,2.1,6.0,61.4,84.2,87.1,A,Yes
+STU00179,16,Male,12,Social Studies,92.7,2.9,5.3,70.8,70.4,82.2,A,Yes
+STU00180,17,Female,11,Science,58.3,2.9,7.4,86.3,59.4,57.2,D,Yes
+STU00181,16,Male,12,Social Studies,88.2,3.2,7.7,,67.2,57.4,D,Yes
+STU00182,16,Male,12,English,100.0,10.5,7.9,69.3,80.4,95.0,A+,Yes
+STU00183,16,Female,10,Math,88.8,2.6,7.7,39.4,85.5,62.3,C,Yes
+STU00184,19,Male,10,Computer,69.3,4.3,8.8,66.6,67.8,69.3,C,Yes
+STU00185,18,Female,12,Social Studies,85.1,4.2,8.2,69.2,56.1,67.3,C,Yes
+STU00186,16,Male,11,Science,67.9,3.2,10.0,63.3,75.0,65.7,C,Yes
+STU00187,16,Female,10,English,95.6,1.3,10.0,70.2,77.2,79.4,B,Yes
+STU00188,16,Male,9,Science,71.5,3.5,5.2,87.4,88.5,79.7,B,Yes
+STU00189,18,Female,11,Math,82.8,0.4,4.7,75.5,59.8,49.1,F,Yes
+STU00190,17,Male,10,Social Studies,72.6,4.6,7.1,89.9,60.0,57.0,D,Yes
+STU00191,17,Male,12,Math,76.0,0.4,7.7,54.9,81.3,33.3,F,Yes
+STU00192,16,Female,10,English,98.3,4.3,7.0,71.7,63.9,65.2,C,Yes
+STU00193,16,,9,Math,83.1,2.0,7.9,48.9,63.3,46.1,F,Yes
+STU00194,17,Other,12,Computer,75.8,1.5,6.8,70.0,88.8,68.7,C,Yes
+STU00195,18,Male,9,Social Studies,69.4,5.5,6.3,61.4,49.4,54.4,D,Yes
+STU00196,19,Female,9,Computer,61.4,2.4,6.5,93.9,100.0,68.4,C,Yes
+STU00197,14,Male,11,Computer,68.2,3.4,6.9,81.7,60.8,69.4,C,Yes
+STU00198,15,Female,12,Social Studies,83.2,0.7,8.0,90.2,83.0,72.4,B,Yes
+STU00199,18,Female,9,Social Studies,92.8,8.3,6.6,70.0,68.4,74.7,B,Yes
+STU00200,14,Male,10,Social Studies,75.8,3.6,6.8,61.7,74.1,79.8,B,Yes
+STU00201,17,Male,12,Science,99.3,3.6,7.7,61.3,66.1,74.2,B,Yes
+STU00202,16,Male,12,English,74.1,4.7,6.9,79.7,82.8,66.7,C,Yes
+STU00203,15,Female,10,Social Studies,,0.2,8.3,100.0,64.8,60.1,C,Yes
+STU00204,17,Male,9,Science,70.1,8.8,6.1,81.8,61.4,79.6,B,Yes
+STU00205,17,Male,9,Computer,92.9,2.5,5.8,70.8,97.2,73.6,B,Yes
+STU00206,18,Female,9,Math,100.0,,7.4,73.4,70.4,68.9,C,Yes
+STU00207,18,Male,9,Social Studies,62.6,2.5,7.5,75.6,59.9,66.4,C,Yes
+STU00208,19,Female,11,Computer,78.2,2.0,6.1,100.0,47.6,72.2,B,Yes
+STU00209,16,Female,9,Computer,95.9,4.5,8.6,93.3,98.0,96.1,A+,Yes
+STU00210,18,Male,10,Social Studies,66.1,11.8,9.2,79.6,61.7,95.6,A+,Yes
+STU00211,18,Male,11,Science,88.2,7.1,6.4,77.5,100.0,100.0,A+,Yes
+STU00212,19,Female,11,English,95.4,4.8,8.7,80.2,76.0,93.4,A+,Yes
+STU00213,17,Female,9,Social Studies,82.9,4.4,4.5,82.9,72.1,70.4,B,Yes
+STU00214,15,Female,12,Math,88.1,3.5,8.3,70.2,72.5,66.4,C,Yes
+STU00215,16,Male,11,Social Studies,100.0,8.2,6.2,64.2,100.0,66.2,C,Yes
+STU00216,15,Female,11,Science,100.0,5.6,8.2,90.5,37.1,69.4,C,Yes
+STU00217,15,Male,9,English,81.3,0.9,6.0,76.3,73.2,65.6,C,Yes
+STU00218,15,Other,9,English,76.1,1.5,7.0,89.3,66.0,62.7,C,Yes
+STU00219,16,Female,12,Computer,71.9,4.9,6.2,99.0,66.8,50.5,D,Yes
+STU00220,18,Male,10,Social Studies,92.7,1.2,6.9,83.3,72.2,62.9,C,Yes
+STU00221,15,Male,10,Science,66.9,3.6,9.1,81.0,66.0,71.8,B,Yes
+STU00222,15,Male,10,Math,79.2,5.9,7.0,100.0,72.8,65.5,C,Yes
+STU00223,14,Female,11,English,83.1,4.5,9.4,78.9,69.6,73.3,B,Yes
+STU00224,15,Female,12,Computer,76.5,1.1,6.7,60.7,50.3,55.4,D,Yes
+STU00225,16,Female,10,Computer,85.1,1.5,8.7,72.1,75.7,76.8,B,Yes
+STU00226,16,Male,12,Computer,100.0,4.6,5.3,97.7,80.7,94.6,A+,Yes
+STU00227,16,Male,9,Science,80.7,11.0,6.8,57.9,61.9,70.8,B,Yes
+STU00228,15,Female,11,Social Studies,77.2,3.1,6.5,65.5,98.0,71.2,B,Yes
+STU00229,16,Female,11,Math,93.2,6.1,8.8,91.5,90.0,86.7,A,Yes
+STU00230,17,Male,9,Math,84.6,4.5,7.3,72.2,82.7,78.3,B,Yes
+STU00231,14,Female,9,Math,97.8,2.0,4.8,74.5,82.5,72.5,B,Yes
+STU00232,19,Female,10,Social Studies,83.8,6.1,5.7,91.0,70.5,87.5,A,Yes
+STU00233,15,Male,12,Math,79.3,0.7,6.0,66.0,87.1,38.1,F,Yes
+STU00234,14,Female,11,Computer,62.4,5.8,8.1,55.4,93.6,74.3,B,Yes
+STU00235,15,Female,12,Social Studies,64.2,4.7,8.0,56.6,82.1,70.1,B,Yes
+STU00236,17,Female,12,Computer,61.8,2.1,6.8,84.1,61.4,55.4,D,Yes
+STU00237,17,Female,10,Social Studies,86.2,1.4,6.5,79.6,69.4,40.1,F,Yes
+STU00238,14,Male,12,Math,67.0,2.3,7.9,66.3,78.6,61.3,C,Yes
+STU00239,16,Male,9,English,95.8,1.9,5.9,59.8,82.6,57.7,D,Yes
+STU00240,15,Male,9,English,82.3,2.7,7.6,72.2,68.8,80.9,A,Yes
+STU00241,19,,12,Computer,79.3,,7.5,91.6,61.5,68.5,C,Yes
+STU00242,15,Male,12,Computer,72.7,2.1,6.8,64.3,93.8,57.3,D,Yes
+STU00243,19,Female,9,English,88.8,0.7,7.5,66.7,53.9,35.6,F,Yes
+STU00244,17,Male,11,Science,73.2,1.2,7.2,59.3,55.9,58.4,D,Yes
+STU00245,19,Female,11,Math,71.2,6.8,7.6,70.9,50.1,71.4,B,Yes
+STU00246,17,Male,12,English,95.1,2.2,5.6,80.7,55.8,59.4,D,Yes
+STU00247,14,Female,11,Science,85.9,2.8,7.8,100.0,88.7,82.5,A,Yes
+STU00248,17,Female,10,English,79.4,2.4,8.2,79.0,89.2,67.2,C,Yes
+STU00249,16,Male,10,Computer,89.1,8.4,7.5,75.2,68.9,88.2,A,Yes
+STU00250,18,Female,10,English,82.1,1.8,7.8,88.1,77.4,78.0,B,Yes
+STU00251,16,Female,11,English,86.2,1.7,7.0,85.7,69.8,48.9,F,Yes
+STU00252,15,Male,12,Math,73.0,4.8,8.1,67.9,52.1,47.4,F,Yes
+STU00253,14,Male,10,Computer,100.0,3.8,7.2,100.0,100.0,100.0,A+,Yes
+STU00254,18,Female,10,English,75.6,4.9,5.8,75.7,90.6,81.0,A,Yes
+STU00255,15,Male,9,Math,99.1,4.7,8.0,79.3,75.3,62.9,C,Yes
+STU00256,18,Male,11,Science,79.9,6.2,5.3,83.7,57.2,51.2,D,Yes
+STU00257,14,Male,12,Computer,90.9,1.0,7.4,80.8,66.6,65.6,C,Yes
+STU00258,14,,9,Social Studies,90.1,4.5,6.7,97.4,59.6,59.4,D,Yes
+STU00259,18,Male,9,English,94.6,1.7,6.6,67.7,71.5,60.3,C,Yes
+STU00260,16,Male,11,Social Studies,72.8,0.5,7.3,87.0,74.6,61.4,C,Yes
+STU00261,17,Male,9,Math,93.8,4.7,6.3,78.3,64.9,68.3,C,Yes
+STU00262,14,Male,12,Science,100.0,4.5,7.7,89.8,48.2,80.8,A,Yes
+STU00263,15,Female,10,Social Studies,79.2,3.3,7.2,73.0,100.0,91.4,A+,Yes
+STU00264,14,Female,9,Math,82.4,6.3,6.4,71.1,73.6,66.2,C,Yes
+STU00265,15,Female,12,Computer,76.2,1.7,8.6,86.2,76.8,55.7,D,Yes
+STU00266,15,Male,9,Science,78.2,5.2,7.3,81.0,63.7,72.1,B,Yes
+STU00267,16,Female,10,Science,100.0,2.9,7.8,64.5,46.6,77.2,B,Yes
+STU00268,15,Male,9,English,71.0,3.1,8.7,94.8,68.8,64.3,C,Yes
+STU00269,16,Male,9,Science,,0.6,8.6,86.3,65.2,69.1,C,Yes
+STU00270,19,Other,9,Social Studies,99.7,6.3,7.7,75.0,80.6,70.8,B,Yes
+STU00271,14,Female,9,Social Studies,88.9,4.4,6.8,69.4,83.6,71.8,B,Yes
+STU00272,19,Male,9,English,100.0,5.0,5.5,81.1,81.5,63.8,C,Yes
+STU00273,16,,9,English,77.0,1.5,7.3,85.2,84.8,67.4,C,Yes
+STU00274,17,Female,11,Math,83.4,4.0,8.3,53.7,97.1,70.9,B,Yes
+STU00275,18,Male,11,Science,74.7,2.9,7.5,81.3,75.8,72.6,B,Yes
+STU00276,18,Female,10,Math,83.6,4.5,3.3,85.1,86.5,88.2,A,Yes
+STU00277,19,Male,10,Social Studies,62.5,3.9,8.1,43.1,77.4,55.5,D,Yes
+STU00278,19,Male,10,Science,89.5,9.4,8.1,78.7,41.5,53.4,D,Yes
+STU00279,14,Female,12,Science,85.6,7.6,6.8,85.7,67.7,74.1,B,Yes
+STU00280,16,Female,12,Social Studies,81.4,2.7,8.2,84.1,57.0,66.7,C,Yes
+STU00281,17,Female,9,Computer,77.7,4.7,7.8,87.2,73.5,73.7,B,Yes
+STU00282,17,Female,9,Computer,72.2,,6.3,71.4,58.1,55.2,D,Yes
+STU00283,19,Male,9,Math,90.0,,8.5,61.4,79.1,89.5,A,Yes
+STU00284,17,Female,10,English,69.1,3.0,5.7,50.8,84.7,61.1,C,Yes
+STU00285,16,Female,11,English,87.6,2.3,7.0,91.3,88.1,72.0,B,Yes
+STU00286,19,Male,10,Science,100.0,4.0,6.9,85.8,94.3,71.9,B,Yes
+STU00287,18,Male,9,Computer,98.3,7.2,6.2,92.4,44.9,54.9,D,Yes
+STU00288,18,Male,10,Social Studies,65.4,6.5,7.4,65.8,52.0,65.1,C,Yes
+STU00289,17,Male,11,Science,76.1,2.4,8.5,87.3,100.0,77.5,B,Yes
+STU00290,14,Female,9,Science,86.6,8.9,8.5,55.0,85.1,69.1,C,Yes
+STU00291,19,Male,12,Science,81.2,1.6,7.9,63.8,73.4,61.2,C,Yes
+STU00292,18,Female,9,Social Studies,66.6,2.0,5.2,77.8,70.5,56.6,D,Yes
+STU00293,14,Male,12,Math,86.2,6.0,5.6,85.3,69.1,65.6,C,Yes
+STU00294,15,Other,9,Social Studies,81.9,0.5,7.3,99.5,41.0,49.0,F,Yes
+STU00295,16,,12,Computer,100.0,3.4,7.1,72.6,58.4,70.0,B,Yes
+STU00296,15,Male,12,English,79.2,2.7,6.6,63.9,68.3,58.2,D,Yes
+STU00297,17,Male,12,English,94.8,9.2,9.2,63.2,59.3,71.4,B,Yes
+STU00298,17,Female,12,Social Studies,68.1,1.4,7.2,66.4,61.2,46.0,F,Yes
+STU00299,15,Male,12,Computer,70.7,1.5,7.7,100.0,100.0,72.3,B,Yes
+STU00300,18,Male,11,Science,89.9,10.0,8.2,86.6,66.2,92.5,A+,Yes
+STU00301,15,Other,12,Math,93.9,2.7,7.2,91.6,74.2,73.7,B,Yes
+STU00302,14,Male,9,Computer,71.5,7.0,10.0,72.7,73.6,72.3,B,Yes
+STU00303,19,Female,11,Math,82.3,2.4,6.1,76.0,78.8,68.4,C,Yes
+STU00304,15,Male,10,Math,66.8,2.0,6.4,85.8,62.8,72.6,B,Yes
+STU00305,15,Female,12,Social Studies,80.0,7.3,6.1,68.9,88.7,80.8,A,Yes
+STU00306,18,Female,10,English,91.2,11.6,8.8,71.9,76.7,90.1,A+,Yes
+STU00307,18,Female,10,Computer,77.2,7.6,8.0,66.6,50.7,73.5,B,Yes
+STU00308,14,Male,11,Science,79.3,2.3,6.5,69.7,68.4,59.2,D,Yes
+STU00309,14,Female,10,Math,69.6,3.3,6.1,76.7,67.4,63.1,C,Yes
+STU00310,19,Female,9,Math,74.9,1.6,8.6,64.5,66.7,54.5,D,Yes
+STU00311,17,Female,10,Science,100.0,1.8,7.5,80.0,77.6,54.6,D,Yes
+STU00312,16,Male,10,Math,82.8,1.7,8.7,80.0,79.5,71.5,B,Yes
+STU00313,16,Male,9,English,71.0,2.4,7.0,73.5,77.7,66.5,C,Yes
+STU00314,17,Female,10,Science,78.5,3.7,7.7,64.4,75.1,62.7,C,Yes
+STU00315,18,Female,10,English,64.4,3.4,7.4,77.5,71.3,73.5,B,Yes
+STU00316,14,Male,10,English,70.8,5.4,6.4,68.9,37.7,49.0,F,Yes
+STU00317,15,Female,10,Science,97.0,3.8,6.9,76.7,81.7,55.5,D,Yes
+STU00318,19,Male,11,English,80.4,5.1,5.8,91.4,77.3,65.6,C,Yes
+STU00319,15,Female,10,Math,100.0,5.7,7.6,58.5,55.2,52.1,D,Yes
+STU00320,19,Male,12,Science,81.0,2.3,7.9,100.0,74.2,73.9,B,Yes
+STU00321,16,Female,12,Social Studies,81.6,3.0,8.2,75.0,79.7,61.4,C,Yes
+STU00322,15,Male,10,Social Studies,89.0,12.0,7.8,81.8,87.6,100.0,A+,Yes
+STU00323,17,Female,10,English,52.6,2.2,7.0,65.5,77.7,66.7,C,Yes
+STU00324,17,Male,11,Social Studies,84.3,5.3,8.8,92.0,74.8,67.6,C,Yes
+STU00325,16,Other,12,English,81.5,1.1,8.1,74.2,84.2,58.0,D,Yes
+STU00326,18,Male,11,Math,98.3,5.8,8.6,70.5,65.4,79.1,B,Yes
+STU00327,14,Female,12,Social Studies,92.6,1.9,8.7,67.9,76.2,77.1,B,Yes
+STU00328,14,Female,11,English,69.5,3.5,7.0,72.2,60.7,39.8,F,Yes
+STU00329,17,Male,11,Computer,95.7,0.9,7.5,81.9,86.7,73.1,B,Yes
+STU00330,17,Male,10,Computer,79.1,3.2,8.0,78.4,45.9,37.8,F,Yes
+STU00331,18,Female,11,Science,72.1,3.3,5.8,75.4,82.3,59.9,D,Yes
+STU00332,19,Female,9,Computer,84.2,2.9,5.9,,70.3,73.0,B,Yes
+STU00333,19,Female,11,English,79.8,4.5,5.7,65.2,84.5,98.0,A+,Yes
+STU00334,17,Male,12,Science,98.9,6.9,7.0,69.5,58.3,69.6,C,Yes
+STU00335,17,Male,9,Science,85.7,1.5,6.7,,71.3,51.7,D,Yes
+STU00336,19,Male,11,Computer,84.3,3.0,5.5,85.3,70.9,60.7,C,Yes
+STU00337,19,Male,9,Science,91.9,1.0,7.3,87.2,76.5,68.3,C,Yes
+STU00338,14,Female,11,Math,94.0,0.6,7.0,76.0,54.3,51.8,D,Yes
+STU00339,17,Female,9,Social Studies,90.6,3.8,8.4,81.4,79.5,64.7,C,Yes
+STU00340,19,Female,12,Science,97.6,1.4,9.3,73.6,42.3,55.5,D,Yes
+STU00341,14,Male,9,Computer,88.7,3.4,7.6,51.6,60.0,64.3,C,Yes
+STU00342,19,Female,12,Computer,83.8,3.9,6.3,73.0,46.6,57.5,D,Yes
+STU00343,18,Female,12,Social Studies,95.6,0.7,7.8,70.7,82.4,58.0,D,Yes
+STU00344,14,Female,11,Computer,81.0,4.3,7.1,61.5,76.0,59.6,D,Yes
+STU00345,17,Female,12,Computer,82.4,6.7,6.8,68.1,76.8,68.5,C,Yes
+STU00346,16,Male,12,Social Studies,100.0,5.0,6.2,77.9,92.1,68.6,C,Yes
+STU00347,16,Female,12,Social Studies,99.8,1.5,6.6,60.1,65.3,53.9,D,Yes
+STU00348,17,Female,10,Math,81.9,3.2,6.9,66.0,79.1,72.3,B,Yes
+STU00349,18,Male,11,Computer,77.0,3.5,8.0,97.7,71.0,68.5,C,Yes
+STU00350,19,Female,9,Math,98.1,3.0,7.7,53.6,68.7,47.0,F,Yes
+STU00351,16,Female,11,Social Studies,90.8,1.1,9.1,73.4,89.6,80.9,A,Yes
+STU00352,14,Female,9,Math,85.5,1.7,7.8,59.7,100.0,73.5,B,Yes
+STU00353,19,Male,11,Science,78.5,2.8,7.6,65.5,63.5,46.8,F,Yes
+STU00354,16,Female,11,Math,85.6,3.8,6.8,73.2,82.5,66.5,C,Yes
+STU00355,18,Male,10,Computer,81.8,2.1,6.0,62.2,74.8,52.7,D,Yes
+STU00356,18,Male,11,Math,74.7,0.5,6.5,84.0,75.0,67.6,C,Yes
+STU00357,14,Male,11,Math,83.4,2.2,6.3,94.9,73.7,64.0,C,Yes
+STU00358,16,Female,12,English,84.9,9.4,4.3,87.8,65.0,75.5,B,Yes
+STU00359,14,Male,10,Social Studies,77.9,4.3,6.0,90.3,16.2,51.4,D,Yes
+STU00360,17,Female,11,English,91.9,3.8,8.9,56.7,93.0,58.9,D,Yes
+STU00361,18,Female,12,English,96.2,1.7,7.5,72.6,59.6,76.6,B,Yes
+STU00362,17,Male,9,Computer,92.7,2.3,6.7,82.5,66.4,72.5,B,Yes
+STU00363,15,Female,9,English,79.0,0.5,7.5,88.2,66.7,54.0,D,Yes
+STU00364,19,,9,Science,,1.6,5.0,100.0,58.2,65.1,C,Yes
+STU00365,14,Female,11,English,82.9,4.2,7.4,91.0,73.6,81.9,A,Yes
+STU00366,14,Female,10,Math,68.4,3.8,8.5,88.6,69.3,68.3,C,Yes
+STU00367,16,Female,12,Science,89.4,2.0,7.0,100.0,59.3,82.0,A,Yes
+STU00368,19,Male,11,Computer,83.6,3.0,5.2,77.3,72.2,93.3,A+,Yes
+STU00369,19,Male,10,Science,100.0,3.4,6.6,72.0,69.5,67.1,C,Yes
+STU00370,17,Female,12,Math,98.0,2.1,8.5,78.5,83.9,67.1,C,Yes
+STU00371,19,Male,11,Math,89.8,4.5,7.4,63.2,49.9,52.2,D,Yes
+STU00372,19,Female,10,Social Studies,84.7,3.7,5.5,76.9,57.9,39.9,F,Yes
+STU00373,17,Female,10,Science,83.8,2.4,9.7,51.8,80.9,78.2,B,Yes
+STU00374,14,Female,10,Math,71.0,1.1,5.7,68.6,60.4,49.6,F,Yes
+STU00375,19,Female,9,Computer,62.9,2.3,6.8,74.4,56.4,63.8,C,Yes
+STU00376,17,Female,9,English,72.4,2.1,6.0,,61.1,70.9,B,Yes
+STU00377,14,Female,12,English,81.5,2.0,6.0,91.6,68.5,53.6,D,Yes
+STU00378,19,Female,10,Social Studies,58.8,0.8,6.6,62.5,68.5,42.6,F,Yes
+STU00379,16,Male,10,Science,76.0,7.8,7.8,100.0,66.9,95.7,A+,Yes
+STU00380,18,Female,11,English,79.3,7.6,8.5,78.1,54.6,70.9,B,Yes
+STU00381,15,Female,11,Computer,79.6,2.9,6.7,79.4,81.6,61.3,C,Yes
+STU00382,14,Female,12,Computer,74.7,3.8,6.0,53.4,89.9,54.4,D,Yes
+STU00383,16,Male,12,Science,78.2,4.4,7.6,67.3,41.3,56.5,D,Yes
+STU00384,16,Female,10,Computer,100.0,2.9,7.7,90.7,46.7,81.1,A,Yes
+STU00385,19,Male,10,Computer,89.3,4.0,7.4,78.4,85.0,80.7,A,Yes
+STU00386,14,Female,12,Math,75.8,4.9,7.4,77.5,93.5,76.7,B,Yes
+STU00387,19,Female,11,Math,81.2,3.6,7.0,79.2,38.1,73.7,B,Yes
+STU00388,14,Male,12,Computer,81.7,5.5,7.2,55.8,82.2,83.5,A,Yes
+STU00389,19,Female,9,Math,,1.9,6.9,74.6,94.6,70.8,B,Yes
+STU00390,18,Female,12,Social Studies,73.5,3.2,8.3,95.7,57.1,93.2,A+,Yes
+STU00391,16,Female,11,Math,93.1,12.0,9.6,91.2,93.7,95.8,A+,Yes
+STU00392,19,Other,9,Social Studies,77.4,6.3,7.3,74.2,67.3,80.9,A,Yes
+STU00393,16,Male,11,Computer,70.0,3.7,7.1,97.9,74.7,65.7,C,Yes
+STU00394,17,Male,11,English,81.5,1.5,7.4,58.4,59.2,64.9,C,Yes
+STU00395,14,Other,9,Science,83.3,3.3,6.4,62.4,85.0,64.2,C,Yes
+STU00396,14,Female,10,Science,60.3,6.0,7.9,100.0,82.5,80.3,A,Yes
+STU00397,16,Male,12,Computer,81.6,5.2,7.6,84.1,95.9,100.0,A+,Yes
+STU00398,15,Female,10,Computer,91.5,0.6,6.6,72.0,91.6,76.6,B,Yes
+STU00399,15,Male,10,Science,87.0,0.8,8.1,75.2,69.9,67.6,C,Yes
+STU00400,16,Female,10,English,100.0,0.8,7.1,64.7,100.0,63.1,C,Yes
+STU00401,17,Female,10,Social Studies,,4.5,6.0,79.9,90.3,78.2,B,Yes
+STU00402,14,Male,12,Science,97.9,0.8,7.5,78.8,78.1,57.5,D,Yes
+STU00403,18,Female,12,Computer,,1.4,7.4,76.3,55.0,71.0,B,Yes
+STU00404,19,Other,9,Math,90.3,2.9,8.2,59.8,47.0,67.0,C,Yes
+STU00405,19,Female,12,Social Studies,83.8,6.7,8.0,79.7,48.3,66.9,C,Yes
+STU00406,15,Male,12,Math,92.7,4.6,7.0,68.6,56.0,81.8,A,Yes
+STU00407,19,Male,10,Science,75.8,2.6,6.6,62.2,90.7,80.7,A,Yes
+STU00408,14,Female,12,English,83.2,5.6,7.1,93.7,77.3,77.7,B,Yes
+STU00409,14,Male,9,Science,74.9,11.2,7.5,100.0,60.8,88.4,A,Yes
+STU00410,18,Male,12,Math,86.4,3.3,7.6,100.0,68.0,65.7,C,Yes
+STU00411,18,Male,11,Computer,74.8,1.1,7.4,85.1,66.1,58.1,D,Yes
+STU00412,14,Female,11,Math,74.4,,7.0,72.3,82.0,52.2,D,Yes
+STU00413,16,Male,9,Social Studies,86.5,1.5,8.2,75.0,56.8,55.8,D,Yes
+STU00414,16,Male,12,Math,80.5,1.8,6.4,81.7,75.2,63.1,C,Yes
+STU00415,18,Female,9,Science,60.8,2.5,9.8,70.1,74.5,46.2,F,Yes
+STU00416,17,Female,10,Social Studies,66.0,3.9,7.9,94.5,57.3,70.3,B,Yes
+STU00417,17,Female,9,Math,69.4,0.9,5.9,47.5,93.8,67.9,C,Yes
+STU00418,14,Male,12,Math,72.3,1.1,7.3,71.9,65.6,57.3,D,Yes
+STU00419,19,Female,9,Computer,86.6,4.8,7.9,87.2,55.1,41.8,F,Yes
+STU00420,17,Male,12,Math,84.4,2.2,6.7,64.2,82.8,62.3,C,Yes
+STU00421,18,Other,11,Social Studies,93.7,1.6,5.5,72.6,70.8,48.6,F,Yes
+STU00422,16,Female,9,English,90.3,2.7,6.0,84.3,76.1,62.3,C,Yes
+STU00423,15,Female,9,Social Studies,93.8,7.5,7.7,97.3,52.2,91.3,A+,Yes
+STU00424,18,Male,9,Science,88.7,5.3,5.2,57.9,82.2,44.4,F,Yes
+STU00425,15,Female,11,Math,84.3,5.1,5.5,56.8,100.0,64.3,C,Yes
+STU00426,15,Male,12,Social Studies,94.1,9.2,7.7,62.8,51.1,81.3,A,Yes
+STU00427,17,Male,9,Computer,92.1,4.0,6.9,54.5,75.3,59.3,D,Yes
+STU00428,16,Male,12,Social Studies,86.1,9.7,6.3,55.5,58.2,63.3,C,Yes
+STU00429,19,Female,9,Science,96.0,10.2,6.6,62.4,100.0,100.0,A+,Yes
+STU00430,17,Male,12,English,56.2,1.0,5.5,93.3,88.6,66.0,C,Yes
+STU00431,16,Male,12,English,78.8,0.7,7.6,71.6,74.2,70.1,B,Yes
+STU00432,14,Female,12,English,78.6,1.4,6.2,76.4,51.6,60.0,C,Yes
+STU00433,16,Male,11,Science,94.7,7.0,6.5,62.6,55.2,70.0,B,Yes
+STU00434,14,Male,12,Science,99.3,2.7,7.5,84.9,81.2,86.4,A,Yes
+STU00435,15,Male,9,Computer,66.0,2.5,6.8,100.0,49.6,78.4,B,Yes
+STU00436,15,Female,9,Math,97.5,5.7,6.3,63.6,50.0,48.1,F,Yes
+STU00437,17,Female,9,Science,69.1,2.1,4.9,100.0,70.1,62.4,C,Yes
+STU00438,14,Female,10,Science,69.4,3.7,7.5,81.1,72.0,65.4,C,Yes
+STU00439,14,Female,11,Math,79.4,4.8,7.2,76.2,75.7,65.7,C,Yes
+STU00440,14,Female,11,Math,78.5,1.5,6.5,81.6,63.4,69.8,C,Yes
+STU00441,19,Other,12,English,64.9,1.2,6.0,81.5,83.8,64.0,C,Yes
+STU00442,19,Female,9,Math,89.1,3.3,7.1,100.0,57.1,87.8,A,Yes
+STU00443,15,Male,11,Science,89.5,3.6,7.6,83.3,79.4,83.7,A,Yes
+STU00444,16,Female,9,English,93.6,5.4,7.2,83.6,73.2,88.7,A,Yes
+STU00445,15,Female,10,Social Studies,77.2,1.4,8.9,70.1,79.0,52.4,D,Yes
+STU00446,17,Female,11,Math,81.6,1.8,7.9,87.7,87.7,62.9,C,Yes
+STU00447,17,Female,12,English,81.7,10.1,7.0,62.6,63.2,67.4,C,Yes
+STU00448,15,Male,11,Math,100.0,6.2,7.9,77.5,60.1,87.2,A,Yes
+STU00449,17,Male,9,English,50.8,2.9,7.2,100.0,44.7,46.3,F,Yes
+STU00450,14,Male,11,English,71.5,6.9,7.1,40.9,39.7,45.8,F,Yes
+STU00451,17,Female,9,Computer,82.1,1.4,8.5,79.3,67.4,52.4,D,Yes
+STU00452,18,Male,12,English,,2.7,6.1,79.8,68.4,88.6,A,Yes
+STU00453,14,Female,11,Social Studies,79.2,3.6,7.1,72.8,53.7,59.1,D,Yes
+STU00454,18,Male,9,Math,80.6,2.5,8.4,73.1,56.9,66.5,C,Yes
+STU00455,18,Male,9,Math,74.8,2.5,7.4,77.3,92.9,58.2,D,Yes
+STU00456,19,Female,9,Math,82.7,5.2,6.7,72.5,83.1,81.8,A,Yes
+STU00457,18,Female,12,Science,88.9,6.3,5.2,79.1,51.1,48.6,F,Yes
+STU00458,14,Female,10,Math,79.4,2.3,4.6,69.2,63.4,47.2,F,Yes
+STU00459,14,Female,12,Math,77.0,1.0,9.4,100.0,76.1,62.0,C,Yes
+STU00460,14,Male,11,Science,80.2,0.8,7.4,72.5,60.6,59.6,D,Yes
+STU00461,17,Male,11,Social Studies,81.9,0.4,6.5,84.0,57.9,49.5,F,Yes
+STU00462,18,Male,9,Social Studies,62.9,9.1,7.5,66.6,64.9,85.6,A,Yes
+STU00463,17,Female,12,Math,87.1,5.2,6.1,89.1,86.4,81.7,A,Yes
+STU00464,15,Male,10,Social Studies,77.0,4.5,6.7,86.3,87.7,66.7,C,Yes
+STU00465,15,Female,11,Science,95.9,2.0,6.1,,59.0,73.1,B,Yes
+STU00466,14,Male,11,English,88.5,2.0,5.5,61.6,76.9,57.8,D,Yes
+STU00467,16,Female,11,Science,94.9,6.4,4.8,65.5,69.9,64.0,C,Yes
+STU00468,15,Female,12,English,70.9,0.7,5.3,99.6,54.9,65.4,C,Yes
+STU00469,15,Male,9,Computer,77.9,2.3,8.2,65.3,65.5,36.2,F,Yes
+STU00470,14,Female,10,Computer,68.3,7.0,6.0,85.0,51.0,72.7,B,Yes
+STU00471,15,Female,10,English,74.2,2.3,7.7,62.8,87.4,57.9,D,Yes
+STU00472,19,Male,10,Computer,95.8,5.0,8.2,90.1,93.3,75.7,B,Yes
+STU00473,15,Female,9,Computer,98.4,3.0,7.1,66.4,63.8,84.7,A,Yes
+STU00474,19,Male,9,Math,69.4,0.2,6.8,62.5,60.3,45.7,F,Yes
+STU00475,14,Male,10,Science,77.0,2.9,7.2,66.0,85.8,76.0,B,Yes
+STU00476,17,Male,10,Math,81.2,3.4,6.6,68.2,88.2,71.5,B,Yes
+STU00477,14,Male,10,Computer,,2.8,8.4,81.7,53.3,68.0,C,Yes
+STU00478,16,Male,11,English,62.6,1.2,9.2,77.0,67.8,56.9,D,Yes
+STU00479,19,Male,11,Computer,64.4,2.8,8.7,60.7,69.1,56.5,D,Yes
+STU00480,18,Male,10,English,87.4,0.5,4.7,75.6,58.4,70.4,B,Yes
+STU00481,17,Male,10,Science,60.6,2.3,6.6,60.0,75.8,66.2,C,Yes
+STU00482,17,Female,9,Math,77.1,5.3,7.1,85.0,59.5,62.5,C,Yes
+STU00483,17,Female,11,Social Studies,83.8,8.8,7.6,87.6,61.9,67.3,C,Yes
+STU00484,18,Male,10,Science,86.6,7.8,5.2,75.7,68.5,67.2,C,Yes
+STU00485,17,Female,9,Math,80.4,1.3,5.2,79.8,47.7,63.5,C,Yes
+STU00486,17,Female,10,Science,78.0,0.9,8.5,100.0,39.2,69.7,C,Yes
+STU00487,14,Female,10,Social Studies,91.3,3.6,6.5,73.8,83.8,76.7,B,Yes
+STU00488,19,Male,9,Science,85.1,3.2,5.5,62.8,58.9,42.4,F,Yes
+STU00489,17,Female,11,Social Studies,74.9,4.8,5.9,84.1,100.0,83.3,A,Yes
+STU00490,15,Male,11,English,82.4,1.9,7.5,60.1,99.6,81.7,A,Yes
+STU00491,14,Male,11,Social Studies,86.2,3.3,6.2,73.1,62.4,64.6,C,Yes
+STU00492,17,Male,11,Computer,100.0,3.2,7.4,67.6,100.0,96.4,A+,Yes
+STU00493,18,Female,11,Math,90.6,2.4,6.0,66.2,84.1,53.3,D,Yes
+STU00494,18,Male,10,English,95.4,0.7,5.2,72.5,60.3,64.7,C,Yes
+STU00495,19,Male,12,English,75.3,5.2,8.7,88.6,31.3,51.5,D,Yes
+STU00496,19,Female,11,Science,76.2,3.6,7.5,,80.3,82.1,A,Yes
+STU00497,17,Male,10,English,79.4,5.5,6.7,89.0,70.5,78.0,B,Yes
+STU00498,19,Female,11,Math,80.4,6.4,6.5,80.7,76.5,91.7,A+,Yes
+STU00499,14,Male,10,Computer,70.9,3.0,8.7,72.4,66.6,68.0,C,Yes
+STU00500,16,Female,10,Social Studies,95.9,5.3,7.8,43.0,52.8,58.2,D,Yes
+STU00501,16,Male,11,Math,91.7,8.9,8.4,81.1,63.6,75.0,B,Yes
+STU00502,18,Male,12,English,78.6,10.8,6.5,44.1,80.6,73.4,B,Yes
+STU00503,15,Female,12,Computer,89.1,4.0,7.2,49.1,64.7,56.9,D,Yes
+STU00504,15,Male,10,Math,84.5,4.2,7.5,73.7,64.6,80.1,A,Yes
+STU00505,19,Female,11,Science,89.9,3.9,6.5,79.7,47.2,75.1,B,Yes
+STU00506,17,Male,12,Science,67.2,4.7,7.0,69.7,71.4,49.4,F,Yes
+STU00507,17,Male,10,Math,80.4,6.2,6.5,97.5,53.3,70.5,B,Yes
+STU00508,15,Female,12,Social Studies,81.4,3.8,7.5,82.5,83.8,72.9,B,Yes
+STU00509,17,Female,10,English,88.9,10.4,5.6,72.5,59.0,68.1,C,Yes
+STU00510,16,Male,9,Computer,75.1,9.4,7.7,95.4,65.6,84.2,A,Yes
+STU00511,17,Female,9,English,54.5,3.4,7.4,97.9,100.0,87.7,A,Yes
+STU00512,19,Male,12,Social Studies,70.1,3.4,6.9,83.2,65.4,72.2,B,Yes
+STU00513,15,Male,9,Social Studies,81.3,2.2,7.6,65.1,63.4,73.4,B,Yes
+STU00514,18,Male,10,Computer,82.7,4.8,6.7,68.3,78.8,62.2,C,Yes
+STU00515,17,Female,10,Science,100.0,2.5,6.4,55.7,43.2,56.1,D,Yes
+STU00516,16,Male,9,English,88.4,2.2,7.7,75.4,88.8,63.2,C,Yes
+STU00517,19,Male,10,Social Studies,82.9,4.8,7.7,61.3,84.9,73.3,B,Yes
+STU00518,14,Female,11,English,81.6,1.3,6.5,71.4,77.9,65.5,C,Yes
+STU00519,18,Female,9,English,94.1,6.3,6.4,79.6,19.3,69.7,C,Yes
+STU00520,16,Female,12,Math,75.5,4.9,6.9,48.2,66.1,73.8,B,Yes
+STU00521,18,Female,12,Social Studies,80.5,9.1,6.5,58.3,50.9,74.3,B,Yes
+STU00522,14,Male,10,Computer,70.0,4.0,8.8,68.9,86.9,61.3,C,Yes
+STU00523,18,Female,9,Science,97.6,5.4,7.4,75.3,85.8,64.5,C,Yes
+STU00524,14,Male,11,English,86.3,5.9,7.1,69.1,75.8,77.4,B,Yes
+STU00525,16,Female,9,English,74.2,7.4,6.1,72.2,52.0,80.2,A,Yes
+STU00526,19,Female,10,Math,,3.7,7.9,66.1,92.4,71.3,B,Yes
+STU00527,17,Female,12,Social Studies,87.6,2.2,6.4,55.7,66.1,43.5,F,Yes
+STU00528,16,Male,12,Social Studies,79.2,4.1,6.4,68.5,97.1,92.8,A+,Yes
+STU00529,15,Male,12,Social Studies,76.1,6.3,7.9,73.0,74.0,76.8,B,Yes
+STU00530,14,Female,10,Science,74.8,6.9,7.5,71.7,77.6,74.8,B,Yes
+STU00531,14,Male,11,Science,85.7,0.7,4.3,77.6,63.1,44.7,F,Yes
+STU00532,18,Female,11,Math,78.1,12.0,6.9,81.9,91.1,89.3,A,Yes
+STU00533,15,Female,10,Computer,77.0,2.2,7.2,85.5,79.1,73.9,B,Yes
+STU00534,14,Female,11,Science,67.3,5.5,6.7,67.1,91.6,75.7,B,Yes
+STU00535,16,Other,9,Social Studies,82.9,8.0,7.3,53.9,72.7,65.1,C,Yes
+STU00536,16,Male,9,Social Studies,80.0,3.1,5.1,93.8,69.3,65.3,C,Yes
+STU00537,19,Male,11,Math,78.5,7.0,4.0,81.4,78.9,66.1,C,Yes
+STU00538,15,Female,9,Social Studies,84.2,0.7,6.0,62.6,91.6,79.7,B,Yes
+STU00539,15,Female,9,Math,90.2,7.2,7.4,79.9,85.3,89.7,A,Yes
+STU00540,14,Male,12,English,,6.6,3.6,91.0,72.1,68.2,C,Yes
+STU00541,15,Female,12,English,88.1,4.4,6.2,100.0,42.1,53.5,D,Yes
+STU00542,17,Male,11,Social Studies,79.4,6.3,5.0,79.5,82.2,75.6,B,Yes
+STU00543,15,Male,12,Computer,75.8,9.6,6.8,90.8,48.4,68.6,C,Yes
+STU00544,18,Female,12,Social Studies,70.5,8.1,9.3,59.1,70.5,68.0,C,Yes
+STU00545,18,Male,9,English,75.5,3.3,6.9,75.5,68.3,52.2,D,Yes
+STU00546,16,Male,10,Social Studies,82.2,4.0,7.0,71.3,48.7,50.1,D,Yes
+STU00547,15,Female,10,Social Studies,73.4,2.9,8.0,80.8,75.6,68.3,C,Yes
+STU00548,18,Male,9,Social Studies,83.1,2.6,7.1,98.6,100.0,74.9,B,Yes
+STU00549,19,Male,11,English,,5.9,6.9,79.5,65.3,92.7,A+,Yes
+STU00550,19,Female,10,Science,63.7,2.9,8.1,62.9,81.5,68.7,C,Yes
+STU00551,19,Male,10,Social Studies,91.0,5.9,7.6,58.3,100.0,66.9,C,Yes
+STU00552,18,Female,9,Computer,76.8,3.1,7.4,99.0,82.9,57.4,D,Yes
+STU00553,18,Male,9,Social Studies,72.8,3.5,6.9,83.2,60.3,66.6,C,Yes
+STU00554,19,Male,12,English,70.0,1.7,6.7,82.3,73.6,57.7,D,Yes
+STU00555,16,Male,9,Social Studies,86.7,5.8,8.1,71.2,77.2,87.4,A,Yes
+STU00556,19,Male,9,Computer,97.1,0.6,6.7,79.8,91.5,72.8,B,Yes
+STU00557,14,Male,10,Computer,77.6,7.4,8.5,62.2,88.2,57.2,D,Yes
+STU00558,18,Female,10,Math,79.6,12.0,5.9,81.4,28.5,60.5,C,Yes
+STU00559,16,Female,11,English,93.8,3.6,8.7,59.6,57.2,57.3,D,Yes
+STU00560,15,Female,10,Computer,62.1,3.5,7.6,71.0,68.9,65.5,C,Yes
+STU00561,18,Male,9,Computer,100.0,0.9,6.0,67.0,54.8,47.0,F,Yes
+STU00562,15,Female,10,Social Studies,100.0,2.3,7.7,30.4,14.5,45.3,F,Yes
+STU00563,19,Female,12,Science,52.2,6.4,6.4,71.1,59.1,47.2,F,Yes
+STU00564,18,Male,11,Science,80.9,7.0,7.1,63.4,69.9,70.4,B,Yes
+STU00565,14,Female,11,Social Studies,74.1,3.9,6.6,73.1,62.1,65.5,C,Yes
+STU00566,19,Female,11,Social Studies,79.1,6.1,7.0,76.0,55.0,81.0,A,Yes
+STU00567,14,Female,11,Math,77.4,1.7,8.1,100.0,70.6,70.2,B,Yes
+STU00568,18,Female,9,Science,90.9,4.6,7.7,80.3,75.1,65.2,C,Yes
+STU00569,18,Male,10,Social Studies,,8.7,5.9,80.7,63.0,88.8,A,Yes
+STU00570,17,Female,11,Math,72.0,5.2,5.9,82.9,90.6,71.2,B,Yes
+STU00571,17,,10,Computer,80.1,9.5,7.4,88.2,70.9,88.5,A,Yes
+STU00572,18,Male,12,Math,87.7,9.7,7.5,82.4,56.9,71.8,B,Yes
+STU00573,19,Male,10,Math,69.0,4.8,6.4,79.9,53.1,62.0,C,Yes
+STU00574,18,Male,11,Computer,63.9,0.1,8.9,86.0,66.8,50.6,D,Yes
+STU00575,15,Male,12,Computer,100.0,6.9,8.0,42.0,86.7,79.1,B,Yes
+STU00576,17,Male,10,English,74.9,1.2,6.4,100.0,57.6,68.5,C,Yes
+STU00577,15,Female,12,Social Studies,80.5,0.2,6.3,98.3,78.9,60.3,C,Yes
+STU00578,14,Male,11,Science,77.6,0.5,6.8,79.0,71.4,54.3,D,Yes
+STU00579,14,Male,12,English,88.0,7.2,6.7,56.2,99.9,82.4,A,Yes
+STU00580,16,Female,10,Computer,100.0,4.8,8.5,92.9,75.9,71.2,B,Yes
+STU00581,19,Female,10,Computer,88.4,4.0,8.2,66.3,59.5,49.8,F,Yes
+STU00582,14,,11,Science,65.3,5.1,7.1,83.5,81.0,73.8,B,Yes
+STU00583,14,Male,9,Computer,66.8,0.6,7.8,58.0,81.6,56.4,D,Yes
+STU00584,14,Male,10,English,77.6,2.9,8.0,100.0,64.0,66.9,C,Yes
+STU00585,15,Male,12,English,79.0,2.0,7.2,55.8,52.5,58.9,D,Yes
+STU00586,17,Female,11,Social Studies,63.1,3.8,7.5,77.0,78.0,72.1,B,Yes
+STU00587,18,Female,9,Science,91.0,3.9,7.8,46.3,71.0,62.5,C,Yes
+STU00588,14,Female,10,Computer,70.1,5.0,7.6,75.4,47.3,49.4,F,Yes
+STU00589,18,Male,9,Social Studies,98.4,5.5,6.2,70.0,73.8,66.2,C,Yes
+STU00590,19,,9,Computer,100.0,0.6,6.4,91.9,60.4,69.8,C,Yes
+STU00591,14,Male,12,Social Studies,79.3,2.9,6.8,70.0,47.3,57.8,D,Yes
+STU00592,16,Male,10,English,86.8,3.4,6.3,91.9,64.7,62.3,C,Yes
+STU00593,18,Male,10,Science,68.4,1.1,5.5,61.7,89.2,51.1,D,Yes
+STU00594,18,Male,11,Social Studies,88.9,1.0,7.8,72.1,88.1,74.0,B,Yes
+STU00595,15,Female,9,Computer,76.5,0.5,7.5,72.3,84.2,60.4,C,Yes
+STU00596,14,Female,10,Science,70.0,0.9,5.6,82.9,74.0,66.5,C,Yes
+STU00597,16,Female,11,Science,78.8,6.1,6.8,81.2,78.9,82.6,A,Yes
+STU00598,19,Female,11,Science,76.9,0.7,6.9,86.1,71.5,58.5,D,Yes
+STU00599,19,Female,12,Social Studies,78.4,0.9,7.3,79.7,53.4,66.0,C,Yes
+STU00600,16,Female,11,Math,92.4,3.7,5.9,,56.4,66.8,C,Yes
+STU00601,17,Male,10,Computer,73.4,4.6,5.6,63.4,60.9,62.3,C,Yes
+STU00602,17,Female,11,English,100.0,3.3,7.7,81.4,91.0,55.5,D,Yes
+STU00603,16,Male,12,Math,67.4,1.4,5.4,98.5,86.2,56.0,D,Yes
+STU00604,17,Male,11,Computer,99.8,1.0,6.8,,53.8,46.3,F,Yes
+STU00605,15,Male,12,Computer,70.8,3.6,6.7,82.8,70.8,61.8,C,Yes
+STU00606,17,Male,12,Computer,82.0,3.1,7.0,,64.0,66.6,C,Yes
+STU00607,17,Female,12,English,76.6,2.5,7.4,96.5,67.7,68.3,C,Yes
+STU00608,17,Male,9,Science,78.2,5.9,8.9,86.2,62.0,74.9,B,Yes
+STU00609,19,Female,11,Math,90.8,2.9,5.3,77.4,91.1,64.1,C,Yes
+STU00610,18,Male,10,Math,98.5,1.0,8.1,82.0,69.7,74.0,B,Yes
+STU00611,18,Female,11,Science,95.1,2.5,4.3,65.7,73.2,80.6,A,Yes
+STU00612,18,Female,11,Computer,77.5,4.9,8.6,70.6,73.4,66.1,C,Yes
+STU00613,17,Male,12,Math,84.0,2.8,4.9,57.3,54.6,47.9,F,Yes
+STU00614,15,Male,12,Social Studies,73.4,4.9,9.8,96.8,71.6,68.1,C,Yes
+STU00615,17,Female,10,English,71.1,5.6,6.7,82.3,85.9,74.0,B,Yes
+STU00616,19,Male,11,Science,69.4,2.9,8.5,63.2,92.1,62.2,C,Yes
+STU00617,19,Female,11,Social Studies,77.2,3.3,8.3,79.8,52.8,44.8,F,Yes
+STU00618,16,Male,10,Math,84.7,2.6,6.6,92.2,47.2,46.6,F,Yes
+STU00619,16,Female,9,Social Studies,61.0,4.9,6.7,89.9,70.9,77.1,B,Yes
+STU00620,15,Female,9,Science,81.5,2.6,6.2,63.0,86.6,78.0,B,Yes
+STU00621,14,Female,12,Science,98.7,4.6,8.0,32.1,75.4,81.8,A,Yes
+STU00622,15,Female,10,English,94.3,3.9,6.6,81.5,80.2,75.3,B,Yes
+STU00623,14,Female,12,Social Studies,75.6,0.5,6.2,63.6,49.6,39.6,F,Yes
+STU00624,16,Female,10,Science,66.6,4.8,7.7,84.7,61.4,61.0,C,Yes
+STU00625,14,Female,12,Social Studies,87.1,3.7,6.1,89.3,37.1,45.0,F,Yes
+STU00626,15,Female,10,Science,56.5,7.6,6.7,91.6,67.9,55.5,D,Yes
+STU00627,18,Male,12,Science,94.2,1.2,7.2,100.0,37.5,62.6,C,Yes
+STU00628,19,Female,9,Computer,79.7,4.0,6.4,93.3,90.0,80.3,A,Yes
+STU00629,19,Male,11,Computer,100.0,2.3,6.6,100.0,93.3,98.0,A+,Yes
+STU00630,17,Male,12,Science,63.0,0.6,8.8,95.3,72.1,61.8,C,Yes
+STU00631,17,,12,Math,92.1,0.4,6.9,96.5,47.3,46.1,F,Yes
+STU00632,19,Male,12,Science,80.9,8.6,6.7,75.4,75.6,75.9,B,Yes
+STU00633,17,Female,9,English,78.4,4.0,6.9,57.9,97.9,67.5,C,Yes
+STU00634,14,Female,10,Math,66.9,2.8,7.6,100.0,77.1,63.9,C,Yes
+STU00635,19,Male,9,Math,88.6,0.8,6.0,76.9,87.8,69.5,C,Yes
+STU00636,17,Male,9,Social Studies,89.4,8.3,7.6,93.2,62.7,67.2,C,Yes
+STU00637,17,Male,11,Math,100.0,1.8,7.4,68.3,56.9,63.2,C,Yes
+STU00638,14,Female,11,English,93.1,4.1,5.1,89.5,68.9,76.3,B,Yes
+STU00639,16,Male,12,Computer,75.5,3.6,9.1,41.8,41.1,66.6,C,Yes
+STU00640,16,Female,12,Science,71.0,10.9,8.7,70.3,100.0,90.8,A+,Yes
+STU00641,18,Female,11,English,66.9,3.3,6.2,74.6,72.1,72.1,B,Yes
+STU00642,16,Female,12,Math,98.2,2.2,5.9,82.5,83.0,66.2,C,Yes
+STU00643,16,Other,9,Computer,73.4,4.0,7.4,91.0,63.1,63.7,C,Yes
+STU00644,18,Female,9,Computer,98.3,4.3,5.5,60.7,46.9,73.4,B,Yes
+STU00645,14,Male,11,Social Studies,,12.0,8.6,85.2,91.4,80.4,A,Yes
+STU00646,18,Male,12,Social Studies,85.6,3.2,6.6,93.2,53.1,60.4,C,Yes
+STU00647,14,Male,9,Science,78.6,1.1,8.9,100.0,75.2,80.3,A,Yes
+STU00648,15,Male,10,Math,89.3,2.5,6.2,85.9,76.6,66.4,C,Yes
+STU00649,16,Male,11,Science,81.8,4.0,7.0,69.6,71.1,63.2,C,Yes
+STU00650,15,Female,9,Math,77.9,4.5,8.5,58.2,58.2,59.4,D,Yes
+STU00651,14,Female,10,English,89.7,0.7,6.7,,67.8,67.1,C,Yes
+STU00652,16,Male,12,Math,80.4,2.3,7.4,86.3,55.7,72.7,B,Yes
+STU00653,18,Female,11,Social Studies,73.2,10.5,8.3,75.7,82.1,92.2,A+,Yes
+STU00654,15,Female,9,Computer,88.6,1.5,6.5,53.3,78.6,60.9,C,Yes
+STU00655,15,Female,12,Science,81.3,6.0,5.7,63.0,69.7,77.6,B,Yes
+STU00656,18,Female,10,Social Studies,87.4,2.6,5.5,,61.5,66.4,C,Yes
+STU00657,19,Female,12,Computer,77.0,3.4,7.7,81.0,100.0,83.6,A,Yes
+STU00658,17,Female,10,English,68.7,0.8,7.5,48.8,50.5,37.1,F,Yes
+STU00659,17,Male,11,Math,100.0,2.8,8.3,84.9,46.8,82.8,A,Yes
+STU00660,18,Female,10,Science,99.0,4.0,6.8,54.0,68.8,68.0,C,Yes
+STU00661,14,Other,10,English,91.7,3.2,5.5,95.0,66.1,41.0,F,Yes
+STU00662,19,Male,12,Computer,77.7,2.9,4.5,78.9,86.5,82.7,A,Yes
+STU00663,16,Female,9,Science,,5.0,10.0,69.5,79.7,73.4,B,Yes
+STU00664,16,Male,9,Computer,97.2,1.0,7.7,89.9,70.4,64.2,C,Yes
+STU00665,17,Male,10,Science,78.1,4.1,7.3,80.9,77.5,63.8,C,Yes
+STU00666,19,Male,11,Science,75.0,0.4,7.4,94.5,77.2,68.9,C,Yes
+STU00667,19,Female,12,English,100.0,7.1,5.5,77.1,100.0,75.1,B,Yes
+STU00668,18,Female,12,Math,81.5,3.0,6.2,77.9,73.8,59.6,D,Yes
+STU00669,16,Female,10,English,100.0,5.7,9.0,72.0,59.8,67.6,C,Yes
+STU00670,14,Male,10,Science,66.6,0.1,7.8,79.7,73.0,55.5,D,Yes
+STU00671,15,Other,9,Science,87.7,5.2,6.3,99.8,30.7,58.5,D,Yes
+STU00672,19,Male,11,Computer,100.0,1.8,5.8,69.0,69.5,72.1,B,Yes
+STU00673,14,Male,12,Science,82.3,3.4,6.5,85.1,86.4,74.4,B,Yes
+STU00674,16,Other,11,Computer,79.1,5.2,6.8,63.7,79.0,72.6,B,Yes
+STU00675,16,Male,11,Computer,69.2,3.1,9.4,47.1,74.5,66.9,C,Yes
+STU00676,18,Female,10,Computer,93.9,4.8,6.9,78.9,79.7,73.5,B,Yes
+STU00677,16,Male,12,Science,73.5,2.6,5.8,81.2,86.5,56.4,D,Yes
+STU00678,18,Female,10,Social Studies,81.0,7.5,7.0,74.5,91.4,97.6,A+,Yes
+STU00679,17,Female,9,Science,68.4,3.0,7.4,55.1,76.7,69.5,C,Yes
+STU00680,19,Male,10,Science,99.1,3.0,5.7,80.3,65.3,82.9,A,Yes
+STU00681,15,Male,9,Social Studies,94.7,3.1,7.5,79.7,35.3,70.0,B,Yes
+STU00682,18,Female,9,Science,81.7,3.3,8.4,63.6,84.7,64.3,C,Yes
+STU00683,18,Male,9,Computer,69.3,1.1,7.3,57.1,77.7,33.7,F,Yes
+STU00684,18,Female,10,Math,98.9,1.5,6.2,72.5,72.3,52.5,D,Yes
+STU00685,16,Female,11,Computer,78.0,6.3,6.5,85.1,59.7,75.5,B,Yes
+STU00686,15,Female,10,Social Studies,69.8,5.7,5.3,81.8,84.5,69.9,C,Yes
+STU00687,17,Male,10,Computer,62.6,5.5,7.0,63.7,66.1,58.0,D,Yes
+STU00688,19,Male,12,English,74.9,4.5,7.4,77.9,69.5,42.2,F,Yes
+STU00689,15,Female,11,Social Studies,66.0,2.2,6.1,,69.2,61.0,C,Yes
+STU00690,17,Female,11,Science,75.1,2.0,9.2,59.6,76.7,51.9,D,Yes
+STU00691,15,Female,10,Science,90.2,3.2,8.0,76.9,52.8,56.6,D,Yes
+STU00692,18,Female,12,Math,77.9,7.0,5.1,94.8,78.4,84.5,A,Yes
+STU00693,16,Male,9,Computer,85.9,3.8,5.2,58.2,59.2,48.5,F,Yes
+STU00694,19,Male,10,Computer,74.0,1.4,6.0,92.2,59.7,49.9,F,Yes
+STU00695,14,Male,12,Computer,82.7,0.9,8.8,98.7,83.3,73.3,B,Yes
+STU00696,14,Female,11,Computer,100.0,5.8,8.1,72.9,55.1,79.9,B,Yes
+STU00697,19,Male,11,Math,78.2,8.4,8.9,71.2,83.3,76.0,B,Yes
+STU00698,16,Female,11,Computer,86.2,0.7,7.1,90.5,71.5,79.5,B,Yes
+STU00699,14,Female,11,Computer,64.8,6.0,6.9,73.4,45.3,46.9,F,Yes
+STU00700,19,Male,10,Science,98.7,4.4,5.7,43.1,90.5,54.6,D,Yes
+STU00701,16,Male,10,English,76.8,1.7,7.5,74.6,74.7,47.5,F,Yes
+STU00702,19,Male,10,Social Studies,93.6,3.8,6.9,82.6,75.9,55.5,D,Yes
+STU00703,16,Male,9,English,80.6,1.2,6.8,86.4,85.1,70.6,B,Yes
+STU00704,18,Male,12,Computer,88.7,2.8,8.9,63.7,92.5,62.5,C,Yes
+STU00705,17,Male,10,English,89.4,3.3,7.0,72.2,73.0,53.2,D,Yes
+STU00706,16,Female,11,Computer,77.0,7.5,8.6,89.7,79.3,84.0,A,Yes
+STU00707,16,Female,12,Computer,94.0,2.7,5.4,75.2,75.6,74.8,B,Yes
+STU00708,15,Female,12,Computer,73.7,1.9,10.0,54.6,64.9,69.4,C,Yes
+STU00709,18,Female,10,Computer,90.6,4.2,6.7,93.3,46.2,74.5,B,Yes
+STU00710,17,Female,10,Social Studies,77.7,4.9,7.9,73.0,73.2,60.1,C,Yes
+STU00711,14,,12,Science,85.8,1.8,8.1,91.3,90.7,76.4,B,Yes
+STU00712,16,Male,11,Social Studies,76.9,1.4,6.6,56.5,78.7,63.7,C,Yes
+STU00713,16,Male,12,Computer,82.5,1.5,8.0,74.3,54.0,53.8,D,Yes
+STU00714,19,Male,12,English,70.2,7.5,8.1,83.1,86.5,80.5,A,Yes
+STU00715,16,Female,12,Science,84.7,4.8,6.3,74.8,65.4,54.3,D,Yes
+STU00716,17,Male,9,English,82.5,2.6,6.3,59.4,38.6,45.1,F,Yes
+STU00717,14,Female,11,Computer,76.1,6.7,7.1,42.6,85.3,72.6,B,Yes
+STU00718,16,Female,9,Science,81.4,1.8,7.0,97.3,55.8,77.9,B,Yes
+STU00719,15,Female,11,Science,83.5,3.1,8.6,79.5,96.7,87.2,A,Yes
+STU00720,16,Female,12,Social Studies,75.2,1.2,7.9,92.3,87.2,75.7,B,Yes
+STU00721,19,Female,10,English,80.6,6.5,7.0,89.0,66.6,74.2,B,Yes
+STU00722,19,Male,10,Computer,70.9,1.7,7.8,84.4,76.9,63.8,C,Yes
+STU00723,15,Male,9,Math,100.0,1.7,4.8,71.5,100.0,56.8,D,Yes
+STU00724,17,Male,12,Math,93.7,4.3,6.4,82.9,85.0,66.7,C,Yes
+STU00725,19,Female,9,Social Studies,85.0,0.3,7.4,96.1,73.6,57.8,D,Yes
+STU00726,15,Male,9,Math,94.9,1.0,8.3,77.2,100.0,79.8,B,Yes
+STU00727,16,Male,10,Computer,60.2,5.4,7.3,100.0,71.8,80.2,A,Yes
+STU00728,17,Female,9,Social Studies,53.9,,8.7,55.0,78.7,63.5,C,Yes
+STU00729,14,Male,10,English,77.6,12.0,8.1,53.5,56.0,86.8,A,Yes
+STU00730,16,Female,10,Social Studies,,3.7,6.6,89.8,44.9,59.1,D,Yes
+STU00731,14,Female,10,English,79.4,0.6,6.9,64.5,65.7,46.2,F,Yes
+STU00732,15,Female,9,Social Studies,84.3,8.7,7.5,100.0,70.6,82.0,A,Yes
+STU00733,14,Male,9,Science,92.1,3.7,6.6,94.7,74.9,66.0,C,Yes
+STU00734,18,Female,10,English,69.5,2.8,8.8,98.2,48.7,69.1,C,Yes
+STU00735,19,Female,9,Science,86.4,3.7,5.9,88.4,79.9,67.7,C,Yes
+STU00736,15,Female,11,Computer,82.2,0.6,7.4,63.1,57.5,53.7,D,Yes
+STU00737,14,,9,Math,85.8,3.2,7.9,52.8,79.1,72.2,B,Yes
+STU00738,16,Female,10,Social Studies,76.3,1.6,6.8,96.9,84.0,61.4,C,Yes
+STU00739,14,Female,10,Math,97.2,3.0,6.5,55.0,64.1,71.6,B,Yes
+STU00740,16,Female,10,Science,80.9,2.3,7.0,98.2,55.5,50.3,D,Yes
+STU00741,17,Male,9,English,100.0,3.6,8.0,85.4,93.2,82.8,A,Yes
+STU00742,16,Male,9,Math,73.3,2.6,6.6,74.9,83.1,64.4,C,Yes
+STU00743,17,Male,12,English,90.2,2.2,5.9,82.2,72.3,74.1,B,Yes
+STU00744,17,Female,9,Social Studies,81.3,1.4,8.4,82.5,92.0,57.1,D,Yes
+STU00745,14,Female,10,Social Studies,78.4,0.7,7.5,73.2,71.2,44.7,F,Yes
+STU00746,18,Male,10,Math,89.0,0.5,8.2,96.0,60.7,71.9,B,Yes
+STU00747,18,Female,10,English,78.7,1.0,7.9,95.5,55.0,57.2,D,Yes
+STU00748,14,Male,10,English,52.7,5.1,9.5,78.2,68.4,64.9,C,Yes
+STU00749,16,Male,12,Math,48.3,1.3,8.3,67.6,81.6,50.8,D,Yes
+STU00750,15,Female,12,Computer,96.0,1.9,6.3,94.3,90.8,83.7,A,Yes
+STU00751,16,Male,10,English,95.5,1.9,7.6,47.7,70.4,64.0,C,Yes
+STU00752,18,Male,10,Computer,100.0,2.3,6.5,82.2,88.2,75.7,B,Yes
+STU00753,17,Female,10,Science,81.8,4.5,6.6,86.4,66.8,57.0,D,Yes
+STU00754,19,Female,10,Science,67.8,2.5,5.5,64.4,58.3,58.5,D,Yes
+STU00755,17,Female,11,Computer,77.4,5.7,6.8,89.6,50.4,56.5,D,Yes
+STU00756,14,Male,9,Computer,82.1,1.0,7.7,75.6,62.4,53.1,D,Yes
+STU00757,18,Female,10,Math,70.9,5.3,7.0,68.4,51.0,46.7,F,Yes
+STU00758,14,Female,12,Science,100.0,8.0,5.9,89.5,100.0,87.2,A,Yes
+STU00759,16,Male,9,English,100.0,3.2,5.4,60.8,76.6,76.9,B,Yes
+STU00760,19,Female,10,Social Studies,87.3,1.3,9.4,88.2,68.6,70.0,B,Yes
+STU00761,19,Female,11,Science,81.9,4.6,7.5,48.2,95.8,66.1,C,Yes
+STU00762,14,Male,9,Science,67.8,3.2,6.2,80.0,50.5,57.8,D,Yes
+STU00763,19,Female,9,Social Studies,99.0,4.0,7.6,76.6,67.9,72.1,B,Yes
+STU00764,19,Female,9,Computer,82.8,5.8,9.5,68.4,100.0,81.4,A,Yes
+STU00765,19,Female,12,Social Studies,78.8,2.4,7.8,81.5,67.8,66.4,C,Yes
+STU00766,18,Female,9,Computer,87.3,2.1,4.0,74.9,100.0,58.6,D,Yes
+STU00767,14,Female,9,Social Studies,75.6,12.0,10.0,90.8,81.8,92.6,A+,Yes
+STU00768,14,Male,9,Math,83.6,4.6,5.1,83.8,89.6,55.8,D,Yes
+STU00769,17,Male,9,Science,66.1,6.5,6.9,82.3,90.0,81.0,A,Yes
+STU00770,14,Female,11,Science,94.0,5.6,5.9,80.1,70.0,61.4,C,Yes
+STU00771,15,Male,10,Math,80.9,6.6,6.3,69.4,62.7,79.6,B,Yes
+STU00772,19,Male,11,Computer,94.7,4.1,7.4,71.8,68.3,44.7,F,Yes
+STU00773,19,Male,11,Computer,79.8,6.1,4.8,79.5,55.2,81.4,A,Yes
+STU00774,15,Male,12,Math,80.5,1.9,7.0,73.6,69.0,45.4,F,Yes
+STU00775,17,Male,9,Math,68.7,0.6,8.4,91.6,69.9,50.1,D,Yes
+STU00776,17,Male,12,Math,90.4,1.5,6.2,77.3,95.3,73.3,B,Yes
+STU00777,15,Female,11,English,72.4,2.9,5.6,81.3,78.9,70.8,B,Yes
+STU00778,15,,9,English,76.6,2.6,6.9,56.4,100.0,64.6,C,Yes
+STU00779,16,Female,12,Science,82.0,3.2,6.7,89.2,37.6,67.6,C,Yes
+STU00780,17,Female,12,Social Studies,,1.8,6.4,67.9,51.7,47.5,F,Yes
+STU00781,18,Male,10,Science,63.2,0.4,5.8,61.4,64.7,45.9,F,Yes
+STU00782,19,Female,12,English,79.5,2.3,7.7,99.0,92.4,71.8,B,Yes
+STU00783,14,Female,10,English,90.7,0.9,7.8,85.8,68.4,59.8,D,Yes
+STU00784,17,Female,11,Science,77.8,3.1,5.9,89.7,48.0,40.2,F,Yes
+STU00785,17,Female,12,Social Studies,79.5,4.2,6.1,82.4,66.3,65.8,C,Yes
+STU00786,14,Male,10,Social Studies,83.8,2.3,7.3,74.7,52.0,57.9,D,Yes
+STU00787,19,Male,12,Math,80.6,1.2,6.0,72.1,49.1,64.1,C,Yes
+STU00788,17,Female,10,English,70.7,3.3,7.3,86.9,100.0,61.2,C,Yes
+STU00789,18,Female,12,Math,81.6,12.0,8.7,91.9,64.7,80.3,A,Yes
+STU00790,17,Female,11,English,92.9,4.6,7.0,75.0,72.6,83.2,A,Yes
+STU00791,16,Female,9,Computer,70.4,4.8,5.8,100.0,68.6,72.0,B,Yes
+STU00792,15,Male,10,English,77.9,,7.5,,66.2,66.8,C,Yes
+STU00793,16,Male,10,Science,66.8,1.6,6.9,56.5,57.4,55.9,D,Yes
+STU00794,18,Male,9,Science,92.4,6.6,6.9,51.9,65.3,72.9,B,Yes
+STU00795,17,Female,9,Science,81.0,0.2,7.6,52.4,75.1,74.9,B,Yes
+STU00796,17,Male,10,Science,72.6,1.7,7.9,70.2,91.3,67.2,C,Yes
+STU00797,14,Male,9,Science,83.0,9.2,7.1,72.8,84.2,71.0,B,Yes
+STU00798,14,Male,9,Computer,68.8,3.0,7.0,85.6,51.7,65.3,C,Yes
+STU00799,18,Female,11,Math,70.6,0.7,9.4,75.6,84.8,59.2,D,Yes
+STU00800,19,Female,11,Math,65.9,4.3,8.4,87.8,77.1,69.0,C,Yes
+STU00801,16,Male,11,English,70.3,2.3,8.0,76.6,60.6,63.5,C,Yes
+STU00802,16,Female,10,Computer,96.9,0.6,7.2,76.2,72.7,56.3,D,Yes
+STU00803,19,Female,12,Science,73.9,3.8,6.0,67.9,78.6,59.3,D,Yes
+STU00804,15,Other,11,Science,87.1,3.4,8.3,95.9,70.7,77.5,B,Yes
+STU00805,17,Male,9,Computer,72.8,3.2,7.3,54.6,77.2,56.0,D,Yes
+STU00806,14,Female,9,Science,90.4,4.5,6.5,80.2,57.1,76.2,B,Yes
+STU00807,15,Female,11,Computer,70.7,1.1,6.8,73.5,99.9,56.5,D,Yes
+STU00808,16,Female,9,Math,82.4,4.0,6.0,86.9,41.1,50.1,D,Yes
+STU00809,18,Male,10,Math,82.6,3.6,8.3,75.7,78.7,89.4,A,Yes
+STU00810,15,Female,12,English,100.0,6.5,7.9,76.1,75.5,63.3,C,Yes
+STU00811,16,Male,9,Science,88.9,1.7,7.3,72.3,79.6,66.0,C,Yes
+STU00812,15,Male,9,Computer,75.5,7.3,7.1,95.5,59.4,91.8,A+,Yes
+STU00813,14,Male,12,English,89.5,5.6,6.4,76.0,87.5,75.8,B,Yes
+STU00814,18,Male,11,Science,100.0,2.9,4.8,100.0,68.4,84.0,A,Yes
+STU00815,18,Female,9,Math,64.1,3.2,5.5,79.8,52.2,62.0,C,Yes
+STU00816,17,Female,12,Math,72.7,0.3,6.3,76.3,53.6,52.1,D,Yes
+STU00817,17,,12,Computer,79.4,3.2,6.1,74.0,71.9,62.6,C,Yes
+STU00818,14,Female,11,Science,77.4,5.3,7.4,83.9,46.1,42.8,F,Yes
+STU00819,17,Female,11,English,78.3,2.6,8.0,67.8,97.0,67.4,C,Yes
+STU00820,18,Female,10,Social Studies,67.7,6.5,7.0,78.0,85.7,76.0,B,Yes
+STU00821,16,Female,9,Social Studies,97.4,4.4,8.6,76.1,97.4,83.2,A,Yes
+STU00822,18,Female,11,Science,66.4,11.1,6.2,80.6,95.8,100.0,A+,Yes
+STU00823,15,Male,10,Math,79.8,1.8,7.0,80.9,64.7,64.5,C,Yes
+STU00824,17,,11,Computer,93.5,5.0,7.0,81.6,57.0,75.4,B,Yes
+STU00825,16,Male,12,Computer,81.7,0.9,8.3,77.3,29.8,63.0,C,Yes
+STU00826,19,Male,9,Science,71.2,2.7,7.2,98.0,63.9,70.4,B,Yes
+STU00827,15,Female,11,English,67.2,4.6,7.2,81.9,96.5,73.0,B,Yes
+STU00828,15,Male,9,Math,79.5,5.2,5.3,100.0,57.6,67.4,C,Yes
+STU00829,18,Male,12,Computer,73.7,2.4,6.1,76.7,66.9,56.7,D,Yes
+STU00830,14,Female,10,Computer,84.3,7.0,8.3,89.4,61.7,79.9,B,Yes
+STU00831,17,Male,11,Science,66.6,8.0,4.8,65.8,75.6,66.8,C,Yes
+STU00832,14,Female,11,English,90.9,1.9,8.6,95.6,89.3,82.3,A,Yes
+STU00833,17,Female,10,Science,83.3,,7.6,66.1,46.9,47.1,F,Yes
+STU00834,15,Female,11,Math,84.1,2.6,6.3,82.4,49.8,61.0,C,Yes
+STU00835,15,Female,11,Math,97.9,2.1,6.2,72.3,92.3,86.8,A,Yes
+STU00836,16,Female,11,Social Studies,77.2,7.7,9.2,82.3,81.0,78.1,B,Yes
+STU00837,15,Male,11,English,74.0,7.6,8.7,72.7,66.1,91.2,A+,Yes
+STU00838,14,Male,12,Math,76.0,2.7,7.0,65.0,95.6,69.7,C,Yes
+STU00839,17,Female,10,Math,79.9,4.9,7.2,72.2,49.5,61.6,C,Yes
+STU00840,17,Male,10,Science,81.0,6.5,6.4,97.6,84.0,80.5,A,Yes
+STU00841,17,Female,9,Social Studies,72.9,3.8,7.2,82.5,69.0,62.8,C,Yes
+STU00842,19,Male,12,Science,59.7,2.5,6.4,58.0,79.1,37.6,F,Yes
+STU00843,18,Female,11,Social Studies,75.8,1.7,7.0,91.3,34.2,62.9,C,Yes
+STU00844,18,Female,10,English,86.0,5.3,9.1,63.5,66.1,91.4,A+,Yes
+STU00845,17,Male,9,Computer,83.5,1.0,7.0,86.4,81.1,71.4,B,Yes
+STU00846,18,Male,12,Computer,95.2,2.6,5.9,83.7,69.1,72.5,B,Yes
+STU00847,18,Male,10,Math,100.0,2.2,5.6,84.6,88.8,70.9,B,Yes
+STU00848,17,Male,11,Math,90.4,0.9,7.2,100.0,88.3,84.4,A,Yes
+STU00849,17,Male,9,Social Studies,97.2,3.0,6.3,64.4,55.6,60.8,C,Yes
+STU00850,18,Female,12,Social Studies,90.4,2.8,7.4,84.6,82.4,74.8,B,Yes
+STU00851,19,Female,9,Math,100.0,1.4,5.3,93.6,55.1,47.5,F,Yes
+STU00852,16,Female,9,Computer,100.0,7.5,7.9,67.0,70.8,72.2,B,Yes
+STU00853,15,Female,12,Social Studies,92.5,5.3,5.9,65.6,79.8,75.0,B,Yes
+STU00854,16,Female,12,Social Studies,89.8,3.3,7.2,72.0,57.5,72.4,B,Yes
+STU00855,14,Male,9,Science,79.7,5.8,6.7,80.5,81.8,83.3,A,Yes
+STU00856,15,Female,10,Social Studies,81.5,6.8,9.0,56.3,62.4,53.1,D,Yes
+STU00857,19,Male,11,Computer,78.3,7.7,7.3,83.7,61.3,58.3,D,Yes
+STU00858,14,Female,12,Social Studies,88.8,1.8,9.2,56.3,80.6,71.6,B,Yes
+STU00859,19,Male,10,Math,74.1,5.8,7.7,94.1,57.5,62.4,C,Yes
+STU00860,17,Male,10,Computer,79.9,2.8,8.7,83.2,56.7,72.9,B,Yes
+STU00861,15,Female,11,Math,56.1,3.7,6.9,100.0,85.6,53.5,D,Yes
+STU00862,16,Female,11,Science,100.0,1.9,7.5,85.4,71.6,68.7,C,Yes
+STU00863,19,Male,12,Math,79.6,3.2,8.4,71.7,48.2,59.3,D,Yes
+STU00864,14,Male,11,English,87.0,5.9,8.1,64.8,82.8,79.4,B,Yes
+STU00865,17,Female,9,Social Studies,98.0,9.0,7.7,79.3,63.9,70.0,B,Yes
+STU00866,15,Female,12,Computer,85.3,2.9,6.7,75.6,49.0,39.6,F,Yes
+STU00867,17,Male,12,Science,97.9,1.5,6.9,92.6,32.4,59.9,D,Yes
+STU00868,18,Male,12,English,68.3,9.9,8.4,63.0,83.6,84.0,A,Yes
+STU00869,19,Female,9,Science,100.0,1.8,8.6,100.0,57.1,79.8,B,Yes
+STU00870,15,Female,9,Computer,94.0,0.7,6.4,93.8,51.3,57.1,D,Yes
+STU00871,17,,11,Science,84.3,2.0,6.3,73.2,79.6,72.6,B,Yes
+STU00872,16,Female,9,Math,97.7,0.3,6.1,100.0,82.1,75.1,B,Yes
+STU00873,17,Male,12,English,69.1,6.6,8.0,65.0,58.2,78.3,B,Yes
+STU00874,14,Female,10,Social Studies,78.8,1.7,6.1,78.9,83.7,64.5,C,Yes
+STU00875,19,Male,11,English,97.9,1.2,8.0,58.1,100.0,53.7,D,Yes
+STU00876,15,Female,12,Science,61.5,3.5,7.7,100.0,90.2,72.1,B,Yes
+STU00877,14,Female,10,Math,88.2,,6.5,52.9,87.9,79.1,B,Yes
+STU00878,18,Male,10,Social Studies,87.9,4.4,8.8,55.8,74.7,73.8,B,Yes
+STU00879,16,Female,11,Computer,100.0,1.0,5.5,67.1,63.3,44.2,F,Yes
+STU00880,14,Male,11,Math,64.6,12.0,8.9,94.5,69.2,81.8,A,Yes
+STU00881,18,Female,10,Math,99.7,4.1,7.5,89.4,76.6,84.9,A,Yes
+STU00882,15,Male,11,Math,75.8,6.1,4.8,77.7,51.1,61.2,C,Yes
+STU00883,19,Male,12,Science,77.1,0.8,8.9,90.3,58.5,58.4,D,Yes
+STU00884,19,Male,10,Social Studies,68.6,10.8,8.2,74.4,48.6,91.9,A+,Yes
+STU00885,17,Female,9,Math,70.0,2.4,6.6,81.9,73.5,52.2,D,Yes
+STU00886,16,Male,10,Social Studies,86.4,0.7,6.0,99.1,71.2,77.5,B,Yes
+STU00887,16,Male,10,Math,69.8,3.8,5.4,72.5,60.2,68.8,C,Yes
+STU00888,17,Male,9,Computer,90.1,6.1,9.8,65.3,82.3,75.4,B,Yes
+STU00889,19,Female,9,Science,74.7,4.9,6.1,82.6,54.3,62.7,C,Yes
+STU00890,17,Female,11,Social Studies,68.7,4.9,5.7,86.4,59.7,63.2,C,Yes
+STU00891,14,Female,10,English,76.2,4.6,7.4,77.5,81.7,72.8,B,Yes
+STU00892,15,Male,12,Science,85.7,3.5,5.3,90.0,83.9,65.6,C,Yes
+STU00893,17,Male,10,Science,78.9,0.8,6.0,73.2,58.1,50.6,D,Yes
+STU00894,16,Female,9,Social Studies,82.4,2.7,8.2,77.8,73.5,63.8,C,Yes
+STU00895,16,Male,11,English,89.7,2.5,7.6,81.2,58.3,61.0,C,Yes
+STU00896,16,Male,12,Science,93.9,7.7,6.7,80.0,67.0,73.6,B,Yes
+STU00897,17,Female,10,Computer,78.6,6.6,7.1,98.6,72.2,54.3,D,Yes
+STU00898,15,Female,9,English,70.5,2.2,6.6,81.2,78.4,64.8,C,Yes
+STU00899,14,Male,9,Computer,82.8,5.5,7.0,71.7,74.8,65.4,C,Yes
+STU00900,15,Male,11,English,87.2,3.0,6.3,83.4,74.1,49.3,F,Yes
+STU00901,18,Female,10,Math,65.9,0.7,6.5,90.1,53.8,51.1,D,Yes
+STU00902,17,Male,10,Math,72.2,0.3,6.4,86.8,75.8,56.7,D,Yes
+STU00903,18,Male,9,Math,74.1,5.1,6.3,86.1,78.3,83.8,A,Yes
+STU00904,14,Male,10,English,79.7,1.3,8.2,55.0,80.3,55.9,D,Yes
+STU00905,14,Male,12,English,73.6,1.3,7.9,41.1,59.2,57.5,D,Yes
+STU00906,14,Male,11,Computer,89.8,1.8,6.1,93.9,83.7,84.5,A,Yes
+STU00907,17,Male,10,Social Studies,64.3,5.1,5.8,82.1,50.2,53.3,D,Yes
+STU00908,17,Female,9,Math,64.6,6.6,6.9,75.7,63.5,65.9,C,Yes
+STU00909,14,,10,Social Studies,78.3,6.5,9.5,85.7,65.9,92.3,A+,Yes
+STU00910,16,Female,10,Social Studies,80.1,0.6,6.0,100.0,51.1,60.4,C,Yes
+STU00911,14,Male,11,Computer,66.0,1.7,6.9,95.8,65.6,65.3,C,Yes
+STU00912,17,Female,12,English,75.3,1.5,7.2,89.5,73.3,60.4,C,Yes
+STU00913,17,Male,12,Math,77.6,5.1,7.0,63.6,42.6,65.0,C,Yes
+STU00914,14,Female,12,Math,77.7,1.8,6.6,65.4,64.1,57.0,D,Yes
+STU00915,14,,12,Math,83.7,,8.4,,43.8,34.6,F,Yes
+STU00916,18,Female,12,Computer,74.7,5.4,7.6,84.9,100.0,75.6,B,Yes
+STU00917,19,Male,9,English,98.3,3.3,8.0,91.5,73.2,62.6,C,Yes
+STU00918,19,Male,9,Math,87.4,4.1,7.7,92.7,71.9,74.3,B,Yes
+STU00919,17,Female,10,Math,73.1,2.8,8.1,85.5,73.5,57.7,D,Yes
+STU00920,17,Male,11,Math,83.0,6.2,8.8,73.8,79.1,80.7,A,Yes
+STU00921,18,Male,9,Computer,83.4,6.6,8.6,68.1,84.7,77.5,B,Yes
+STU00922,19,Female,12,Computer,95.4,4.6,9.7,64.4,46.5,53.0,D,Yes
+STU00923,19,Male,11,Computer,75.4,6.6,8.4,73.7,89.7,72.6,B,Yes
+STU00924,16,Female,11,Math,90.4,12.0,6.4,62.3,88.7,92.9,A+,Yes
+STU00925,16,Female,9,Math,82.5,5.4,8.0,100.0,69.0,87.1,A,Yes
+STU00926,14,Male,10,Math,98.4,3.1,7.9,57.8,68.2,56.8,D,Yes
+STU00927,15,Female,9,Computer,96.2,4.1,9.2,73.2,23.5,48.4,F,Yes
+STU00928,16,Male,12,Computer,84.2,7.1,6.0,48.9,51.3,81.4,A,Yes
+STU00929,18,Male,11,Science,79.1,2.3,7.7,80.2,77.8,66.8,C,Yes
+STU00930,16,Male,11,Math,87.6,2.2,6.4,76.0,88.0,69.9,C,Yes
+STU00931,17,Male,10,Science,80.0,4.1,7.7,71.0,80.9,62.3,C,Yes
+STU00932,19,Male,10,Social Studies,100.0,3.1,6.9,62.9,68.9,68.3,C,Yes
+STU00933,16,Other,10,Math,82.9,1.5,7.6,76.0,98.9,88.2,A,Yes
+STU00934,16,Female,11,Computer,77.5,3.6,5.5,68.4,85.1,68.7,C,Yes
+STU00935,18,Female,12,English,76.9,8.0,8.0,74.1,64.1,83.7,A,Yes
+STU00936,15,Male,9,Math,68.7,4.5,7.3,100.0,100.0,79.0,B,Yes
+STU00937,16,Female,12,Social Studies,88.1,1.2,7.3,78.4,53.6,48.8,F,Yes
+STU00938,19,Female,9,English,73.0,5.0,9.2,83.5,47.9,58.2,D,Yes
+STU00939,16,Female,12,Computer,94.1,2.6,6.7,69.5,63.7,52.3,D,Yes
+STU00940,15,Male,9,Math,,11.7,7.5,65.0,58.6,76.7,B,Yes
+STU00941,19,Female,10,Science,83.4,4.8,7.2,75.7,64.5,79.8,B,Yes
+STU00942,17,Female,12,Computer,94.7,2.0,7.3,100.0,82.0,76.0,B,Yes
+STU00943,18,Female,9,Computer,58.3,5.3,9.5,72.0,69.5,63.4,C,Yes
+STU00944,15,Female,10,Math,100.0,3.8,7.2,81.1,69.9,63.9,C,Yes
+STU00945,18,Male,10,Computer,77.3,7.5,6.5,64.4,70.9,73.9,B,Yes
+STU00946,19,Female,10,Social Studies,83.6,2.2,9.2,37.4,35.3,36.6,F,Yes
+STU00947,14,Male,11,Computer,88.3,4.7,6.8,64.9,47.3,49.7,F,Yes
+STU00948,15,Male,12,Science,90.0,0.8,5.3,100.0,64.2,72.5,B,Yes
+STU00949,17,Female,12,Social Studies,85.0,3.5,6.3,84.3,57.4,61.2,C,Yes
+STU00950,18,Male,10,Computer,93.0,1.2,5.7,,66.5,62.9,C,Yes
+STU00951,14,Male,11,Math,87.7,3.7,5.1,71.1,91.1,68.7,C,Yes
+STU00952,17,Male,10,Math,100.0,4.4,6.7,43.0,68.9,71.8,B,Yes
+STU00953,14,Female,10,Social Studies,87.7,4.6,7.0,60.5,50.2,62.5,C,Yes
+STU00954,19,Female,9,Science,100.0,2.2,8.4,81.6,58.1,59.4,D,Yes
+STU00955,18,Other,12,Math,91.9,3.6,7.8,79.3,95.7,70.2,B,Yes
+STU00956,19,Male,12,English,62.1,6.9,7.7,75.9,93.0,73.8,B,Yes
+STU00957,15,Male,12,English,100.0,9.6,6.1,68.6,78.9,85.2,A,Yes
+STU00958,18,Male,10,English,75.7,3.7,8.1,89.2,46.6,62.1,C,Yes
+STU00959,16,Female,10,Computer,98.5,7.1,8.6,69.0,74.6,77.4,B,Yes
+STU00960,14,Male,11,Social Studies,82.3,1.6,7.5,80.3,75.8,65.9,C,Yes
+STU00961,16,Female,11,Computer,93.7,2.5,7.6,78.7,70.4,67.6,C,Yes
+STU00962,16,Male,10,Math,74.4,4.0,5.7,70.8,61.4,52.6,D,Yes
+STU00963,17,Female,9,Math,88.9,3.1,8.3,63.7,64.6,75.4,B,Yes
+STU00964,19,Female,9,Math,79.2,2.9,9.1,70.0,60.4,58.0,D,Yes
+STU00965,15,Male,12,Science,99.4,6.6,7.5,100.0,52.8,77.9,B,Yes
+STU00966,17,Male,10,Science,86.8,1.4,6.4,91.6,90.5,50.4,D,Yes
+STU00967,15,Male,12,Social Studies,92.3,1.5,6.9,90.3,83.2,68.6,C,Yes
+STU00968,19,Female,9,Science,58.2,1.0,6.6,65.0,65.7,40.9,F,Yes
+STU00969,16,Female,11,Math,81.1,4.1,6.7,55.9,75.3,54.4,D,Yes
+STU00970,18,Male,9,Social Studies,86.5,2.6,7.8,91.4,75.8,95.1,A+,Yes
+STU00971,15,Female,10,Science,84.5,6.2,7.4,88.7,100.0,85.9,A,Yes
+STU00972,15,Female,9,Social Studies,92.6,3.8,8.2,77.9,83.1,86.7,A,Yes
+STU00973,19,Male,9,Computer,78.0,2.1,7.5,70.8,82.5,74.0,B,Yes
+STU00974,15,Female,12,Social Studies,82.5,1.9,6.1,55.5,70.6,67.8,C,Yes
+STU00975,17,Male,10,Social Studies,95.0,0.3,6.5,88.1,63.5,60.5,C,Yes
+STU00976,15,Female,11,Math,56.9,3.0,6.5,92.6,90.7,84.1,A,Yes
+STU00977,16,Male,10,Computer,88.5,1.2,6.9,66.5,79.8,72.1,B,Yes
+STU00978,18,Male,10,English,78.3,6.7,9.1,65.3,57.6,68.9,C,Yes
+STU00979,18,Male,11,Computer,72.0,2.5,9.3,93.4,76.8,72.6,B,Yes
+STU00980,16,Male,9,Computer,85.7,0.9,8.0,67.0,82.6,63.2,C,Yes
+STU00981,17,Female,12,English,95.5,7.6,7.2,100.0,38.6,74.0,B,Yes
+STU00982,14,Male,12,Science,93.4,3.0,5.6,74.5,56.2,61.3,C,Yes
+STU00983,15,Male,11,Social Studies,80.5,5.0,7.3,70.6,75.4,73.3,B,Yes
+STU00984,18,Male,10,Computer,91.6,2.2,6.2,76.6,41.1,74.0,B,Yes
+STU00985,17,Male,9,Social Studies,91.5,7.7,8.9,70.6,43.5,58.3,D,Yes
+STU00986,14,Male,12,Science,81.0,1.7,5.3,91.8,65.9,73.6,B,Yes
+STU00987,19,Male,10,Social Studies,74.4,2.6,7.5,88.4,77.4,64.0,C,Yes
+STU00988,16,Male,9,Science,75.0,0.6,6.1,91.2,78.1,75.6,B,Yes
+STU00989,15,Female,10,English,91.2,7.6,7.1,78.6,93.7,80.2,A,Yes
+STU00990,16,Male,12,Social Studies,81.5,2.0,7.8,69.6,71.2,67.1,C,Yes
+STU00991,16,Male,11,Science,70.5,4.2,8.2,75.9,64.4,63.2,C,Yes
+STU00992,17,Female,11,Science,63.5,4.6,7.0,70.0,50.4,40.2,F,Yes
+STU00993,14,Male,12,Social Studies,91.2,6.8,7.9,96.5,64.2,95.6,A+,Yes
+STU00994,14,Male,9,Social Studies,76.0,3.9,6.4,90.0,80.6,61.1,C,Yes
+STU00995,19,Female,12,Science,85.6,3.1,7.4,74.7,81.3,70.3,B,Yes
+STU00996,18,Male,10,Science,95.6,6.4,8.2,63.0,74.0,64.3,C,Yes
+STU00997,16,Male,11,Science,67.6,4.5,7.5,97.6,78.2,58.7,D,Yes
+STU00998,19,Male,9,Math,81.5,2.8,6.5,77.9,89.1,67.6,C,Yes
+STU00999,18,Female,12,English,80.1,7.8,6.8,74.2,71.1,68.0,C,Yes
+STU01000,18,Male,10,Science,86.2,4.8,8.2,97.7,90.5,69.4,C,Yes
+STU01001,18,Female,9,Social Studies,95.6,1.1,5.9,68.9,59.1,58.1,D,Yes
+STU01002,19,Male,10,Math,67.4,,6.1,71.5,68.9,56.3,D,Yes
+STU01003,19,Female,9,Computer,88.3,2.1,7.8,72.8,62.8,64.2,C,Yes
+STU01004,15,Male,9,English,93.3,6.8,6.6,57.6,81.9,73.0,B,Yes
+STU01005,18,Male,11,Computer,79.9,0.9,5.5,80.4,54.8,30.4,F,No
+STU01006,14,Male,10,Math,80.5,6.3,8.6,65.3,65.2,64.5,C,Yes
+STU01007,17,Male,12,English,86.6,1.2,5.9,68.0,42.1,56.4,D,Yes
+STU01008,14,Male,10,Computer,85.8,3.9,6.9,66.1,78.9,57.4,D,Yes
+STU01009,15,Male,11,Science,88.4,4.7,6.4,67.8,88.7,77.8,B,Yes
+STU01010,18,Female,10,Social Studies,88.2,,6.8,64.3,83.7,71.6,B,Yes
+STU01011,16,Male,11,English,71.2,3.4,6.1,79.5,82.2,56.3,D,Yes
+STU01012,14,Male,11,Science,92.9,1.4,7.9,73.8,82.6,68.3,C,Yes
+STU01013,19,Other,10,Math,94.8,5.9,7.2,76.7,80.5,85.2,A,Yes
+STU01014,19,Male,12,Math,84.0,4.0,8.2,100.0,79.2,67.5,C,Yes
+STU01015,15,Male,10,English,65.6,1.7,6.4,73.8,80.2,58.5,D,Yes
+STU01016,17,Male,9,English,80.7,4.1,9.4,84.5,60.2,80.3,A,Yes
+STU01017,15,Male,11,Social Studies,84.1,4.2,5.0,86.1,67.0,58.1,D,Yes
+STU01018,18,Female,12,Computer,69.4,3.5,5.4,75.1,71.1,66.1,C,Yes
+STU01019,18,Male,9,Math,78.0,0.3,9.0,79.8,65.0,49.7,F,Yes
+STU01020,16,Male,10,English,66.5,2.5,7.6,76.3,46.5,53.2,D,Yes
+STU01021,19,Male,12,English,88.7,5.8,7.5,78.8,51.5,72.6,B,Yes
+STU01022,18,Male,11,Math,83.8,4.9,7.6,67.8,73.4,45.2,F,Yes
+STU01023,14,Female,12,Computer,63.9,4.8,7.7,69.1,83.6,62.6,C,Yes
+STU01024,16,Female,11,English,85.9,4.0,7.4,76.2,70.1,72.7,B,Yes
+STU01025,18,Male,11,Math,81.4,6.3,6.0,48.4,100.0,75.4,B,Yes
+STU01026,17,Female,10,English,87.7,2.1,8.0,,56.2,60.8,C,Yes
+STU01027,14,Female,12,Computer,77.7,1.8,7.8,100.0,76.7,58.3,D,Yes
+STU01028,18,Female,10,Science,73.2,10.2,8.7,78.4,89.4,91.7,A+,Yes
+STU01029,16,Male,11,Science,73.5,1.9,9.0,85.3,86.0,66.5,C,Yes
+STU01030,15,Female,10,Math,76.1,1.1,7.5,91.1,79.8,71.8,B,Yes
+STU01031,18,Female,11,Science,82.2,2.8,5.7,57.5,86.1,67.7,C,Yes
+STU01032,19,Female,11,Social Studies,83.6,3.6,9.0,89.0,70.8,67.3,C,Yes
+STU01033,17,Female,10,Computer,79.9,6.3,6.0,70.0,94.9,86.5,A,Yes
+STU01034,18,Female,12,Math,77.3,2.5,7.5,100.0,89.2,67.8,C,Yes
+STU01035,15,Male,10,English,78.1,2.5,6.8,73.4,57.2,70.7,B,Yes
+STU01036,18,Male,11,Math,100.0,3.4,6.6,88.7,74.8,86.4,A,Yes
+STU01037,19,Female,10,English,73.5,2.2,7.9,73.5,46.8,66.2,C,Yes
+STU01038,15,Male,10,Math,75.9,0.9,7.4,100.0,92.8,69.4,C,Yes
+STU01039,19,Female,10,Computer,100.0,1.2,7.7,68.8,73.4,91.2,A+,Yes
+STU01040,14,Female,9,English,86.6,7.5,6.2,92.3,90.2,84.5,A,Yes
+STU01041,16,Male,9,Computer,66.8,5.5,6.9,84.8,68.4,70.3,B,Yes
+STU01042,14,Male,11,English,91.3,3.3,6.3,81.7,42.2,60.0,C,Yes
+STU01043,16,Male,11,Science,72.0,4.8,6.9,79.2,100.0,64.1,C,Yes
+STU01044,17,Female,11,Science,92.0,5.6,7.0,66.7,72.0,84.1,A,Yes
+STU01045,19,Female,9,Science,79.7,2.0,9.1,39.8,55.0,47.9,F,Yes
+STU01046,14,Female,10,English,77.2,1.4,6.8,91.0,87.2,77.6,B,Yes
+STU01047,19,Female,9,English,99.7,7.0,4.8,69.2,100.0,92.9,A+,Yes
+STU01048,19,Other,12,Computer,88.2,0.4,8.6,92.4,67.0,71.6,B,Yes
+STU01049,14,Female,12,Math,92.7,4.9,7.6,80.9,68.5,65.6,C,Yes
+STU01050,19,Male,10,Science,86.8,3.8,7.0,92.8,73.6,68.7,C,Yes
+STU01051,19,Male,11,Social Studies,77.1,6.5,6.6,87.2,53.3,41.3,F,Yes
+STU01052,14,Male,9,Social Studies,88.7,5.0,6.1,41.5,59.6,58.5,D,Yes
+STU01053,14,,10,Social Studies,95.3,4.8,9.2,84.6,96.7,91.4,A+,Yes
+STU01054,18,Male,9,Science,83.5,1.6,7.2,71.2,68.0,58.9,D,Yes
+STU01055,16,Female,10,Math,100.0,5.7,5.2,92.3,57.4,66.1,C,Yes
+STU01056,15,Male,11,Math,91.4,4.5,7.5,84.3,63.2,67.5,C,Yes
+STU01057,16,,12,Math,84.3,1.7,8.4,84.4,86.1,83.0,A,Yes
+STU01058,16,Male,9,Social Studies,84.8,3.8,7.3,72.2,40.4,58.0,D,Yes
+STU01059,19,Male,11,Social Studies,83.5,1.3,6.1,63.2,73.8,78.0,B,Yes
+STU01060,15,Male,11,Social Studies,68.2,3.0,6.0,69.9,100.0,62.3,C,Yes
+STU01061,14,Male,12,Computer,81.0,12.0,6.1,50.8,100.0,87.3,A,Yes
+STU01062,18,Male,11,Science,84.4,1.5,8.8,67.7,78.6,61.1,C,Yes
+STU01063,19,Male,10,English,77.4,0.9,7.0,55.5,89.7,82.0,A,Yes
+STU01064,19,Female,11,Social Studies,85.7,1.2,5.3,55.9,89.6,63.5,C,Yes
+STU01065,19,Male,10,Social Studies,82.2,,7.5,77.6,68.1,86.6,A,Yes
+STU01066,14,Male,12,English,90.5,5.3,7.3,83.5,83.9,73.1,B,Yes
+STU01067,18,Male,10,Social Studies,89.3,3.4,6.6,75.6,96.8,89.7,A,Yes
+STU01068,15,Female,11,Science,83.8,1.0,6.0,69.0,51.0,54.7,D,Yes
+STU01069,16,Male,9,English,67.0,5.2,5.9,62.7,78.6,72.9,B,Yes
+STU01070,16,Female,10,Social Studies,100.0,0.5,8.3,71.6,75.4,54.0,D,Yes
+STU01071,19,Male,12,Science,80.4,1.1,7.4,64.5,71.5,63.0,C,Yes
+STU01072,17,Female,11,Computer,81.1,2.1,7.6,75.1,70.2,52.9,D,Yes
+STU01073,15,Female,10,English,78.2,6.8,7.4,54.7,73.5,71.6,B,Yes
+STU01074,14,Female,12,Science,76.6,3.6,7.5,85.8,74.7,53.7,D,Yes
+STU01075,17,Female,12,Science,99.0,3.7,6.6,68.1,86.8,71.9,B,Yes
+STU01076,18,Female,10,Computer,97.2,1.0,6.9,81.3,77.1,78.3,B,Yes
+STU01077,18,Male,11,English,86.9,,8.4,88.4,67.3,73.6,B,Yes
+STU01078,19,Female,10,Science,80.8,6.2,8.7,80.6,57.4,58.3,D,Yes
+STU01079,14,Male,11,Computer,88.8,4.3,5.8,87.2,62.9,49.0,F,Yes
+STU01080,16,Female,10,Math,82.8,5.4,6.9,47.1,73.9,70.2,B,Yes
+STU01081,17,Male,10,Math,79.9,3.3,8.0,69.1,59.4,77.8,B,Yes
+STU01082,19,Male,12,Social Studies,85.7,6.2,9.2,91.4,84.2,72.3,B,Yes
+STU01083,15,Female,12,Computer,77.1,1.0,9.1,83.1,76.5,86.7,A,Yes
+STU01084,18,Male,12,English,84.8,2.9,6.2,100.0,87.2,74.0,B,Yes
+STU01085,15,Male,12,Math,84.2,4.7,8.5,99.9,60.4,53.2,D,Yes
+STU01086,17,Male,11,English,88.6,0.7,7.2,80.2,57.5,43.9,F,Yes
+STU01087,18,Female,11,English,75.2,0.2,8.2,72.5,87.0,71.1,B,Yes
+STU01088,18,Female,11,English,89.8,10.2,8.0,62.6,71.9,81.5,A,Yes
+STU01089,16,Male,10,Math,72.0,3.6,5.7,69.3,67.0,75.1,B,Yes
+STU01090,16,Female,10,English,75.7,0.7,7.7,70.3,80.5,49.7,F,Yes
+STU01091,19,Male,10,English,76.2,3.5,8.2,67.7,79.9,68.5,C,Yes
+STU01092,17,Female,11,Science,70.2,1.1,7.1,63.1,51.2,51.0,D,Yes
+STU01093,16,Male,10,Math,93.2,1.6,6.8,81.6,90.8,70.0,B,Yes
+STU01094,15,Female,10,Social Studies,71.3,7.0,5.4,99.8,63.8,68.0,C,Yes
+STU01095,18,Female,11,Computer,74.3,2.2,7.9,89.1,95.5,69.0,C,Yes
+STU01096,18,Other,10,Computer,95.8,2.2,7.3,71.5,50.0,62.1,C,Yes
+STU01097,17,Male,9,Computer,75.7,1.1,6.1,90.2,74.8,66.0,C,Yes
+STU01098,14,Male,12,Computer,79.9,2.6,6.7,80.9,67.2,66.1,C,Yes
+STU01099,14,Male,12,Math,70.9,3.8,7.3,75.4,40.4,68.2,C,Yes
+STU01100,15,Female,9,English,91.2,2.2,6.5,74.6,79.9,55.3,D,Yes
+STU01101,14,Female,9,Social Studies,91.3,12.0,7.1,73.2,41.1,58.4,D,Yes
+STU01102,16,Female,10,Science,90.1,1.4,5.2,85.1,65.6,72.2,B,Yes
+STU01103,16,Male,12,Social Studies,87.9,1.4,8.6,78.0,86.6,60.7,C,Yes
+STU01104,16,Female,12,Math,,2.5,7.1,65.8,62.0,56.3,D,Yes
+STU01105,19,Male,9,Science,76.2,11.1,5.9,65.1,56.4,66.5,C,Yes
+STU01106,15,Female,12,Science,73.0,5.4,4.4,,82.0,62.6,C,Yes
+STU01107,18,Female,9,Computer,96.2,2.1,8.2,82.0,66.3,53.4,D,Yes
+STU01108,15,Female,10,Math,90.4,2.1,7.7,71.6,63.9,57.6,D,Yes
+STU01109,17,Female,12,Science,74.4,1.3,7.3,60.2,89.1,69.0,C,Yes
+STU01110,19,Female,9,Computer,82.4,2.4,8.1,93.5,52.5,63.8,C,Yes
+STU01111,19,Male,9,Science,78.7,2.8,8.0,90.5,63.1,71.1,B,Yes
+STU01112,17,Female,10,Social Studies,69.6,5.2,7.3,48.2,83.0,60.2,C,Yes
+STU01113,15,Male,11,Social Studies,84.0,4.5,6.8,,51.5,75.8,B,Yes
+STU01114,16,Male,12,Science,77.4,2.4,6.6,73.1,96.6,64.1,C,Yes
+STU01115,16,Male,12,English,71.5,8.5,7.6,78.7,66.7,53.0,D,Yes
+STU01116,19,Male,9,Science,65.7,1.9,8.6,91.9,83.1,71.2,B,Yes
+STU01117,16,Female,9,Science,64.8,0.9,7.0,99.1,83.1,73.0,B,Yes
+STU01118,18,Female,12,Computer,77.9,3.9,8.7,90.0,67.7,64.5,C,Yes
+STU01119,19,Female,10,Science,81.1,6.6,7.5,79.4,62.8,83.3,A,Yes
+STU01120,14,Male,12,Math,72.4,3.2,7.5,56.7,69.4,51.4,D,Yes
+STU01121,19,Male,11,Science,89.2,1.1,9.7,47.6,80.7,70.1,B,Yes
+STU01122,17,Female,9,Social Studies,81.3,3.7,8.9,88.3,55.2,84.3,A,Yes
+STU01123,17,Female,12,Science,88.3,4.0,8.9,94.8,52.0,69.8,C,Yes
+STU01124,15,Male,9,Science,80.0,4.3,6.2,64.6,92.3,67.9,C,Yes
+STU01125,16,Male,10,Computer,73.3,3.7,9.5,72.2,59.0,62.6,C,Yes
+STU01126,17,Male,11,Math,83.3,7.2,7.0,68.2,75.3,89.9,A,Yes
+STU01127,15,Male,10,Science,68.1,1.3,6.8,67.8,67.0,59.9,D,Yes
+STU01128,18,Male,11,Math,87.9,0.1,4.7,91.0,67.6,81.5,A,Yes
+STU01129,18,Male,11,Social Studies,71.7,0.5,7.5,79.1,91.5,67.8,C,Yes
+STU01130,14,Female,12,Social Studies,92.1,1.1,5.9,72.8,68.7,54.6,D,Yes
+STU01131,15,Female,12,Computer,78.3,5.9,7.5,100.0,64.6,68.1,C,Yes
+STU01132,17,Male,10,Science,93.7,2.6,5.8,55.9,66.0,60.9,C,Yes
+STU01133,18,Male,9,Computer,69.7,8.9,9.1,83.7,62.4,55.7,D,Yes
+STU01134,15,Female,11,Computer,74.5,1.2,7.7,61.3,59.9,50.1,D,Yes
+STU01135,19,Male,12,Social Studies,86.2,8.8,9.6,73.8,62.5,73.6,B,Yes
+STU01136,17,Female,10,Math,94.9,1.6,6.0,78.1,94.9,73.7,B,Yes
+STU01137,17,Male,10,Computer,100.0,2.8,8.8,87.8,80.7,95.5,A+,Yes
+STU01138,14,Female,10,Math,82.5,0.7,5.1,72.3,64.8,56.6,D,Yes
+STU01139,17,Male,9,English,100.0,8.1,7.3,70.9,84.7,63.4,C,Yes
+STU01140,18,Male,11,Social Studies,78.8,3.1,6.4,,46.2,47.2,F,Yes
+STU01141,15,Female,10,Math,94.1,12.0,6.6,60.9,90.6,90.6,A+,Yes
+STU01142,17,Female,12,Math,71.6,6.8,6.5,84.9,89.4,77.9,B,Yes
+STU01143,14,Male,12,Social Studies,86.6,2.8,6.1,79.9,100.0,90.0,A+,Yes
+STU01144,15,Female,12,Math,56.2,1.8,5.7,82.1,85.2,70.5,B,Yes
+STU01145,14,Female,10,Computer,69.7,6.1,6.6,75.0,76.6,79.0,B,Yes
+STU01146,18,Male,10,English,87.1,3.4,7.2,73.3,89.4,69.9,C,Yes
+STU01147,19,Female,11,Science,67.6,1.7,8.4,92.5,60.6,72.6,B,Yes
+STU01148,14,Female,12,Social Studies,86.7,3.5,7.4,90.3,64.1,59.8,D,Yes
+STU01149,18,Female,10,Social Studies,92.0,0.4,8.4,95.8,69.0,77.1,B,Yes
+STU01150,17,Male,12,Science,76.5,4.4,5.5,81.2,90.5,68.8,C,Yes
+STU01151,18,Female,9,Math,71.3,5.0,6.6,94.9,57.2,51.9,D,Yes
+STU01152,17,Female,12,Math,76.8,1.2,7.9,70.2,55.6,62.1,C,Yes
+STU01153,19,Female,9,Math,71.4,7.3,7.5,73.2,73.5,86.3,A,Yes
+STU01154,14,Female,9,Social Studies,80.9,6.3,6.2,92.7,80.8,72.7,B,Yes
+STU01155,14,Female,11,English,83.1,4.1,8.1,87.8,59.5,83.8,A,Yes
+STU01156,15,Female,9,Computer,,1.5,6.5,71.9,80.1,46.1,F,Yes
+STU01157,18,Female,9,Science,100.0,5.2,6.2,61.4,90.5,63.3,C,Yes
+STU01158,14,Female,9,Social Studies,74.1,2.4,7.6,73.1,88.0,65.8,C,Yes
+STU01159,14,Male,10,Computer,97.3,,7.1,66.4,75.3,66.0,C,Yes
+STU01160,18,Female,12,Computer,70.5,5.5,6.5,100.0,68.6,64.6,C,Yes
+STU01161,16,Female,9,English,82.8,0.9,6.5,86.6,96.0,71.2,B,Yes
+STU01162,18,Male,11,Computer,95.0,0.6,5.9,65.3,70.2,54.4,D,Yes
+STU01163,16,Male,12,English,94.4,2.3,6.7,61.4,84.1,63.4,C,Yes
+STU01164,14,Male,9,Science,77.4,11.0,8.3,65.1,99.4,90.4,A+,Yes
+STU01165,17,Female,9,English,88.1,12.0,7.4,68.2,82.5,80.1,A,Yes
+STU01166,14,Female,12,Science,86.6,4.3,8.2,73.7,55.0,64.4,C,Yes
+STU01167,16,Female,12,Social Studies,76.1,6.5,7.7,91.6,51.4,63.0,C,Yes
+STU01168,19,Female,11,Computer,88.8,3.2,6.4,62.5,65.5,50.2,D,Yes
+STU01169,15,Female,12,Computer,100.0,3.5,5.3,100.0,80.6,83.4,A,Yes
+STU01170,15,Male,9,Computer,87.2,2.8,6.1,62.8,76.7,81.0,A,Yes
+STU01171,19,Female,10,English,88.2,7.0,6.4,56.3,100.0,88.8,A,Yes
+STU01172,15,Male,11,Social Studies,89.4,9.0,6.3,99.6,76.5,87.7,A,Yes
+STU01173,16,Female,10,Science,65.9,3.5,8.2,94.5,65.1,59.9,D,Yes
+STU01174,18,Female,11,English,87.1,3.5,8.2,73.4,53.0,60.5,C,Yes
+STU01175,14,Male,10,Math,70.8,2.9,9.5,81.3,87.7,82.0,A,Yes
+STU01176,14,Male,11,Science,75.5,9.2,6.3,81.7,69.9,53.5,D,Yes
+STU01177,19,Female,10,English,100.0,5.9,8.9,77.9,47.4,67.5,C,Yes
+STU01178,19,Male,10,English,79.2,1.4,8.9,57.8,70.3,67.3,C,Yes
+STU01179,19,Female,9,Social Studies,73.9,10.8,6.8,41.3,55.1,56.1,D,Yes
+STU01180,14,Female,9,Computer,94.7,0.3,7.6,64.2,63.6,63.2,C,Yes
+STU01181,17,Male,11,English,71.6,8.6,8.5,100.0,70.1,84.3,A,Yes
+STU01182,19,Female,9,English,77.1,6.6,7.0,100.0,56.4,57.6,D,Yes
+STU01183,19,Female,9,Computer,95.7,3.5,6.9,72.3,62.7,67.0,C,Yes
+STU01184,16,Female,9,Computer,82.5,3.4,6.4,62.6,58.8,53.2,D,Yes
+STU01185,16,Female,9,Science,64.8,3.0,4.5,79.9,59.2,60.2,C,Yes
+STU01186,14,Female,12,English,88.0,1.5,7.2,,54.9,67.3,C,Yes
+STU01187,14,Female,10,English,77.6,10.2,6.3,84.4,62.8,81.3,A,Yes
+STU01188,16,Male,12,Math,98.9,3.4,5.9,40.6,56.6,58.1,D,Yes
+STU01189,15,Male,9,Social Studies,75.3,1.5,7.6,100.0,78.8,71.4,B,Yes
+STU01190,19,Female,11,English,93.6,9.8,5.5,91.9,73.0,71.7,B,Yes
+STU01191,14,Female,10,Science,100.0,4.6,8.0,73.2,87.9,77.5,B,Yes
+STU01192,17,Male,10,Computer,72.6,4.8,7.6,65.9,98.3,65.2,C,Yes
+STU01193,17,Female,12,Computer,79.9,11.3,6.7,89.8,80.2,96.7,A+,Yes
+STU01194,14,Male,12,Social Studies,86.3,5.3,7.0,82.9,76.7,80.7,A,Yes
+STU01195,16,Male,12,Math,72.6,2.0,5.8,77.3,81.1,69.7,C,Yes
+STU01196,19,Female,9,English,85.0,5.3,7.9,82.4,77.0,91.8,A+,Yes
+STU01197,14,Female,9,Math,79.5,1.6,7.3,74.4,70.8,58.7,D,Yes
+STU01198,14,Female,11,English,79.3,2.4,7.4,81.6,69.6,59.2,D,Yes
+STU01199,14,Female,10,English,82.5,4.2,7.7,86.2,54.7,62.6,C,Yes
+STU01200,14,Female,11,English,82.8,6.4,6.4,80.8,82.6,59.8,D,Yes
+STU01201,19,Male,11,Social Studies,83.8,2.1,5.4,80.1,69.5,47.2,F,Yes
+STU01202,14,Female,11,English,75.4,3.0,8.2,95.5,91.7,81.2,A,Yes
+STU01203,15,Male,12,English,75.9,2.9,7.9,53.6,83.7,50.0,D,Yes
+STU01204,18,Male,11,Math,80.7,7.1,6.5,64.8,60.6,56.7,D,Yes
+STU01205,19,Female,9,Science,81.5,3.4,7.6,76.4,88.7,70.7,B,Yes
+STU01206,14,Female,9,Social Studies,77.2,10.7,8.5,65.8,31.6,64.3,C,Yes
+STU01207,16,Female,11,English,85.6,2.4,8.4,70.5,99.0,82.2,A,Yes
+STU01208,15,Male,10,Social Studies,62.0,2.2,6.5,94.0,49.9,57.0,D,Yes
+STU01209,15,Female,10,English,74.0,8.5,5.5,73.9,77.4,66.1,C,Yes
+STU01210,19,Male,10,English,78.9,5.0,5.7,50.4,76.4,73.2,B,Yes
+STU01211,16,Male,11,English,72.6,12.0,6.8,70.1,86.9,91.6,A+,Yes
+STU01212,17,Male,12,English,99.9,8.3,8.7,76.8,65.1,66.3,C,Yes
+STU01213,14,Other,11,Math,,1.1,6.3,76.6,37.8,54.1,D,Yes
+STU01214,15,Male,10,Math,83.9,3.4,6.4,83.8,65.1,58.6,D,Yes
+STU01215,16,Male,10,English,76.7,4.2,6.4,82.6,66.7,58.5,D,Yes
+STU01216,17,Male,11,English,81.8,4.0,6.5,74.1,39.3,76.1,B,Yes
+STU01217,19,Male,10,English,68.6,3.0,7.1,59.3,70.7,60.3,C,Yes
+STU01218,15,Male,11,English,80.1,3.9,5.7,69.8,53.9,56.9,D,Yes
+STU01219,17,Male,11,Science,71.7,4.1,8.3,67.3,79.7,68.4,C,Yes
+STU01220,16,Female,9,Computer,78.9,2.2,6.9,72.0,66.3,69.5,C,Yes
+STU01221,18,Male,9,Computer,53.8,7.0,9.8,85.7,99.4,73.4,B,Yes
+STU01222,16,Male,9,Math,69.6,9.9,5.8,81.7,66.2,69.4,C,Yes
+STU01223,16,Male,12,English,98.1,5.6,8.8,87.5,76.5,86.6,A,Yes
+STU01224,17,Female,11,Computer,91.1,4.5,8.6,70.6,66.8,54.8,D,Yes
+STU01225,16,Male,9,Computer,96.5,3.2,6.6,97.1,45.7,75.5,B,Yes
+STU01226,18,Male,12,Science,97.3,4.2,6.7,85.4,66.9,55.4,D,Yes
+STU01227,14,Male,10,Social Studies,89.4,4.5,6.1,77.6,81.3,69.6,C,Yes
+STU01228,16,Female,10,Computer,77.0,1.5,6.1,84.4,79.0,48.1,F,Yes
+STU01229,15,Male,12,English,70.6,6.7,7.1,66.5,65.6,56.4,D,Yes
+STU01230,14,Male,9,Computer,94.6,2.5,7.1,46.5,48.1,67.9,C,Yes
+STU01231,14,Male,9,Social Studies,82.7,8.8,5.3,67.5,79.7,86.2,A,Yes
+STU01232,16,Male,11,Science,100.0,3.8,9.6,86.5,76.3,89.1,A,Yes
+STU01233,15,Male,9,Math,78.0,6.8,6.8,77.1,82.7,60.8,C,Yes
+STU01234,18,Male,11,English,100.0,5.6,7.2,74.1,65.9,62.4,C,Yes
+STU01235,17,Female,9,Math,80.3,1.2,6.4,64.1,44.7,54.3,D,Yes
+STU01236,18,Male,9,Social Studies,96.7,8.3,6.8,48.6,78.0,82.5,A,Yes
+STU01237,19,Female,9,Social Studies,100.0,1.9,6.7,95.9,69.9,62.4,C,Yes
+STU01238,18,Male,10,Computer,70.7,2.4,7.1,73.1,90.9,61.0,C,Yes
+STU01239,16,Male,9,Social Studies,76.7,2.5,7.1,70.0,70.4,50.6,D,Yes
+STU01240,19,Female,9,Math,70.6,0.8,8.0,66.6,69.3,73.8,B,Yes
+STU01241,16,Female,12,Computer,68.5,4.0,7.3,93.6,76.3,65.0,C,Yes
+STU01242,18,Female,10,English,89.3,7.1,7.9,88.3,61.0,76.2,B,Yes
+STU01243,15,Male,10,Science,79.8,8.6,7.1,62.5,60.3,71.3,B,Yes
+STU01244,19,Male,9,Science,82.6,3.0,7.4,92.3,68.5,79.5,B,Yes
+STU01245,15,Female,10,English,88.1,3.4,6.8,74.0,56.2,53.2,D,Yes
+STU01246,17,Male,10,Computer,61.6,5.8,8.2,67.5,66.6,76.6,B,Yes
+STU01247,16,Female,11,Math,96.2,3.1,7.5,71.9,99.1,63.5,C,Yes
+STU01248,15,Male,9,Computer,78.2,7.5,6.9,65.0,85.6,86.9,A,Yes
+STU01249,15,Female,12,Social Studies,87.9,3.3,6.9,57.5,74.6,47.3,F,Yes
+STU01250,17,Female,12,Math,88.8,1.7,7.0,86.9,93.3,71.6,B,Yes
+STU01251,14,Female,9,Social Studies,97.1,4.0,7.1,72.9,57.6,82.6,A,Yes
+STU01252,15,Male,9,Computer,80.8,0.9,7.0,84.6,100.0,77.7,B,Yes
+STU01253,19,Female,9,Science,58.6,4.0,6.5,80.0,63.1,64.4,C,Yes
+STU01254,14,Male,11,Computer,82.6,4.5,7.9,83.7,100.0,68.7,C,Yes
+STU01255,18,Female,9,Computer,84.2,1.9,8.0,47.4,100.0,59.9,D,Yes
+STU01256,15,Female,12,Computer,70.6,4.4,9.1,63.9,43.7,71.5,B,Yes
+STU01257,15,Female,11,Math,83.6,2.8,6.4,84.0,92.0,76.8,B,Yes
+STU01258,16,Female,12,Math,78.0,1.8,7.8,58.2,65.7,66.9,C,Yes
+STU01259,16,Male,11,Computer,67.2,0.8,5.0,81.2,61.5,54.4,D,Yes
+STU01260,18,Female,12,Science,89.4,1.0,8.0,56.5,77.9,59.4,D,Yes
+STU01261,18,Other,9,Science,75.8,9.3,5.5,76.2,54.9,78.0,B,Yes
+STU01262,16,Female,10,English,77.5,2.7,6.0,98.5,77.5,71.4,B,Yes
+STU01263,15,Female,10,Computer,76.9,4.5,7.5,86.8,55.9,64.0,C,Yes
+STU01264,14,Female,12,Math,95.6,3.0,6.4,50.1,72.7,48.7,F,Yes
+STU01265,18,Female,11,Social Studies,81.5,9.5,6.3,87.9,90.0,94.6,A+,Yes
+STU01266,19,Male,12,English,82.9,1.8,6.6,100.0,75.8,73.2,B,Yes
+STU01267,14,Male,9,Math,77.2,3.6,7.9,100.0,64.6,63.5,C,Yes
+STU01268,17,Female,12,Math,87.1,2.3,6.1,82.7,78.1,79.1,B,Yes
+STU01269,15,Male,10,Social Studies,96.8,6.8,7.0,56.9,48.9,68.6,C,Yes
+STU01270,15,Male,10,Math,89.1,4.4,6.7,82.1,57.4,69.4,C,Yes
+STU01271,18,Male,12,English,89.6,3.5,8.0,98.3,63.5,80.4,A,Yes
+STU01272,15,Male,10,Computer,88.7,1.2,8.0,73.4,81.8,73.6,B,Yes
+STU01273,15,Male,10,English,66.8,12.0,5.1,90.6,76.1,85.0,A,Yes
+STU01274,14,Male,11,Science,72.4,3.1,8.2,64.2,78.0,62.6,C,Yes
+STU01275,19,Male,9,Math,79.7,1.6,6.4,81.2,69.6,81.8,A,Yes
+STU01276,19,Male,10,Computer,74.0,0.8,7.4,41.1,58.2,41.7,F,Yes
+STU01277,19,Male,9,English,70.3,1.0,6.1,62.7,92.3,68.4,C,Yes
+STU01278,15,Female,9,Math,61.4,3.5,7.5,75.9,59.5,58.3,D,Yes
+STU01279,15,Male,12,Math,67.2,6.8,9.9,70.9,76.3,78.2,B,Yes
+STU01280,19,Male,11,English,79.2,4.2,7.2,57.8,68.3,75.3,B,Yes
+STU01281,17,Female,10,Math,81.2,0.9,6.6,69.0,78.4,58.0,D,Yes
+STU01282,15,Male,10,Science,73.3,3.5,6.8,80.6,60.9,68.3,C,Yes
+STU01283,14,Male,10,Math,82.9,8.2,5.5,74.8,85.8,80.7,A,Yes
+STU01284,18,Female,11,Computer,77.2,2.6,8.7,76.9,90.7,64.8,C,Yes
+STU01285,18,Male,12,Computer,94.0,4.2,7.4,86.2,84.9,89.4,A,Yes
+STU01286,14,Male,12,Computer,80.2,2.7,5.9,71.2,72.4,69.5,C,Yes
+STU01287,16,Male,10,Math,89.7,,6.0,95.0,63.5,67.0,C,Yes
+STU01288,16,,10,Science,84.2,1.8,7.1,62.2,100.0,79.9,B,Yes
+STU01289,16,Female,10,Science,66.6,0.1,8.1,100.0,55.1,49.5,F,Yes
+STU01290,16,Male,11,Computer,81.0,1.2,5.8,91.6,83.2,66.3,C,Yes
+STU01291,15,Female,10,Social Studies,68.4,2.4,8.3,71.0,75.0,58.5,D,Yes
+STU01292,16,Female,11,Science,80.8,3.2,7.0,71.9,69.1,71.6,B,Yes
+STU01293,19,Female,11,Computer,73.8,2.5,6.1,78.9,72.8,57.7,D,Yes
+STU01294,19,Female,10,English,86.2,2.4,6.6,84.4,62.3,71.4,B,Yes
+STU01295,14,Male,10,Social Studies,67.2,6.9,9.0,91.3,76.4,82.8,A,Yes
+STU01296,18,Male,10,Math,82.2,1.4,5.6,57.2,74.8,54.0,D,Yes
+STU01297,17,Male,9,Social Studies,88.3,3.5,6.3,82.1,100.0,94.5,A+,Yes
+STU01298,15,Male,9,English,92.0,0.9,8.1,46.4,86.1,55.5,D,Yes
+STU01299,15,Female,11,Science,73.6,5.6,7.3,73.5,77.7,56.3,D,Yes
+STU01300,18,Female,10,Math,82.2,4.2,6.2,96.4,78.6,81.6,A,Yes
+STU01301,16,Female,9,Social Studies,84.0,12.0,8.2,56.2,97.6,67.2,C,Yes
+STU01302,14,Female,11,Social Studies,99.0,1.4,8.2,53.6,55.4,73.4,B,Yes
+STU01303,19,Female,11,Math,65.7,9.8,7.5,79.1,67.3,76.5,B,Yes
+STU01304,19,Female,10,English,72.0,1.6,6.4,95.4,41.4,40.9,F,Yes
+STU01305,16,Female,12,Computer,100.0,2.6,6.6,80.6,78.4,61.5,C,Yes
+STU01306,16,Female,12,English,79.0,1.1,7.4,49.3,82.7,42.9,F,Yes
+STU01307,16,Male,11,Math,61.2,12.0,5.7,52.4,55.1,71.8,B,Yes
+STU01308,15,Male,11,Science,75.6,4.6,8.6,77.4,91.5,61.8,C,Yes
+STU01309,14,Male,9,Science,51.5,4.6,9.0,59.5,59.2,62.6,C,Yes
+STU01310,15,Male,12,Science,84.7,1.7,6.8,77.9,64.9,58.7,D,Yes
+STU01311,16,Male,10,Social Studies,90.9,0.3,7.5,78.7,71.8,58.5,D,Yes
+STU01312,14,Female,12,Science,72.0,2.5,8.4,69.1,93.9,73.9,B,Yes
+STU01313,14,Male,11,Computer,76.8,2.2,9.3,100.0,57.1,72.5,B,Yes
+STU01314,19,Female,9,Social Studies,92.2,0.6,8.8,84.3,74.4,79.0,B,Yes
+STU01315,19,Female,9,Computer,62.7,2.7,5.2,93.0,81.6,58.3,D,Yes
+STU01316,15,Female,11,Computer,67.5,3.5,6.8,88.9,78.5,67.3,C,Yes
+STU01317,17,Female,11,Math,79.5,4.8,7.7,73.9,79.1,64.7,C,Yes
+STU01318,14,Female,9,Math,73.7,0.4,6.6,73.3,81.4,61.8,C,Yes
+STU01319,19,Male,11,Computer,78.8,1.1,9.1,71.8,61.7,52.1,D,Yes
+STU01320,18,Male,12,Computer,68.1,1.7,8.9,85.5,95.3,66.4,C,Yes
+STU01321,15,Male,10,Computer,84.4,7.1,6.2,66.9,68.3,66.3,C,Yes
+STU01322,15,Male,10,English,80.4,7.0,6.9,100.0,66.3,79.3,B,Yes
+STU01323,15,Male,9,English,88.0,4.4,6.3,65.6,90.2,71.9,B,Yes
+STU01324,14,Female,12,Math,84.2,2.6,6.9,79.0,60.5,67.6,C,Yes
+STU01325,16,Male,10,Science,84.3,7.4,6.9,72.8,74.8,73.9,B,Yes
+STU01326,18,Male,12,English,66.1,4.1,8.1,69.7,59.2,55.0,D,Yes
+STU01327,18,Female,10,Math,87.4,7.1,6.1,100.0,100.0,88.5,A,Yes
+STU01328,14,Female,11,Math,78.4,4.6,4.2,69.9,100.0,62.1,C,Yes
+STU01329,16,Male,10,Math,80.2,0.7,5.3,,68.3,62.4,C,Yes
+STU01330,18,Male,9,Science,93.5,0.3,6.0,66.7,77.8,58.4,D,Yes
+STU01331,19,Female,12,Social Studies,74.1,2.4,6.4,76.6,70.1,63.6,C,Yes
+STU01332,17,Male,10,Computer,96.9,6.1,7.3,74.6,64.8,75.3,B,Yes
+STU01333,18,Female,11,Social Studies,97.9,2.2,5.9,60.3,71.8,79.0,B,Yes
+STU01334,15,Female,12,Science,90.3,8.3,5.8,70.1,69.4,78.5,B,Yes
+STU01335,19,Female,12,English,71.2,5.7,6.1,84.5,47.2,63.0,C,Yes
+STU01336,16,Female,12,Social Studies,58.0,7.8,5.9,90.4,73.9,65.1,C,Yes
+STU01337,18,Male,9,Science,93.9,2.5,6.5,76.3,69.4,74.0,B,Yes
+STU01338,15,Female,11,Computer,83.2,1.5,6.4,76.8,74.7,60.4,C,Yes
+STU01339,15,Male,12,Computer,73.8,1.3,7.9,70.9,68.8,44.3,F,Yes
+STU01340,17,Female,10,Social Studies,94.9,4.9,6.0,69.0,64.6,65.6,C,Yes
+STU01341,17,Male,9,Social Studies,72.5,0.7,6.7,63.1,83.1,61.0,C,Yes
+STU01342,17,Male,12,Computer,77.3,0.8,6.5,54.2,78.0,48.7,F,Yes
+STU01343,18,Male,10,English,87.8,2.1,8.0,66.2,90.9,68.4,C,Yes
+STU01344,18,Male,11,Social Studies,69.8,3.9,6.9,88.7,77.4,67.9,C,Yes
+STU01345,15,Male,12,Computer,80.8,1.8,8.3,70.1,67.0,61.4,C,Yes
+STU01346,16,Male,11,Science,94.0,7.0,5.8,71.2,79.3,88.2,A,Yes
+STU01347,14,Male,10,Computer,84.3,7.9,7.0,70.9,40.3,52.9,D,Yes
+STU01348,18,Male,10,English,95.7,0.2,6.5,93.4,100.0,94.1,A+,Yes
+STU01349,14,Female,10,Science,94.5,4.6,5.8,63.0,74.1,67.8,C,Yes
+STU01350,14,Female,9,English,82.1,2.2,7.0,79.9,100.0,78.4,B,Yes
+STU01351,17,Female,12,Computer,56.3,6.3,9.0,75.0,57.0,65.8,C,Yes
+STU01352,19,Female,12,Social Studies,69.8,4.7,6.2,77.0,53.2,43.0,F,Yes
+STU01353,16,Female,10,English,90.4,3.8,7.0,79.4,75.5,60.1,C,Yes
+STU01354,15,Female,10,Math,64.9,3.1,5.7,76.8,75.4,56.3,D,Yes
+STU01355,15,Male,12,Social Studies,78.4,0.8,5.5,87.1,75.1,71.6,B,Yes
+STU01356,19,Female,9,English,85.7,12.0,6.2,75.6,72.8,69.8,C,Yes
+STU01357,17,Male,11,Science,98.2,1.1,6.6,100.0,60.6,57.9,D,Yes
+STU01358,16,Female,10,Computer,75.7,9.9,6.7,76.6,47.7,72.6,B,Yes
+STU01359,19,Male,11,Science,74.9,5.4,6.9,52.2,74.2,69.3,C,Yes
+STU01360,14,Female,9,Science,81.4,2.3,5.3,84.9,50.8,62.3,C,Yes
+STU01361,17,Female,11,Social Studies,85.9,2.0,6.4,81.5,49.3,48.6,F,Yes
+STU01362,16,Female,10,Social Studies,80.3,0.8,7.7,76.5,64.3,43.6,F,Yes
+STU01363,15,Male,11,English,93.5,,5.6,72.4,76.5,73.4,B,Yes
+STU01364,19,Female,9,Science,73.2,0.7,6.7,46.4,99.8,74.9,B,Yes
+STU01365,19,Male,10,Social Studies,83.3,7.3,7.4,48.7,84.7,69.6,C,Yes
+STU01366,19,Female,11,Math,86.9,4.1,6.2,99.1,91.5,66.6,C,Yes
+STU01367,14,Male,9,Computer,77.6,3.3,7.5,67.8,79.8,62.1,C,Yes
+STU01368,18,Female,9,English,91.2,3.6,5.4,89.5,75.5,74.5,B,Yes
+STU01369,16,Male,9,Social Studies,83.6,4.2,8.1,53.6,100.0,70.7,B,Yes
+STU01370,16,Female,10,English,90.7,2.6,7.5,61.3,50.2,72.3,B,Yes
+STU01371,15,Female,9,Social Studies,84.1,2.9,7.2,85.5,63.8,75.0,B,Yes
+STU01372,17,Female,12,Math,86.1,10.6,8.3,74.6,65.0,82.9,A,Yes
+STU01373,19,Female,10,Computer,75.0,6.8,6.7,83.5,83.4,56.4,D,Yes
+STU01374,15,Female,12,Math,75.1,5.2,6.4,75.8,55.3,56.1,D,Yes
+STU01375,17,Other,12,Computer,95.5,2.3,8.6,73.1,81.5,65.7,C,Yes
+STU01376,17,Female,9,Math,89.0,0.5,9.1,66.5,78.7,57.2,D,Yes
+STU01377,17,Female,11,Social Studies,70.7,4.8,6.3,59.3,82.2,67.3,C,Yes
+STU01378,15,Male,12,Computer,84.0,3.6,7.0,95.6,81.9,76.0,B,Yes
+STU01379,14,Female,11,Math,55.9,2.8,8.2,97.9,93.1,54.4,D,Yes
+STU01380,18,Female,10,Social Studies,75.7,3.2,7.0,61.5,69.3,69.0,C,Yes
+STU01381,17,Male,10,Science,92.6,1.2,7.8,60.5,78.0,64.0,C,Yes
+STU01382,18,Male,9,English,80.6,1.5,8.0,71.1,59.0,62.4,C,Yes
+STU01383,17,Male,11,Math,83.3,6.8,6.5,80.8,55.5,76.7,B,Yes
+STU01384,16,Female,12,Math,48.8,0.3,7.6,73.5,96.5,52.3,D,Yes
+STU01385,15,Male,12,Science,77.7,6.1,7.1,83.0,57.8,81.0,A,Yes
+STU01386,17,Female,9,English,85.7,8.6,5.8,75.3,79.6,76.7,B,Yes
+STU01387,18,Other,11,English,87.1,4.8,6.0,74.4,78.0,85.6,A,Yes
+STU01388,15,Male,10,Social Studies,92.6,4.6,6.4,100.0,87.6,70.6,B,Yes
+STU01389,14,Male,12,Math,79.7,1.5,8.1,68.6,45.1,68.8,C,Yes
+STU01390,14,Female,9,Computer,80.2,1.7,8.2,99.0,83.4,62.8,C,Yes
+STU01391,17,Female,12,Math,67.3,2.4,7.9,96.3,69.1,91.0,A+,Yes
+STU01392,15,Male,12,Science,79.8,1.0,7.6,83.1,61.0,50.7,D,Yes
+STU01393,18,Male,9,Math,68.1,1.6,7.6,49.0,66.2,64.0,C,Yes
+STU01394,15,Male,9,Math,61.7,3.6,7.4,76.4,85.6,63.1,C,Yes
+STU01395,16,Male,12,English,70.1,2.3,7.5,68.8,81.0,70.4,B,Yes
+STU01396,15,Male,9,Social Studies,98.6,3.8,7.6,76.3,68.1,70.1,B,Yes
+STU01397,16,Female,11,Computer,79.0,6.8,5.6,61.1,52.9,51.6,D,Yes
+STU01398,18,Female,12,Social Studies,84.4,3.8,6.2,86.6,54.0,35.9,F,Yes
+STU01399,18,Female,11,English,76.4,4.6,6.0,89.8,81.3,96.8,A+,Yes
+STU01400,18,Female,10,Math,62.3,0.7,8.3,92.4,50.8,56.3,D,Yes
+STU01401,17,Female,10,Science,92.3,6.7,8.9,70.6,68.2,46.0,F,Yes
+STU01402,16,Male,9,Social Studies,58.1,0.7,4.7,61.2,100.0,60.9,C,Yes
+STU01403,15,Male,12,Math,75.9,2.2,8.8,80.9,76.9,74.1,B,Yes
+STU01404,19,Male,10,Math,81.4,1.3,7.2,100.0,81.1,62.5,C,Yes
+STU01405,18,Female,9,Social Studies,84.5,0.5,8.2,77.0,54.1,50.7,D,Yes
+STU01406,19,Male,10,Math,74.0,3.7,7.7,82.3,51.6,61.4,C,Yes
+STU01407,18,Male,12,Social Studies,61.8,4.9,8.7,72.7,81.9,81.1,A,Yes
+STU01408,14,Male,9,Computer,73.2,,7.3,69.0,65.8,73.3,B,Yes
+STU01409,15,Male,12,Computer,73.8,4.1,5.6,85.2,87.6,85.2,A,Yes
+STU01410,16,Male,11,English,73.5,1.6,7.0,74.5,72.1,72.0,B,Yes
+STU01411,15,Male,12,Math,92.7,2.2,7.7,81.6,100.0,73.9,B,Yes
+STU01412,19,Female,12,English,68.7,0.6,6.9,83.1,62.9,40.9,F,Yes
+STU01413,16,Male,12,Social Studies,85.3,2.4,7.8,80.9,75.8,65.9,C,Yes
+STU01414,15,Female,12,Social Studies,83.7,3.3,7.0,83.8,58.1,69.5,C,Yes
+STU01415,17,Female,9,English,92.6,4.8,6.4,64.1,87.0,73.2,B,Yes
+STU01416,16,Female,12,Social Studies,80.5,5.7,5.9,63.2,78.1,74.8,B,Yes
+STU01417,14,Male,11,Computer,90.7,4.7,6.7,75.4,57.1,74.9,B,Yes
+STU01418,19,Male,11,Math,80.1,1.5,7.3,75.7,66.7,66.3,C,Yes
+STU01419,19,Male,12,Computer,86.8,1.1,4.9,68.7,92.1,61.8,C,Yes
+STU01420,18,Female,12,Computer,65.5,5.4,6.2,79.4,90.3,76.8,B,Yes
+STU01421,15,Female,11,English,53.0,0.5,4.9,88.7,50.3,70.5,B,Yes
+STU01422,18,Male,10,Computer,86.2,11.5,6.4,92.6,64.5,69.1,C,Yes
+STU01423,15,Female,10,Social Studies,86.7,1.8,8.4,95.8,98.8,82.3,A,Yes
+STU01424,19,Male,10,English,87.2,7.3,5.8,57.6,69.0,87.7,A,Yes
+STU01425,19,Female,10,Science,76.2,2.0,7.9,59.7,74.3,49.0,F,Yes
+STU01426,15,Male,10,Social Studies,98.4,5.0,10.0,71.9,86.9,90.2,A+,Yes
+STU01427,15,Male,9,Social Studies,76.9,1.2,8.7,77.1,51.5,68.7,C,Yes
+STU01428,18,Male,9,Computer,86.6,3.4,7.2,72.7,57.4,48.1,F,Yes
+STU01429,15,Female,12,Computer,88.5,0.6,8.0,68.3,66.6,67.5,C,Yes
+STU01430,18,Male,10,Math,100.0,4.2,5.6,71.7,89.6,71.6,B,Yes
+STU01431,18,Male,12,English,78.5,1.1,5.4,82.8,86.8,64.0,C,Yes
+STU01432,15,,11,Math,74.8,1.3,7.1,57.4,82.3,56.7,D,Yes
+STU01433,18,Male,9,English,65.5,2.3,7.5,100.0,69.4,78.4,B,Yes
+STU01434,14,Female,9,Social Studies,99.1,2.7,8.3,76.3,88.4,73.9,B,Yes
+STU01435,16,Male,9,Science,86.6,4.8,6.5,90.7,69.2,67.1,C,Yes
+STU01436,15,Female,12,Social Studies,87.0,4.4,7.3,67.9,80.2,66.1,C,Yes
+STU01437,14,Female,9,Math,100.0,3.7,7.3,84.0,85.2,73.2,B,Yes
+STU01438,18,Male,10,Math,85.6,6.1,7.0,77.4,97.0,69.1,C,Yes
+STU01439,14,Male,12,Social Studies,67.7,4.4,7.0,88.0,70.7,62.6,C,Yes
+STU01440,18,Female,12,Math,79.8,4.6,6.2,73.2,66.1,66.3,C,Yes
+STU01441,14,Female,9,Computer,71.3,1.3,7.4,97.7,90.9,74.0,B,Yes
+STU01442,19,Female,9,Computer,77.6,6.5,7.3,55.1,92.1,85.5,A,Yes
+STU01443,19,Female,9,Science,77.6,5.9,6.6,89.3,63.3,72.6,B,Yes
+STU01444,15,Male,9,Math,75.5,3.8,7.8,77.7,54.9,57.5,D,Yes
+STU01445,16,Female,9,Science,66.7,5.8,8.2,61.7,89.8,61.3,C,Yes
+STU01446,17,Male,11,Math,99.5,3.2,7.8,100.0,46.9,71.5,B,Yes
+STU01447,17,Female,12,Computer,85.3,9.0,6.0,100.0,46.1,73.5,B,Yes
+STU01448,14,Female,11,Social Studies,79.5,3.5,7.2,47.0,67.5,58.4,D,Yes
+STU01449,19,Male,11,Social Studies,90.3,3.1,6.1,78.5,71.5,69.5,C,Yes
+STU01450,19,Female,9,Social Studies,87.2,4.4,7.2,85.9,54.1,71.9,B,Yes
+STU01451,16,Female,12,Computer,85.0,10.2,6.1,82.2,73.3,83.9,A,Yes
+STU01452,17,Male,11,Social Studies,89.5,2.1,8.5,97.2,74.0,70.3,B,Yes
+STU01453,15,Male,12,Computer,83.5,4.2,8.0,94.3,62.8,62.6,C,Yes
+STU01454,18,Male,12,Computer,89.4,2.2,8.4,79.7,100.0,69.8,C,Yes
+STU01455,17,Female,10,Social Studies,90.3,3.1,8.3,100.0,76.4,83.7,A,Yes
+STU01456,15,Male,9,Science,83.8,1.6,6.8,89.1,86.9,65.5,C,Yes
+STU01457,15,Other,9,English,79.6,4.5,6.6,71.1,48.2,46.5,F,Yes
+STU01458,14,Male,10,Social Studies,98.8,3.3,9.0,68.3,48.0,75.6,B,Yes
+STU01459,18,Female,12,Science,76.7,5.7,6.9,93.4,76.9,65.1,C,Yes
+STU01460,14,Female,10,Science,86.3,6.8,5.6,64.9,97.8,77.8,B,Yes
+STU01461,17,Female,12,Math,86.6,7.5,8.2,70.3,54.9,76.0,B,Yes
+STU01462,18,Female,11,Science,75.3,2.3,7.3,72.6,72.2,62.5,C,Yes
+STU01463,14,Male,9,English,73.1,4.4,8.8,81.0,51.5,39.1,F,Yes
+STU01464,14,Female,10,Social Studies,78.1,7.8,7.4,73.3,59.2,74.6,B,Yes
+STU01465,18,Female,11,Math,76.6,1.6,7.1,57.6,72.9,71.6,B,Yes
+STU01466,18,Female,11,Computer,66.0,3.6,8.8,92.3,62.6,73.9,B,Yes
+STU01467,14,Male,10,Computer,74.8,1.7,5.4,70.3,50.4,31.1,F,No
+STU01468,15,Female,9,Social Studies,84.9,10.1,6.5,100.0,50.1,99.8,A+,Yes
+STU01469,17,Female,11,Computer,95.9,7.8,6.1,80.3,41.7,56.3,D,Yes
+STU01470,17,Female,9,Math,88.1,4.9,4.7,93.7,77.1,62.2,C,Yes
+STU01471,17,Male,12,English,53.4,4.9,8.1,84.8,79.0,76.0,B,Yes
+STU01472,15,Female,9,Social Studies,89.1,1.8,6.5,94.4,78.9,74.3,B,Yes
+STU01473,17,Male,9,Social Studies,75.9,8.4,8.1,84.0,56.4,74.4,B,Yes
+STU01474,14,Female,10,Computer,87.0,2.6,7.5,79.3,85.1,65.1,C,Yes
+STU01475,19,Female,10,Social Studies,81.8,2.0,7.8,91.3,80.6,83.3,A,Yes
+STU01476,17,Female,10,Computer,79.9,7.0,6.6,100.0,70.1,76.5,B,Yes
+STU01477,16,Female,10,Math,80.9,2.5,6.3,72.2,67.6,45.9,F,Yes
+STU01478,16,Female,12,Social Studies,81.8,2.1,7.2,87.1,60.3,75.3,B,Yes
+STU01479,16,Male,10,Math,96.8,5.9,8.1,75.9,72.9,78.4,B,Yes
+STU01480,16,Male,10,Science,81.8,1.2,7.0,83.1,94.3,80.8,A,Yes
+STU01481,15,Female,10,Science,93.9,5.0,6.3,76.6,87.1,81.5,A,Yes
+STU01482,17,Female,9,Computer,92.3,3.6,5.8,45.8,66.2,83.9,A,Yes
+STU01483,15,Male,11,Math,89.3,5.6,7.3,73.2,78.1,70.8,B,Yes
+STU01484,15,Female,9,Computer,62.3,4.6,6.5,90.0,53.5,61.6,C,Yes
+STU01485,19,Female,11,Social Studies,94.3,12.0,7.0,65.3,81.0,93.9,A+,Yes
+STU01486,17,Female,9,Computer,77.0,3.9,6.8,88.9,57.5,61.5,C,Yes
+STU01487,19,Female,12,Science,89.9,2.4,6.6,78.6,80.4,76.6,B,Yes
+STU01488,17,Female,10,Social Studies,71.3,3.3,7.4,73.3,100.0,42.2,F,Yes
+STU01489,18,Other,12,Science,69.0,4.6,7.7,88.7,61.4,65.6,C,Yes
+STU01490,14,Other,10,Computer,100.0,9.8,9.3,85.5,100.0,94.6,A+,Yes
+STU01491,17,Male,9,English,71.5,5.2,7.9,81.9,77.4,70.1,B,Yes
+STU01492,16,Female,12,Math,94.6,1.8,8.9,90.2,58.8,58.6,D,Yes
+STU01493,14,Female,11,Math,83.3,12.0,6.2,78.8,58.1,88.7,A,Yes
+STU01494,14,Female,12,Math,,6.6,5.3,53.0,100.0,67.9,C,Yes
+STU01495,15,Female,10,Social Studies,81.5,1.7,7.1,70.7,77.4,65.5,C,Yes
+STU01496,14,Female,11,Social Studies,67.7,1.3,8.0,50.7,61.5,51.9,D,Yes
+STU01497,16,Female,12,English,81.8,1.1,7.9,85.2,66.9,68.3,C,Yes
+STU01498,14,Female,11,Social Studies,70.1,3.2,8.4,88.5,76.5,83.1,A,Yes
+STU01499,18,Female,10,Math,77.7,3.3,4.3,89.2,69.9,66.0,C,Yes
+STU01500,17,Female,11,Social Studies,92.2,2.0,8.5,82.8,75.2,78.3,B,Yes
+STU01501,19,Male,11,Science,84.8,1.0,7.5,89.6,96.6,73.9,B,Yes
+STU01502,14,Female,12,Math,65.7,1.3,5.4,53.9,53.1,41.9,F,Yes
+STU01503,14,Male,10,Computer,91.4,5.3,7.9,,79.7,73.8,B,Yes
+STU01504,19,Female,10,Science,81.9,2.7,7.3,56.2,68.9,57.7,D,Yes
+STU01505,16,Male,12,Science,76.0,1.5,7.5,71.0,62.5,63.9,C,Yes
+STU01506,18,Female,10,Computer,90.2,3.6,8.2,98.6,86.1,79.6,B,Yes
+STU01507,15,Male,11,Science,80.2,4.1,7.6,91.3,48.1,56.5,D,Yes
+STU01508,14,Female,10,Computer,69.2,4.5,5.5,,34.5,53.1,D,Yes
+STU01509,16,Female,9,Math,100.0,3.5,6.9,73.5,73.4,55.1,D,Yes
+STU01510,17,Male,11,Math,81.8,3.1,5.3,62.1,67.9,57.9,D,Yes
+STU01511,14,Female,9,Science,,7.4,7.8,78.6,49.7,69.5,C,Yes
+STU01512,14,Female,9,Computer,77.5,1.4,8.6,91.5,44.3,76.8,B,Yes
+STU01513,15,Male,11,Science,95.0,2.8,5.7,81.7,99.0,88.7,A,Yes
+STU01514,14,Female,11,Math,76.2,0.5,6.4,53.8,76.9,45.2,F,Yes
+STU01515,19,Male,12,Computer,65.0,2.6,6.1,77.5,70.3,61.8,C,Yes
+STU01516,19,Male,10,English,74.5,3.8,6.6,49.2,100.0,69.7,C,Yes
+STU01517,14,Female,9,English,96.6,5.9,7.6,87.3,85.3,79.0,B,Yes
+STU01518,16,Female,12,Science,91.2,0.6,6.6,66.3,96.5,65.6,C,Yes
+STU01519,16,Female,9,Math,79.2,3.7,7.8,58.9,52.3,54.9,D,Yes
+STU01520,14,Male,9,Math,97.1,10.7,8.3,87.5,51.7,100.0,A+,Yes
+STU01521,17,Female,10,Computer,90.2,4.7,8.3,83.8,79.3,71.8,B,Yes
+STU01522,19,Female,11,Math,79.1,1.2,5.9,79.3,76.2,65.3,C,Yes
+STU01523,17,Female,12,Science,80.2,2.6,8.6,100.0,88.7,50.5,D,Yes
+STU01524,19,Male,11,Social Studies,85.6,4.8,8.7,84.9,45.5,74.6,B,Yes
+STU01525,17,Male,11,Science,72.8,2.0,8.8,67.0,80.6,76.2,B,Yes
+STU01526,17,Male,9,Computer,82.0,4.0,6.9,83.3,84.8,62.0,C,Yes
+STU01527,19,Male,10,Science,85.4,3.9,6.3,72.0,84.0,64.7,C,Yes
+STU01528,18,Male,10,Social Studies,63.4,3.2,6.0,93.7,63.9,66.5,C,Yes
+STU01529,18,Female,9,Social Studies,79.9,1.1,5.9,79.9,77.8,62.6,C,Yes
+STU01530,18,Male,10,English,78.7,1.9,7.1,81.3,58.4,64.7,C,Yes
+STU01531,14,Male,10,Computer,93.3,11.4,8.0,55.8,65.6,77.4,B,Yes
+STU01532,18,,9,English,61.7,2.4,8.5,76.9,54.4,75.6,B,Yes
+STU01533,18,Male,11,Social Studies,77.8,2.7,6.6,75.2,58.6,53.0,D,Yes
+STU01534,16,Male,11,Science,76.7,2.7,7.1,61.7,66.4,86.4,A,Yes
+STU01535,17,Female,9,Social Studies,92.6,5.8,7.0,72.9,62.6,82.7,A,Yes
+STU01536,18,Female,10,Computer,81.5,2.8,6.4,82.1,58.6,70.2,B,Yes
+STU01537,14,Female,12,Computer,100.0,3.2,7.9,75.9,50.5,54.6,D,Yes
+STU01538,17,Male,11,Science,89.3,3.7,7.5,56.2,99.4,82.0,A,Yes
+STU01539,18,Female,12,Social Studies,77.5,6.2,7.3,72.2,62.5,74.0,B,Yes
+STU01540,15,Male,10,Computer,84.6,3.3,7.5,69.4,74.9,45.7,F,Yes
+STU01541,15,Female,12,Social Studies,78.1,3.5,7.8,78.7,43.6,45.2,F,Yes
+STU01542,14,Male,10,Social Studies,91.5,2.1,7.8,77.2,90.4,75.8,B,Yes
+STU01543,15,Female,10,Math,67.3,4.1,6.2,70.2,72.5,61.3,C,Yes
+STU01544,16,Male,9,Social Studies,72.9,5.0,8.1,69.7,63.3,60.1,C,Yes
+STU01545,19,Female,10,Social Studies,87.0,5.2,7.4,76.9,63.5,80.2,A,Yes
+STU01546,14,Female,10,Science,95.5,10.3,6.6,89.5,83.0,79.6,B,Yes
+STU01547,17,Female,10,Social Studies,57.8,1.8,7.4,79.9,25.7,41.6,F,Yes
+STU01548,14,Female,11,English,97.1,3.4,7.5,95.9,57.6,63.8,C,Yes
+STU01549,18,Female,10,Science,80.5,2.8,8.3,91.9,68.2,73.6,B,Yes
+STU01550,16,Male,10,Science,61.3,9.1,5.9,97.0,68.0,57.8,D,Yes
+STU01551,16,Male,9,Science,49.0,5.3,8.6,95.2,100.0,71.6,B,Yes
+STU01552,19,Male,10,Math,65.2,0.8,7.1,97.9,64.9,42.8,F,Yes
+STU01553,18,Male,10,Computer,81.8,2.0,6.5,59.9,84.9,60.2,C,Yes
+STU01554,14,,10,Computer,81.3,2.5,6.5,85.1,97.2,80.0,A,Yes
+STU01555,15,Male,9,Computer,89.0,0.9,6.0,93.1,80.1,74.8,B,Yes
+STU01556,15,Male,11,English,76.0,3.5,5.2,95.6,59.9,56.4,D,Yes
+STU01557,17,Female,12,Science,69.8,2.2,7.8,65.2,50.7,59.5,D,Yes
+STU01558,18,Male,10,Computer,77.5,10.6,9.3,85.2,81.2,85.1,A,Yes
+STU01559,17,Female,11,Social Studies,82.4,4.1,5.3,77.1,94.7,86.0,A,Yes
+STU01560,16,Male,12,Math,84.5,2.5,6.1,100.0,78.2,69.3,C,Yes
+STU01561,18,Male,12,Science,73.3,1.5,7.9,56.6,88.5,32.8,F,No
+STU01562,18,Male,11,Social Studies,91.9,3.1,7.0,65.2,100.0,82.6,A,Yes
+STU01563,14,Female,12,Social Studies,75.2,8.6,8.0,50.7,82.6,69.8,C,Yes
+STU01564,17,Male,12,Social Studies,72.4,2.8,7.0,78.0,53.5,55.6,D,Yes
+STU01565,18,Female,12,Math,76.0,3.2,6.5,100.0,70.8,71.9,B,Yes
+STU01566,17,Male,10,English,93.8,6.8,6.9,75.4,90.6,66.5,C,Yes
+STU01567,15,Female,9,Math,80.5,4.0,4.5,77.4,66.3,63.7,C,Yes
+STU01568,14,Male,9,Social Studies,74.4,5.7,5.8,83.7,92.6,80.5,A,Yes
+STU01569,15,Male,10,English,92.2,4.3,8.1,74.4,69.0,74.2,B,Yes
+STU01570,16,Female,10,Science,100.0,4.1,8.4,81.1,75.0,69.3,C,Yes
+STU01571,19,Female,10,Math,84.3,0.7,8.6,81.5,64.7,72.4,B,Yes
+STU01572,17,Male,11,Computer,95.6,1.3,7.6,64.2,72.4,53.7,D,Yes
+STU01573,19,Female,11,Social Studies,93.4,3.7,4.6,74.7,73.2,60.4,C,Yes
+STU01574,14,Female,12,Social Studies,75.3,1.6,6.4,86.4,45.9,54.0,D,Yes
+STU01575,18,Female,9,Social Studies,82.3,3.1,8.6,89.0,63.4,70.9,B,Yes
+STU01576,15,Female,9,Social Studies,67.9,1.2,8.9,94.2,51.5,55.8,D,Yes
+STU01577,17,Male,12,Computer,79.7,6.8,8.6,80.7,63.9,85.6,A,Yes
+STU01578,16,Male,12,Social Studies,75.1,1.8,6.8,81.0,58.1,61.5,C,Yes
+STU01579,19,Female,12,Social Studies,77.6,1.5,5.7,86.5,85.2,66.6,C,Yes
+STU01580,18,Female,12,English,73.8,1.0,7.1,67.7,85.4,64.6,C,Yes
+STU01581,16,Female,12,Computer,78.8,5.2,7.1,67.1,78.4,76.8,B,Yes
+STU01582,17,,10,Social Studies,87.9,3.1,8.8,74.3,51.0,65.4,C,Yes
+STU01583,18,Male,10,Math,80.7,6.7,7.4,58.1,68.5,50.5,D,Yes
+STU01584,18,Female,10,Computer,61.5,2.1,7.1,81.7,49.8,65.2,C,Yes
+STU01585,17,Male,11,Science,73.8,1.3,7.2,90.7,67.8,63.6,C,Yes
+STU01586,18,Male,12,Math,65.3,3.0,7.5,66.1,79.7,69.6,C,Yes
+STU01587,18,Male,10,Math,84.7,7.6,7.8,82.1,84.9,77.1,B,Yes
+STU01588,14,Male,11,Math,87.5,0.7,6.3,67.2,77.1,42.8,F,Yes
+STU01589,16,Female,10,Social Studies,84.8,3.9,5.9,61.8,88.9,45.8,F,Yes
+STU01590,19,Female,9,Computer,73.3,4.2,8.6,100.0,73.9,63.9,C,Yes
+STU01591,15,Female,9,Math,84.7,8.4,5.3,62.0,66.5,75.8,B,Yes
+STU01592,18,Male,9,Computer,76.8,1.6,8.9,58.1,83.1,76.4,B,Yes
+STU01593,17,Male,12,Computer,69.5,0.7,5.0,79.0,83.6,62.7,C,Yes
+STU01594,15,Female,10,English,90.2,2.3,6.5,79.8,62.1,52.9,D,Yes
+STU01595,16,Female,12,Computer,91.0,5.7,8.2,85.3,75.7,69.5,C,Yes
+STU01596,16,Female,11,Social Studies,92.4,3.3,7.1,100.0,65.6,85.2,A,Yes
+STU01597,14,Male,9,English,75.3,4.5,5.7,65.1,39.9,41.3,F,Yes
+STU01598,15,Male,9,Computer,95.0,1.3,7.6,67.9,76.6,86.5,A,Yes
+STU01599,18,Male,12,English,76.6,2.7,7.2,98.5,50.6,81.3,A,Yes
+STU01600,19,Male,10,Science,89.2,3.4,6.9,89.1,74.9,92.6,A+,Yes
+STU01601,19,Female,12,Social Studies,76.4,0.8,6.4,87.2,47.0,58.3,D,Yes
+STU01602,16,Male,9,English,79.5,3.4,7.1,67.7,59.2,57.3,D,Yes
+STU01603,18,Male,11,Computer,55.4,2.5,6.5,91.8,63.5,62.5,C,Yes
+STU01604,16,Female,12,Computer,78.7,12.0,9.8,87.2,88.0,100.0,A+,Yes
+STU01605,18,Male,9,Computer,83.0,3.2,6.8,78.7,62.0,57.2,D,Yes
+STU01606,19,Female,10,Computer,77.5,8.7,6.7,67.8,53.9,57.9,D,Yes
+STU01607,16,Male,12,Computer,100.0,,6.5,77.5,75.5,70.4,B,Yes
+STU01608,17,Male,10,English,69.2,2.9,9.1,99.1,66.7,60.5,C,Yes
+STU01609,19,Male,10,Computer,75.8,7.9,5.3,60.7,81.9,84.1,A,Yes
+STU01610,14,Male,10,English,72.0,1.2,7.5,64.8,54.8,47.2,F,Yes
+STU01611,15,Female,10,Science,75.8,2.3,6.8,67.2,73.2,62.1,C,Yes
+STU01612,17,Male,12,Computer,93.3,5.9,5.5,70.2,100.0,88.6,A,Yes
+STU01613,15,Male,12,Social Studies,98.3,0.3,6.2,75.8,66.4,74.0,B,Yes
+STU01614,18,Male,10,Computer,74.3,3.1,7.4,89.4,72.8,69.6,C,Yes
+STU01615,15,Male,12,Computer,74.0,3.1,6.1,82.5,45.1,60.6,C,Yes
+STU01616,16,Female,9,Social Studies,69.3,3.9,7.4,76.9,57.2,51.0,D,Yes
+STU01617,18,Male,9,Science,96.4,2.7,9.0,79.9,76.9,83.0,A,Yes
+STU01618,17,Male,11,Math,94.3,5.7,7.3,84.7,65.1,86.5,A,Yes
+STU01619,18,Female,12,Science,80.8,1.7,5.5,52.5,79.2,39.5,F,Yes
+STU01620,17,Female,9,Computer,66.6,6.3,6.2,91.0,76.4,89.7,A,Yes
+STU01621,17,Male,9,Social Studies,67.6,1.3,6.8,64.4,50.2,43.4,F,Yes
+STU01622,17,Male,10,English,83.9,4.1,6.7,69.8,85.2,76.3,B,Yes
+STU01623,18,Male,12,Computer,88.0,7.3,7.3,80.8,51.4,71.8,B,Yes
+STU01624,19,Female,9,Math,59.3,1.6,7.4,74.9,58.5,53.7,D,Yes
+STU01625,14,Other,10,Computer,78.5,1.9,9.0,82.8,73.4,64.7,C,Yes
+STU01626,17,Female,11,Computer,99.8,6.4,7.1,78.0,93.5,72.9,B,Yes
+STU01627,18,Male,10,English,79.6,3.7,5.8,71.9,54.9,64.7,C,Yes
+STU01628,17,Female,9,Computer,98.4,0.7,8.4,97.4,72.2,67.8,C,Yes
+STU01629,16,Male,9,English,89.1,3.8,8.5,85.9,72.3,59.5,D,Yes
+STU01630,18,Male,10,English,70.1,5.1,7.4,80.2,79.9,60.4,C,Yes
+STU01631,16,Male,10,Computer,78.8,6.6,6.8,85.7,87.8,65.3,C,Yes
+STU01632,14,Male,12,Computer,80.6,4.0,7.8,66.1,63.9,58.8,D,Yes
+STU01633,15,Female,11,Science,71.5,4.6,6.9,100.0,85.2,79.7,B,Yes
+STU01634,14,Male,11,Science,71.3,9.3,4.8,60.8,90.0,68.1,C,Yes
+STU01635,18,Male,12,English,98.6,6.0,7.7,77.6,96.8,93.1,A+,Yes
+STU01636,19,Female,10,Science,71.2,2.6,8.1,72.0,77.5,63.3,C,Yes
+STU01637,16,Male,10,Science,93.9,,8.7,71.5,72.4,66.4,C,Yes
+STU01638,18,Male,12,Science,77.2,7.1,6.3,69.6,62.9,68.2,C,Yes
+STU01639,19,Male,10,Science,81.7,3.9,7.3,65.2,48.1,72.8,B,Yes
+STU01640,16,Male,11,English,88.2,3.5,7.4,92.6,65.8,56.3,D,Yes
+STU01641,19,Female,11,English,75.4,2.6,7.2,59.1,71.7,76.7,B,Yes
+STU01642,14,Male,9,Computer,88.2,6.9,7.2,89.8,68.4,86.4,A,Yes
+STU01643,18,Female,10,Science,59.5,1.7,7.1,85.1,79.0,61.7,C,Yes
+STU01644,14,Female,9,Social Studies,86.8,2.3,7.3,70.7,48.2,69.7,C,Yes
+STU01645,18,Female,9,English,54.8,6.9,7.9,83.5,67.3,65.5,C,Yes
+STU01646,14,Female,10,Computer,79.5,6.8,8.4,73.8,99.9,84.6,A,Yes
+STU01647,18,Female,10,Math,91.4,12.0,6.3,60.6,84.9,79.9,B,Yes
+STU01648,16,Male,12,Math,88.8,3.1,6.9,60.7,79.2,75.8,B,Yes
+STU01649,15,Female,12,English,67.7,2.6,6.6,85.2,75.9,57.0,D,Yes
+STU01650,17,Female,12,Science,69.1,2.8,6.5,84.4,64.5,60.8,C,Yes
+STU01651,19,Female,10,English,74.4,0.8,5.3,79.4,43.7,57.0,D,Yes
+STU01652,14,Male,10,Math,84.0,0.4,7.1,70.5,76.9,71.7,B,Yes
+STU01653,15,Female,10,English,59.6,4.0,7.6,73.3,33.3,43.8,F,Yes
+STU01654,17,Female,9,Computer,81.9,2.4,6.9,71.4,65.1,68.9,C,Yes
+STU01655,14,Male,12,Computer,85.4,1.8,7.1,51.5,69.9,48.8,F,Yes
+STU01656,19,Female,10,Science,78.9,3.5,7.6,76.9,63.3,42.9,F,Yes
+STU01657,17,Male,9,Science,87.8,4.1,8.7,83.3,100.0,72.9,B,Yes
+STU01658,19,Female,12,English,84.5,3.0,6.6,76.9,97.4,81.3,A,Yes
+STU01659,16,Female,10,English,76.0,3.0,5.8,,85.5,71.3,B,Yes
+STU01660,18,Female,9,Computer,60.7,2.4,7.0,61.9,56.1,47.1,F,Yes
+STU01661,15,Male,9,Science,83.5,5.3,9.2,66.7,98.8,79.4,B,Yes
+STU01662,16,Female,11,Computer,71.5,2.1,5.8,77.9,79.3,62.7,C,Yes
+STU01663,16,Male,12,Social Studies,75.6,1.5,7.8,79.4,55.9,64.5,C,Yes
+STU01664,17,Female,9,Science,,2.3,8.4,49.4,70.5,45.2,F,Yes
+STU01665,15,Male,12,Social Studies,97.6,3.9,4.5,84.4,84.4,72.0,B,Yes
+STU01666,17,Female,12,Science,81.6,5.6,7.6,79.5,61.0,70.3,B,Yes
+STU01667,19,Female,12,Science,88.1,10.4,7.8,46.3,72.1,63.1,C,Yes
+STU01668,14,Female,9,Computer,66.1,3.5,6.8,74.4,74.7,49.5,F,Yes
+STU01669,18,Male,9,Computer,84.7,8.8,6.4,64.7,53.5,66.0,C,Yes
+STU01670,19,Female,12,English,81.3,2.0,6.5,69.7,65.9,60.0,C,Yes
+STU01671,14,Male,10,Science,95.5,1.7,6.7,57.3,54.6,57.1,D,Yes
+STU01672,18,Male,11,Math,76.1,4.5,6.8,81.8,83.0,65.7,C,Yes
+STU01673,16,Other,11,Social Studies,79.3,5.0,6.6,100.0,56.4,63.0,C,Yes
+STU01674,17,Female,9,Social Studies,93.6,3.8,6.7,79.7,74.4,66.9,C,Yes
+STU01675,15,Male,12,Social Studies,81.0,12.0,8.4,45.8,49.1,75.6,B,Yes
+STU01676,15,Male,12,English,69.8,2.1,5.8,80.0,53.0,67.6,C,Yes
+STU01677,15,Male,11,Social Studies,100.0,7.7,5.2,73.3,52.3,48.5,F,Yes
+STU01678,14,,10,English,70.1,1.8,8.4,60.6,65.7,63.6,C,Yes
+STU01679,16,Male,12,Math,81.3,5.2,6.9,81.0,72.7,69.8,C,Yes
+STU01680,19,Male,11,Math,85.8,3.4,6.7,88.3,75.5,75.6,B,Yes
+STU01681,18,Male,11,Science,84.9,4.0,7.0,66.6,43.4,70.2,B,Yes
+STU01682,15,Female,12,Science,79.9,4.5,7.3,53.0,67.5,55.1,D,Yes
+STU01683,17,Male,11,Social Studies,80.0,3.5,6.5,47.8,58.7,65.6,C,Yes
+STU01684,14,Female,10,Science,79.4,3.0,7.7,66.7,78.0,53.1,D,Yes
+STU01685,14,Male,9,Computer,69.7,0.6,6.0,73.8,66.0,56.0,D,Yes
+STU01686,17,Male,9,Science,100.0,6.2,6.8,68.8,68.8,71.0,B,Yes
+STU01687,15,Female,10,Computer,79.6,1.1,4.7,66.4,58.8,53.4,D,Yes
+STU01688,18,Female,10,English,88.6,2.5,8.4,84.0,95.9,66.1,C,Yes
+STU01689,14,Female,11,Math,78.3,4.2,6.9,82.5,50.7,66.8,C,Yes
+STU01690,14,Male,10,English,78.1,1.3,7.8,78.8,64.0,76.5,B,Yes
+STU01691,18,Female,12,Math,77.0,3.0,7.6,87.4,71.6,57.7,D,Yes
+STU01692,15,Male,12,Social Studies,65.0,5.7,7.7,66.8,66.2,66.5,C,Yes
+STU01693,14,Male,10,Computer,80.2,2.4,7.1,60.7,58.5,65.8,C,Yes
+STU01694,18,Male,11,Social Studies,77.5,3.1,7.5,68.7,42.8,52.8,D,Yes
+STU01695,18,Female,11,Social Studies,94.9,1.5,6.0,67.7,59.6,72.7,B,Yes
+STU01696,19,Male,11,Science,68.8,2.7,5.8,47.3,55.6,46.0,F,Yes
+STU01697,17,Female,9,Computer,75.7,1.1,7.0,68.4,95.2,64.2,C,Yes
+STU01698,16,Male,12,Math,72.1,3.8,6.4,91.5,100.0,65.3,C,Yes
+STU01699,18,Female,12,Social Studies,97.9,0.9,8.7,87.2,69.2,69.7,C,Yes
+STU01700,18,Female,11,Computer,72.4,2.0,7.5,83.4,48.9,57.1,D,Yes
+STU01701,17,Female,12,Computer,88.2,3.4,6.3,77.8,81.1,76.2,B,Yes
+STU01702,15,Male,12,Social Studies,92.7,2.9,6.8,96.3,55.3,60.5,C,Yes
+STU01703,19,Female,10,Social Studies,80.4,4.3,7.2,61.2,61.8,55.5,D,Yes
+STU01704,18,Male,11,Social Studies,66.9,3.1,7.0,,60.6,61.2,C,Yes
+STU01705,19,Male,10,Math,67.0,0.6,7.4,91.7,62.5,72.4,B,Yes
+STU01706,17,Male,12,Math,91.5,1.3,7.2,76.4,64.7,68.9,C,Yes
+STU01707,16,Female,9,Social Studies,68.1,3.3,5.6,66.6,50.3,72.0,B,Yes
+STU01708,19,Female,10,Science,86.3,6.7,4.7,83.7,59.5,74.8,B,Yes
+STU01709,17,Female,12,English,83.3,6.0,6.7,69.9,85.3,79.2,B,Yes
+STU01710,18,Female,10,Math,86.1,,7.7,64.3,69.5,89.1,A,Yes
+STU01711,19,Male,12,Computer,87.2,2.2,6.7,63.9,71.9,77.2,B,Yes
+STU01712,15,Female,10,Social Studies,71.7,5.6,8.5,80.5,36.5,73.7,B,Yes
+STU01713,15,Female,12,Social Studies,71.3,5.3,7.0,78.9,84.2,61.0,C,Yes
+STU01714,14,Female,12,English,89.9,9.0,8.6,97.2,59.7,90.1,A+,Yes
+STU01715,17,Male,10,Computer,75.1,7.4,8.4,71.9,86.9,80.6,A,Yes
+STU01716,18,Female,12,English,51.7,4.0,8.3,71.7,72.3,59.8,D,Yes
+STU01717,19,Male,10,English,89.1,5.0,5.8,96.2,61.6,53.1,D,Yes
+STU01718,14,Female,11,English,70.6,4.3,7.1,89.8,44.8,45.6,F,Yes
+STU01719,14,Male,11,Social Studies,87.1,3.2,8.4,78.0,100.0,73.4,B,Yes
+STU01720,18,Male,12,Science,97.3,4.7,7.4,54.1,82.0,56.6,D,Yes
+STU01721,15,Female,9,English,82.2,3.7,7.7,64.6,82.9,65.2,C,Yes
+STU01722,16,Female,9,Computer,93.0,3.6,5.6,61.2,97.3,78.8,B,Yes
+STU01723,14,Female,11,English,83.7,9.3,9.2,76.5,73.4,75.9,B,Yes
+STU01724,14,Female,11,Math,99.5,4.1,6.2,68.9,90.3,75.2,B,Yes
+STU01725,17,Female,10,Science,70.3,3.5,4.9,98.4,62.8,52.7,D,Yes
+STU01726,18,Male,9,Computer,81.9,2.9,6.7,54.0,81.1,66.2,C,Yes
+STU01727,19,Male,10,Computer,89.4,2.7,4.4,59.7,60.5,62.1,C,Yes
+STU01728,16,Female,12,Computer,79.9,1.3,5.9,79.4,62.4,44.2,F,Yes
+STU01729,17,Male,9,Social Studies,94.7,,9.9,83.3,71.5,66.1,C,Yes
+STU01730,19,Female,10,Computer,77.2,7.0,6.7,39.8,51.0,46.4,F,Yes
+STU01731,16,Male,12,English,100.0,2.2,5.5,51.7,74.9,67.2,C,Yes
+STU01732,15,Female,9,Science,100.0,11.9,7.1,72.3,65.3,86.5,A,Yes
+STU01733,18,Male,11,Science,85.1,0.4,6.1,95.0,40.2,54.4,D,Yes
+STU01734,14,Male,10,Social Studies,88.1,4.6,8.1,100.0,63.1,72.5,B,Yes
+STU01735,15,Female,12,English,95.1,3.8,6.1,70.2,64.8,69.1,C,Yes
+STU01736,14,Female,11,Computer,68.9,9.1,7.4,73.6,82.8,81.4,A,Yes
+STU01737,17,Female,12,Math,67.6,2.0,5.8,64.3,74.3,52.3,D,Yes
+STU01738,15,Male,9,Math,95.8,1.1,10.0,84.9,91.7,69.4,C,Yes
+STU01739,16,Male,11,Science,85.0,2.8,7.7,97.4,77.8,72.0,B,Yes
+STU01740,17,Male,12,Math,79.5,2.5,6.9,93.6,61.7,62.7,C,Yes
+STU01741,15,Male,10,Computer,82.1,0.8,6.8,75.6,69.1,80.7,A,Yes
+STU01742,16,Male,9,Computer,55.8,3.5,6.5,64.3,64.8,52.0,D,Yes
+STU01743,16,Female,9,English,79.9,2.3,6.3,76.1,77.3,67.3,C,Yes
+STU01744,14,Male,12,Science,73.7,8.1,6.2,95.3,70.9,81.2,A,Yes
+STU01745,19,Male,11,English,92.1,3.6,8.9,70.4,60.6,81.0,A,Yes
+STU01746,19,Female,11,Math,92.9,1.8,6.5,50.6,70.1,51.3,D,Yes
+STU01747,18,Male,11,English,88.3,3.3,4.8,71.0,76.9,78.7,B,Yes
+STU01748,14,Female,11,Math,86.4,3.8,5.8,,54.9,59.7,D,Yes
+STU01749,16,Female,10,Math,65.5,4.9,8.1,50.5,74.8,87.8,A,Yes
+STU01750,16,Male,10,Math,88.5,3.4,6.8,79.2,46.3,64.7,C,Yes
+STU01751,14,Female,11,Math,88.9,11.5,7.0,83.1,86.6,77.3,B,Yes
+STU01752,19,,9,English,95.7,1.2,8.4,100.0,77.9,71.2,B,Yes
+STU01753,16,Female,12,English,100.0,2.3,6.2,57.3,94.4,83.1,A,Yes
+STU01754,17,Male,12,Computer,63.4,1.8,7.8,86.2,53.3,57.7,D,Yes
+STU01755,18,Male,10,English,77.7,2.6,6.4,89.5,87.0,69.4,C,Yes
+STU01756,15,Female,11,Math,73.8,4.1,7.7,83.3,84.0,78.8,B,Yes
+STU01757,16,Female,9,Math,83.9,3.9,6.7,61.9,67.3,59.9,D,Yes
+STU01758,19,Female,12,Computer,82.1,4.8,6.8,61.1,64.4,61.8,C,Yes
+STU01759,18,Male,12,Social Studies,79.4,3.6,8.0,77.4,53.7,53.1,D,Yes
+STU01760,17,Female,12,Science,93.3,3.7,7.9,77.3,49.8,81.9,A,Yes
+STU01761,17,Male,10,Science,69.9,3.6,6.9,68.2,58.7,46.5,F,Yes
+STU01762,14,Male,9,Science,70.5,2.4,6.6,94.1,51.2,60.9,C,Yes
+STU01763,15,Female,9,Science,70.7,2.3,8.9,70.4,93.9,73.8,B,Yes
+STU01764,14,Male,9,Science,78.0,1.8,7.7,49.5,47.5,50.9,D,Yes
+STU01765,18,Male,9,English,68.5,5.0,6.7,72.9,72.2,53.2,D,Yes
+STU01766,19,Male,9,Computer,81.5,0.4,6.4,82.7,76.5,52.2,D,Yes
+STU01767,14,Female,12,Computer,80.2,3.7,8.2,80.8,75.4,75.2,B,Yes
+STU01768,15,Male,9,Social Studies,73.3,5.6,7.2,80.7,76.7,63.6,C,Yes
+STU01769,16,Male,9,Science,91.6,6.6,6.9,96.9,84.2,61.7,C,Yes
+STU01770,18,Male,12,English,81.3,0.3,7.2,60.4,63.3,58.6,D,Yes
+STU01771,16,Other,11,Science,93.7,2.5,7.5,70.1,71.3,57.7,D,Yes
+STU01772,14,Female,12,Math,79.9,1.9,7.0,97.6,65.6,71.8,B,Yes
+STU01773,17,Male,11,Science,81.7,2.3,8.4,48.5,89.5,63.2,C,Yes
+STU01774,14,Male,12,Science,75.8,7.6,8.5,75.2,100.0,80.4,A,Yes
+STU01775,17,Female,11,English,81.9,1.9,7.7,93.2,52.1,62.6,C,Yes
+STU01776,19,Female,11,Math,89.8,5.6,8.6,,39.5,57.4,D,Yes
+STU01777,14,Female,11,Computer,77.5,3.7,7.1,85.2,78.5,61.5,C,Yes
+STU01778,19,Male,10,Social Studies,87.7,2.2,7.9,85.6,86.1,69.6,C,Yes
+STU01779,17,Female,10,Social Studies,73.1,2.1,8.2,61.4,99.4,56.6,D,Yes
+STU01780,14,Male,10,Math,90.3,4.0,8.2,95.2,81.1,84.4,A,Yes
+STU01781,15,Female,9,Math,75.6,3.1,8.1,59.2,90.9,64.6,C,Yes
+STU01782,15,Female,12,Social Studies,91.4,0.7,7.8,60.0,94.9,52.7,D,Yes
+STU01783,19,Male,10,Social Studies,82.7,1.5,9.3,81.4,92.0,66.6,C,Yes
+STU01784,18,Female,9,English,98.7,4.0,6.5,69.1,83.2,73.4,B,Yes
+STU01785,16,Male,10,Science,69.3,1.2,6.9,78.9,50.8,49.3,F,Yes
+STU01786,17,Female,12,English,65.8,6.2,6.9,82.0,69.9,72.9,B,Yes
+STU01787,16,Male,10,English,75.2,0.9,6.7,100.0,74.5,70.8,B,Yes
+STU01788,16,Female,11,Social Studies,66.8,2.7,4.9,82.1,68.5,83.4,A,Yes
+STU01789,17,Other,12,English,66.8,5.1,8.6,67.3,69.4,77.4,B,Yes
+STU01790,15,Male,9,Math,88.8,1.4,6.0,85.5,93.5,54.3,D,Yes
+STU01791,18,Female,11,Computer,82.0,1.1,7.3,64.4,58.6,52.5,D,Yes
+STU01792,19,Female,10,Computer,76.7,4.5,5.5,88.8,82.0,68.3,C,Yes
+STU01793,19,Female,9,Science,77.7,5.8,7.8,76.9,74.7,77.9,B,Yes
+STU01794,15,Male,11,Math,75.4,2.9,6.2,81.6,57.1,50.6,D,Yes
+STU01795,16,Male,12,Math,100.0,2.4,5.9,51.1,53.9,51.7,D,Yes
+STU01796,15,Female,10,Social Studies,73.9,0.8,7.3,44.5,44.5,33.3,F,Yes
+STU01797,17,Female,11,English,67.5,3.5,6.3,55.0,77.3,53.8,D,Yes
+STU01798,15,Male,10,English,90.8,0.6,6.5,100.0,69.1,60.5,C,Yes
+STU01799,16,Male,11,Social Studies,79.6,7.6,7.3,59.9,57.6,64.2,C,Yes
+STU01800,14,Male,11,Math,100.0,3.0,8.0,86.3,41.9,52.5,D,Yes
+STU01801,17,Female,11,Science,76.2,1.5,6.2,67.0,76.5,69.6,C,Yes
+STU01802,17,Male,11,Social Studies,91.3,2.0,6.0,72.6,67.4,67.2,C,Yes
+STU01803,17,Other,9,English,93.9,3.7,7.1,75.4,59.3,51.6,D,Yes
+STU01804,16,Female,11,Math,,2.3,7.7,99.0,55.5,64.0,C,Yes
+STU01805,18,Female,11,Computer,73.8,3.2,8.7,84.2,66.4,50.7,D,Yes
+STU01806,17,Female,11,Math,90.2,1.4,5.9,81.4,77.0,78.8,B,Yes
+STU01807,15,Male,9,Computer,,6.7,6.8,94.2,65.1,92.0,A+,Yes
+STU01808,16,Female,10,Computer,66.5,2.1,8.4,67.1,52.2,54.2,D,Yes
+STU01809,17,Male,10,Social Studies,69.6,0.4,9.3,91.0,69.1,54.1,D,Yes
+STU01810,14,Male,9,English,54.1,2.5,6.0,,85.7,57.0,D,Yes
+STU01811,16,Male,9,Science,88.5,1.8,6.3,88.5,70.6,61.4,C,Yes
+STU01812,19,Male,10,Social Studies,79.1,6.4,7.5,73.8,71.0,70.6,B,Yes
+STU01813,16,Female,11,English,80.2,1.6,6.5,69.9,65.1,72.4,B,Yes
+STU01814,17,Male,9,Computer,63.4,2.3,6.3,63.8,56.7,62.1,C,Yes
+STU01815,18,Female,12,Math,69.9,3.7,7.4,64.7,56.2,67.8,C,Yes
+STU01816,15,Male,11,Computer,76.7,4.9,8.8,63.2,45.1,62.0,C,Yes
+STU01817,18,Male,11,English,74.6,8.0,5.7,81.1,87.7,66.3,C,Yes
+STU01818,14,Male,10,Science,83.3,1.7,8.7,72.8,76.9,58.4,D,Yes
+STU01819,16,Male,10,Computer,88.4,7.4,6.5,82.0,71.2,76.8,B,Yes
+STU01820,17,Female,11,Math,100.0,6.3,7.5,82.8,74.4,66.8,C,Yes
+STU01821,15,Male,12,Computer,81.8,1.8,8.8,61.2,75.1,66.3,C,Yes
+STU01822,18,Male,10,Social Studies,94.3,1.6,7.5,60.7,59.0,67.5,C,Yes
+STU01823,14,Male,11,English,72.9,4.3,6.8,72.8,65.1,68.8,C,Yes
+STU01824,17,Female,11,Math,63.6,3.2,7.9,65.1,62.9,63.4,C,Yes
+STU01825,17,Female,11,English,78.1,4.3,6.9,63.7,100.0,53.9,D,Yes
+STU01826,18,Male,9,English,64.4,2.5,7.7,99.7,85.3,83.4,A,Yes
+STU01827,15,Female,10,English,82.2,,6.9,54.5,72.5,46.5,F,Yes
+STU01828,14,Male,10,Science,73.4,3.0,8.0,100.0,90.5,73.4,B,Yes
+STU01829,17,Male,12,Computer,60.5,4.3,5.6,80.0,88.6,73.4,B,Yes
+STU01830,19,Male,10,Science,100.0,1.6,6.0,89.8,49.3,65.5,C,Yes
+STU01831,18,Female,10,English,76.1,3.6,5.6,88.2,66.7,52.0,D,Yes
+STU01832,15,Male,12,English,64.0,7.9,7.0,84.6,69.8,61.6,C,Yes
+STU01833,16,Female,10,Computer,91.9,7.6,5.4,99.3,79.2,84.6,A,Yes
+STU01834,15,Female,9,Computer,74.0,3.9,6.3,60.8,66.6,65.4,C,Yes
+STU01835,18,Male,9,Social Studies,94.0,1.6,5.9,73.8,68.5,51.6,D,Yes
+STU01836,17,Female,9,Computer,73.9,10.3,8.7,64.1,63.1,79.5,B,Yes
+STU01837,16,Female,9,Computer,76.1,4.3,6.0,52.3,85.7,49.6,F,Yes
+STU01838,14,Female,10,Social Studies,85.8,9.7,5.7,66.7,48.3,76.0,B,Yes
+STU01839,17,Male,11,Science,88.5,4.4,7.4,100.0,63.6,63.9,C,Yes
+STU01840,16,Male,11,Science,90.5,0.3,9.0,73.6,42.3,56.5,D,Yes
+STU01841,14,Female,9,English,81.0,10.3,7.0,100.0,54.6,79.0,B,Yes
+STU01842,15,Female,11,English,87.8,5.7,7.1,100.0,74.8,89.6,A,Yes
+STU01843,18,Male,9,Computer,90.2,3.3,8.5,100.0,75.0,77.9,B,Yes
+STU01844,18,Female,12,Math,84.2,0.7,8.1,100.0,65.3,59.7,D,Yes
+STU01845,16,Male,9,Math,80.4,6.1,7.6,100.0,86.9,84.7,A,Yes
+STU01846,18,Male,11,Computer,66.1,4.3,6.5,80.6,90.3,91.6,A+,Yes
+STU01847,18,Male,10,Social Studies,88.6,12.0,7.6,79.2,69.0,93.0,A+,Yes
+STU01848,17,Male,11,Science,82.5,9.1,5.6,80.1,73.8,77.0,B,Yes
+STU01849,15,Male,10,Science,77.5,9.5,6.4,76.0,63.2,66.1,C,Yes
+STU01850,16,,11,English,96.1,3.8,8.7,78.1,79.4,68.7,C,Yes
+STU01851,18,Female,9,English,66.3,3.7,8.5,86.5,52.1,68.7,C,Yes
+STU01852,15,Female,12,Math,100.0,4.4,7.6,69.5,96.9,69.9,C,Yes
+STU01853,17,Male,10,English,81.8,2.0,5.0,56.7,87.1,61.6,C,Yes
+STU01854,18,Female,11,Social Studies,85.5,3.4,5.8,81.1,52.0,75.5,B,Yes
+STU01855,17,Male,12,Computer,77.7,2.9,6.4,66.3,58.2,59.4,D,Yes
+STU01856,17,,12,Social Studies,63.7,7.3,6.9,67.8,76.3,58.8,D,Yes
+STU01857,15,Male,9,Computer,80.5,8.2,5.7,74.0,64.9,93.5,A+,Yes
+STU01858,16,Female,10,Social Studies,85.7,5.2,6.8,70.8,78.2,88.9,A,Yes
+STU01859,14,Female,10,Science,89.4,1.7,9.0,91.5,64.6,73.1,B,Yes
+STU01860,14,Male,10,Math,79.8,10.7,7.5,73.7,92.9,99.3,A+,Yes
+STU01861,17,Female,11,Math,57.9,6.1,7.3,92.2,70.1,66.9,C,Yes
+STU01862,15,Male,12,Social Studies,65.0,4.2,6.0,78.9,100.0,78.7,B,Yes
+STU01863,16,Male,12,Computer,100.0,4.9,5.3,74.8,79.0,68.8,C,Yes
+STU01864,16,Male,11,Science,70.0,1.0,5.7,78.2,49.8,38.1,F,Yes
+STU01865,16,Male,11,Social Studies,97.7,2.9,5.3,57.9,100.0,97.0,A+,Yes
+STU01866,18,Female,12,Science,71.7,7.7,7.2,80.7,86.5,63.9,C,Yes
+STU01867,16,Female,12,English,80.0,1.0,7.5,87.9,75.7,68.2,C,Yes
+STU01868,19,Male,9,Science,88.9,0.9,6.0,89.9,79.7,69.5,C,Yes
+STU01869,16,Female,11,Math,73.0,6.1,7.3,57.1,52.2,66.0,C,Yes
+STU01870,19,,12,Science,99.5,4.7,8.7,54.7,42.9,61.6,C,Yes
+STU01871,19,Female,10,Science,82.8,1.0,9.3,68.5,69.4,61.5,C,Yes
+STU01872,16,Female,10,English,87.1,2.7,7.9,95.4,90.7,77.7,B,Yes
+STU01873,18,Male,12,Math,79.1,4.2,6.9,79.1,75.9,73.8,B,Yes
+STU01874,16,Female,12,Science,89.2,3.8,7.9,65.2,95.6,74.3,B,Yes
+STU01875,19,Male,12,English,99.4,4.4,8.6,55.7,89.8,74.4,B,Yes
+STU01876,18,Female,12,Science,80.6,2.6,4.9,66.4,70.3,46.4,F,Yes
+STU01877,16,Male,10,Computer,100.0,4.0,8.7,65.5,87.8,96.1,A+,Yes
+STU01878,15,Female,10,Computer,75.3,5.2,6.5,89.1,92.8,81.7,A,Yes
+STU01879,19,Male,11,Social Studies,90.4,4.9,6.5,90.2,68.8,74.7,B,Yes
+STU01880,17,Female,11,Social Studies,87.4,2.6,6.7,61.3,66.8,55.0,D,Yes
+STU01881,18,Male,10,Science,70.2,5.5,7.5,,72.1,60.7,C,Yes
+STU01882,18,Female,11,Computer,84.4,1.6,5.9,85.1,33.8,61.7,C,Yes
+STU01883,14,Female,10,Computer,82.1,2.0,6.8,59.5,74.2,59.1,D,Yes
+STU01884,15,Female,11,English,72.6,6.1,7.7,74.8,80.8,79.0,B,Yes
+STU01885,19,Male,10,Computer,85.9,5.5,7.3,80.8,72.2,59.3,D,Yes
+STU01886,15,Male,10,Math,83.6,2.8,7.5,78.3,75.2,83.0,A,Yes
+STU01887,19,Female,9,Science,81.2,2.0,6.7,52.1,69.3,66.5,C,Yes
+STU01888,16,Female,9,Social Studies,81.2,2.2,7.9,77.8,40.0,55.5,D,Yes
+STU01889,19,Male,12,Social Studies,81.0,5.1,8.3,84.9,94.9,84.0,A,Yes
+STU01890,17,Male,10,Math,78.0,4.4,8.2,98.1,64.5,78.7,B,Yes
+STU01891,14,Female,9,English,83.5,1.9,7.6,66.6,60.7,46.0,F,Yes
+STU01892,15,Male,11,Science,74.9,5.4,8.1,68.4,90.4,90.6,A+,Yes
+STU01893,19,Male,11,Math,100.0,2.7,8.1,73.1,84.7,78.1,B,Yes
+STU01894,15,Male,9,Math,66.5,1.6,10.0,80.1,74.1,57.4,D,Yes
+STU01895,15,Female,10,English,75.6,2.4,8.4,77.4,81.5,56.6,D,Yes
+STU01896,14,Female,9,Computer,76.4,3.6,7.0,84.5,52.7,71.7,B,Yes
+STU01897,17,Female,11,English,100.0,5.3,6.1,60.2,68.8,71.1,B,Yes
+STU01898,18,Male,10,Science,67.5,5.1,6.8,81.6,89.4,77.2,B,Yes
+STU01899,19,Female,9,Computer,86.7,3.1,6.7,65.6,59.8,61.2,C,Yes
+STU01900,19,Male,9,Computer,84.7,3.9,7.7,74.0,55.0,53.6,D,Yes
+STU01901,19,Male,11,Social Studies,85.7,2.9,6.3,99.9,71.2,75.0,B,Yes
+STU01902,19,Male,9,Science,95.6,1.9,8.4,56.4,71.5,62.0,C,Yes
+STU01903,17,Female,12,Science,95.4,3.2,5.6,72.1,79.7,68.4,C,Yes
+STU01904,18,Female,9,English,77.0,0.7,5.3,58.2,49.3,71.7,B,Yes
+STU01905,17,Female,11,English,84.1,8.3,7.0,78.1,31.8,74.5,B,Yes
+STU01906,14,Male,10,English,61.5,3.8,6.2,90.7,83.8,77.2,B,Yes
+STU01907,14,Male,10,Social Studies,83.1,4.6,5.7,78.4,53.8,90.1,A+,Yes
+STU01908,14,Female,9,Math,73.3,2.0,6.4,74.4,60.9,61.4,C,Yes
+STU01909,16,Male,12,English,79.9,3.8,6.3,94.6,37.3,61.1,C,Yes
+STU01910,16,Female,12,English,63.5,4.2,7.1,80.6,85.3,61.9,C,Yes
+STU01911,17,Female,9,Science,86.5,2.8,6.4,87.5,75.3,64.2,C,Yes
+STU01912,17,Female,9,Computer,63.3,2.9,6.5,86.0,74.7,43.0,F,Yes
+STU01913,16,Male,12,Social Studies,83.6,1.2,7.1,35.7,74.6,63.0,C,Yes
+STU01914,18,Female,11,English,68.5,10.1,8.2,74.9,39.1,56.2,D,Yes
+STU01915,19,Female,9,Math,72.7,2.0,8.7,60.9,55.2,64.9,C,Yes
+STU01916,15,Male,9,Math,94.7,2.2,7.3,64.4,63.2,61.9,C,Yes
+STU01917,15,Male,11,English,88.5,8.7,7.3,96.6,58.8,80.5,A,Yes
+STU01918,19,Female,11,Computer,94.6,4.7,6.9,70.8,65.9,68.5,C,Yes
+STU01919,19,Female,11,Science,99.2,5.3,7.6,100.0,73.7,93.8,A+,Yes
+STU01920,15,Male,12,Science,73.5,1.1,7.5,56.3,85.1,72.4,B,Yes
+STU01921,17,Female,10,Social Studies,98.5,3.8,8.6,60.8,47.8,62.6,C,Yes
+STU01922,17,Female,10,Math,65.9,1.1,5.0,,69.9,48.4,F,Yes
+STU01923,17,Male,10,Math,90.2,1.7,6.8,71.2,80.7,75.3,B,Yes
+STU01924,19,Female,10,Math,76.6,11.0,7.5,80.3,56.1,67.7,C,Yes
+STU01925,14,Male,9,Social Studies,71.8,1.5,7.1,74.4,67.1,43.2,F,Yes
+STU01926,17,Female,9,English,88.8,5.2,6.1,74.0,77.0,76.4,B,Yes
+STU01927,15,Female,10,Math,92.4,1.6,5.7,71.7,70.2,74.3,B,Yes
+STU01928,18,Female,11,Science,92.1,1.8,8.0,78.5,80.1,65.3,C,Yes
+STU01929,17,Female,9,Social Studies,84.4,12.0,6.3,85.0,71.4,89.0,A,Yes
+STU01930,18,Female,10,Computer,83.5,3.1,5.2,98.6,65.3,62.5,C,Yes
+STU01931,19,Female,11,Science,87.8,1.0,8.0,73.2,52.4,65.2,C,Yes
+STU01932,18,Male,11,Science,85.3,5.3,7.6,70.5,73.7,82.0,A,Yes
+STU01933,19,Male,12,Math,88.0,7.3,7.0,68.7,71.5,71.3,B,Yes
+STU01934,18,Female,12,Computer,84.2,5.6,6.1,96.6,55.1,59.3,D,Yes
+STU01935,17,Male,11,Math,91.3,2.9,7.0,85.7,78.7,56.7,D,Yes
+STU01936,16,Male,9,Science,64.1,3.0,8.4,49.4,89.0,72.0,B,Yes
+STU01937,16,Male,10,Science,80.6,2.3,5.3,48.8,60.1,41.7,F,Yes
+STU01938,16,Female,11,Computer,66.8,1.3,5.4,64.4,59.1,54.7,D,Yes
+STU01939,17,Female,10,Computer,85.0,4.2,6.4,79.2,58.5,72.6,B,Yes
+STU01940,18,,9,Computer,100.0,2.8,7.1,75.5,44.8,56.6,D,Yes
+STU01941,16,Female,9,Science,76.8,1.1,6.6,83.2,100.0,67.8,C,Yes
+STU01942,17,,10,Science,83.4,3.2,7.8,73.5,63.3,74.3,B,Yes
+STU01943,16,Male,10,Science,90.3,2.0,8.3,95.6,57.1,58.7,D,Yes
+STU01944,17,Male,9,Math,59.3,4.0,7.4,86.8,53.1,50.9,D,Yes
+STU01945,18,Female,12,Computer,76.3,3.8,7.7,77.1,64.2,62.5,C,Yes
+STU01946,16,Female,12,English,86.0,2.6,7.4,92.0,59.6,78.7,B,Yes
+STU01947,16,Female,9,English,50.1,3.3,7.1,52.9,91.6,76.3,B,Yes
+STU01948,15,Female,12,Social Studies,71.3,3.5,5.7,74.8,51.3,55.7,D,Yes
+STU01949,16,Male,9,Math,94.1,,6.0,77.9,46.9,59.5,D,Yes
+STU01950,16,Female,12,Social Studies,93.0,3.2,5.6,84.4,78.3,80.8,A,Yes
+STU01951,14,Male,12,Computer,86.1,2.3,6.9,52.0,68.4,42.5,F,Yes
+STU01952,19,Male,9,Science,91.7,2.7,7.4,72.4,66.7,67.9,C,Yes
+STU01953,19,Male,11,Computer,84.4,,5.5,81.6,78.4,80.0,A,Yes
+STU01954,15,Male,12,Computer,88.1,1.7,7.2,82.7,72.1,78.9,B,Yes
+STU01955,19,Male,12,Science,78.5,2.9,6.1,92.6,69.3,80.1,A,Yes
+STU01956,15,Female,12,Science,83.3,2.8,5.9,86.7,48.9,50.4,D,Yes
+STU01957,16,Female,11,Social Studies,75.0,2.9,6.4,75.1,45.0,57.1,D,Yes
+STU01958,14,Male,9,Math,95.9,0.8,5.9,85.4,59.5,55.6,D,Yes
+STU01959,17,Female,12,Math,98.7,1.3,7.8,73.2,53.7,58.2,D,Yes
+STU01960,16,Male,11,Computer,97.2,2.7,6.9,78.1,74.0,75.4,B,Yes
+STU01961,15,Female,11,Social Studies,77.5,2.2,8.0,87.1,43.0,55.0,D,Yes
+STU01962,15,Female,10,English,71.5,4.0,6.6,75.4,63.3,64.2,C,Yes
+STU01963,19,Female,11,Math,96.0,6.7,6.7,81.1,67.4,85.0,A,Yes
+STU01964,18,Male,9,English,88.0,4.2,9.2,,69.4,89.1,A,Yes
+STU01965,14,Female,11,Science,85.6,3.6,5.3,86.0,76.0,71.6,B,Yes
+STU01966,14,Female,9,Social Studies,,4.5,8.5,93.3,65.1,71.6,B,Yes
+STU01967,14,Female,11,Computer,86.7,3.8,8.9,100.0,60.0,60.9,C,Yes
+STU01968,15,Male,12,Science,70.1,3.3,7.9,85.8,88.7,87.2,A,Yes
+STU01969,18,Other,10,Computer,89.0,6.0,6.7,69.5,65.2,74.5,B,Yes
+STU01970,14,Female,10,Computer,97.2,2.7,8.7,83.2,91.3,78.6,B,Yes
+STU01971,15,Male,10,Computer,99.9,1.3,6.7,82.6,65.1,66.0,C,Yes
+STU01972,14,Female,12,Science,89.8,2.2,6.3,84.6,69.8,69.6,C,Yes
+STU01973,17,Male,11,English,66.8,1.9,6.7,96.9,67.9,70.4,B,Yes
+STU01974,18,Female,10,Math,84.2,11.2,6.5,52.4,73.5,86.5,A,Yes
+STU01975,17,Male,9,English,100.0,6.9,6.1,97.2,63.7,94.3,A+,Yes
+STU01976,19,Male,9,Science,72.4,,8.3,100.0,71.4,73.3,B,Yes
+STU01977,18,Male,10,English,81.3,2.0,6.2,84.0,93.0,87.5,A,Yes
+STU01978,18,Female,12,Social Studies,97.5,5.9,7.1,84.3,85.7,91.0,A+,Yes
+STU01979,15,Male,11,Social Studies,88.8,3.5,5.5,72.6,85.8,68.9,C,Yes
+STU01980,19,Male,9,English,100.0,2.7,7.1,76.1,49.9,46.2,F,Yes
+STU01981,17,Female,12,Computer,73.9,3.5,5.8,85.8,52.3,60.7,C,Yes
+STU01982,14,Male,10,Math,71.1,2.7,5.8,84.9,73.3,78.9,B,Yes
+STU01983,14,Male,12,English,95.5,4.5,7.0,86.1,81.6,68.5,C,Yes
+STU01984,19,Female,10,Computer,68.8,1.2,8.3,84.8,62.2,60.5,C,Yes
+STU01985,15,Male,11,Computer,79.8,4.5,7.6,88.6,59.5,69.5,C,Yes
+STU01986,16,Female,12,Social Studies,81.3,2.7,7.7,87.0,90.9,82.6,A,Yes
+STU01987,18,Male,10,English,93.4,6.0,7.0,61.7,80.3,69.7,C,Yes
+STU01988,18,Female,11,Social Studies,88.8,7.0,6.7,87.7,85.9,72.3,B,Yes
+STU01989,14,Female,12,Social Studies,87.0,8.0,8.0,100.0,63.4,86.0,A,Yes
+STU01990,17,Male,9,English,77.6,11.8,6.5,75.6,62.2,71.4,B,Yes
+STU01991,19,Male,9,Math,95.4,7.9,8.0,97.0,84.2,68.8,C,Yes
+STU01992,16,Male,11,Science,100.0,,8.5,63.2,66.1,91.4,A+,Yes
+STU01993,17,Other,10,Computer,89.6,1.3,6.2,75.6,60.8,69.0,C,Yes
+STU01994,15,Female,9,English,83.1,0.4,6.3,67.0,56.3,72.4,B,Yes
+STU01995,18,Female,10,Social Studies,67.7,6.4,6.5,95.3,62.3,78.5,B,Yes
+STU01996,14,,11,Social Studies,75.0,1.7,5.5,99.0,83.1,74.2,B,Yes
+STU01997,17,Female,10,Math,79.6,12.0,6.6,74.6,47.4,79.1,B,Yes
+STU01998,16,Male,10,Social Studies,76.1,0.9,8.5,92.4,79.4,65.4,C,Yes
+STU01999,17,Male,12,Science,81.8,5.7,5.9,99.1,59.4,75.8,B,Yes
+STU02000,16,Male,11,Social Studies,100.0,3.8,8.6,75.5,66.8,66.0,C,Yes
+STU02001,19,Female,12,English,,1.0,6.6,77.8,67.8,52.6,D,Yes
+STU02002,19,Female,10,English,80.3,3.8,9.4,86.3,66.7,67.0,C,Yes
+STU02003,15,Male,12,Math,68.7,1.9,6.4,64.2,65.7,68.5,C,Yes
+STU02004,14,Female,11,Math,96.7,3.1,6.9,77.5,63.3,54.5,D,Yes
+STU02005,16,Female,9,English,81.5,3.2,6.1,100.0,61.4,54.5,D,Yes
+STU02006,17,Female,12,English,63.0,1.9,6.3,69.0,89.8,67.9,C,Yes
+STU02007,18,Female,10,English,89.8,2.6,8.6,88.0,70.4,66.2,C,Yes
+STU02008,17,Female,9,Math,93.3,1.8,7.6,83.3,68.1,71.6,B,Yes
+STU02009,17,Male,9,English,55.3,0.7,8.2,73.7,60.3,62.7,C,Yes
+STU02010,14,Female,11,Math,72.9,3.6,5.7,79.1,63.9,66.2,C,Yes
+STU02011,18,Male,9,Math,80.8,7.8,7.8,100.0,60.4,71.1,B,Yes
+STU02012,15,Male,10,English,90.1,1.9,6.0,83.8,81.5,81.0,A,Yes
+STU02013,16,Male,9,Computer,76.3,10.4,5.6,85.9,58.7,83.1,A,Yes
+STU02014,16,Female,10,Computer,72.8,11.7,7.4,98.4,36.3,76.2,B,Yes
+STU02015,14,Female,10,Social Studies,90.0,2.4,7.4,71.9,70.9,65.3,C,Yes
+STU02016,16,Female,11,Social Studies,76.8,2.8,7.2,61.3,65.8,63.4,C,Yes
+STU02017,16,Female,10,Science,88.0,2.4,7.9,100.0,61.2,65.5,C,Yes
+STU02018,15,Female,9,Computer,69.8,1.3,8.1,77.9,83.7,48.2,F,Yes
+STU02019,15,Male,11,Math,67.1,2.9,8.7,88.5,29.0,62.1,C,Yes
+STU02020,14,Female,10,Social Studies,90.3,2.6,5.8,65.3,93.6,76.0,B,Yes
+STU02021,19,Female,11,Science,84.8,3.5,8.8,81.4,85.8,51.3,D,Yes
+STU02022,15,Female,9,Computer,92.1,3.7,9.2,60.6,60.6,70.7,B,Yes
+STU02023,19,Male,9,Social Studies,76.1,1.3,6.7,76.9,63.2,75.8,B,Yes
+STU02024,19,Male,10,Computer,73.3,5.0,5.3,66.9,77.6,54.1,D,Yes
+STU02025,16,Male,10,Social Studies,97.0,2.8,5.6,63.7,78.0,65.3,C,Yes
+STU02026,18,Male,10,Math,65.2,1.5,6.6,71.8,60.5,52.5,D,Yes
+STU02027,15,Male,12,Math,95.8,2.8,9.3,43.9,45.7,73.8,B,Yes
+STU02028,15,Male,10,Computer,96.5,3.8,7.1,59.8,100.0,86.3,A,Yes
+STU02029,19,Female,11,English,91.5,8.8,6.4,87.0,84.3,75.4,B,Yes
+STU02030,17,Male,11,Math,74.4,7.9,6.3,80.9,72.4,77.4,B,Yes
+STU02031,18,Male,9,Computer,73.0,2.3,5.6,,72.6,80.7,A,Yes
+STU02032,19,Female,10,Math,79.7,3.0,8.1,83.7,79.3,63.8,C,Yes
+STU02033,14,Male,10,Social Studies,67.8,1.7,7.0,63.7,81.1,59.9,D,Yes
+STU02034,15,Female,10,Math,71.4,4.2,9.4,86.1,38.7,66.4,C,Yes
+STU02035,19,Male,9,English,89.1,2.3,7.8,74.4,64.7,58.3,D,Yes
+STU02036,14,Female,12,Social Studies,89.1,2.9,8.0,71.4,63.2,82.4,A,Yes
+STU02037,16,Male,12,English,70.5,6.6,6.8,74.7,67.6,63.8,C,Yes
+STU02038,14,Male,9,Computer,89.4,1.3,5.9,100.0,81.6,56.1,D,Yes
+STU02039,15,Female,11,Computer,87.0,7.9,6.1,65.4,43.1,60.0,C,Yes
+STU02040,15,Female,11,Social Studies,98.6,4.5,5.6,79.2,49.8,71.5,B,Yes
+STU02041,15,Female,10,English,88.3,7.7,8.1,86.9,59.8,68.5,C,Yes
+STU02042,18,Female,12,Social Studies,93.6,5.5,6.7,62.5,72.3,73.2,B,Yes
+STU02043,15,Other,11,English,87.2,6.2,8.1,53.7,82.5,78.6,B,Yes
+STU02044,18,Male,12,Social Studies,92.8,3.4,7.2,67.6,94.5,61.5,C,Yes
+STU02045,19,Female,12,Computer,67.8,1.4,6.8,86.6,65.7,53.8,D,Yes
+STU02046,17,Female,9,Math,80.7,2.1,5.8,71.2,82.5,67.5,C,Yes
+STU02047,17,Other,10,Computer,81.6,1.8,7.4,72.8,80.7,72.4,B,Yes
+STU02048,16,Female,11,Social Studies,79.3,0.5,6.9,88.8,78.1,58.8,D,Yes
+STU02049,18,Male,9,Math,86.9,6.6,8.1,64.7,69.6,73.8,B,Yes
+STU02050,18,Female,10,Social Studies,89.0,3.2,6.3,74.8,64.0,61.4,C,Yes
+STU02051,19,Female,12,Math,86.3,1.7,7.8,54.8,54.0,62.9,C,Yes
+STU02052,15,Male,9,Social Studies,80.1,11.4,8.9,80.5,53.0,85.0,A,Yes
+STU02053,18,Female,10,Computer,73.9,12.0,7.4,79.2,75.2,80.1,A,Yes
+STU02054,14,Male,12,Math,94.1,1.1,8.0,87.1,69.2,71.9,B,Yes
+STU02055,16,Female,10,Computer,85.8,2.8,7.7,60.0,63.8,57.3,D,Yes
+STU02056,14,Male,10,Math,70.8,2.7,9.2,73.3,80.0,71.4,B,Yes
+STU02057,17,Male,12,English,79.9,1.6,7.5,58.1,67.0,62.7,C,Yes
+STU02058,19,Male,10,Social Studies,62.8,6.5,7.9,72.6,56.3,88.1,A,Yes
+STU02059,18,Female,9,Science,82.4,0.5,7.1,96.7,66.0,59.9,D,Yes
+STU02060,18,Male,9,Math,79.8,9.6,6.2,71.5,82.3,77.9,B,Yes
+STU02061,17,Other,12,English,75.7,3.5,5.8,56.9,54.6,48.6,F,Yes
+STU02062,17,Female,10,Science,99.4,10.8,8.5,66.5,73.1,74.9,B,Yes
+STU02063,14,Female,10,Math,69.3,3.3,6.0,53.4,69.2,52.3,D,Yes
+STU02064,18,Male,9,English,89.8,2.7,7.9,57.9,58.6,67.1,C,Yes
+STU02065,18,Female,10,Science,100.0,6.8,7.6,85.4,65.6,85.3,A,Yes
+STU02066,14,Male,12,Math,93.8,10.8,8.1,55.8,46.4,76.9,B,Yes
+STU02067,17,Male,10,Science,81.7,9.7,6.5,80.4,71.6,76.1,B,Yes
+STU02068,16,Female,12,Math,69.5,0.8,6.2,76.4,49.5,46.3,F,Yes
+STU02069,17,Male,10,Social Studies,67.0,8.1,7.5,68.6,86.1,66.4,C,Yes
+STU02070,18,Male,10,Social Studies,77.5,2.6,6.8,79.2,68.6,57.7,D,Yes
+STU02071,15,Female,12,Science,74.4,3.1,5.7,62.9,61.4,44.0,F,Yes
+STU02072,19,Male,10,Social Studies,74.1,2.6,9.2,87.8,87.4,86.0,A,Yes
+STU02073,16,Female,10,English,78.4,2.1,6.2,66.2,54.5,73.6,B,Yes
+STU02074,17,Female,12,Social Studies,80.9,2.9,6.0,70.6,58.8,39.8,F,Yes
+STU02075,14,Male,10,Math,87.3,1.6,6.8,68.9,42.6,57.0,D,Yes
+STU02076,14,Female,11,Science,68.4,8.2,8.5,85.7,89.6,84.4,A,Yes
+STU02077,15,Male,12,Computer,74.5,5.5,4.7,83.6,98.1,77.1,B,Yes
+STU02078,19,Female,9,Science,80.2,4.0,8.4,39.3,44.9,48.0,F,Yes
+STU02079,15,Female,10,Social Studies,79.8,2.6,6.1,79.6,57.8,70.2,B,Yes
+STU02080,16,Female,9,English,100.0,2.2,7.4,51.6,71.0,67.4,C,Yes
+STU02081,19,Male,10,English,84.6,4.6,6.4,71.2,62.3,75.3,B,Yes
+STU02082,15,Male,9,English,64.3,4.1,9.3,74.5,69.5,58.3,D,Yes
+STU02083,18,Male,11,Computer,86.6,7.1,7.2,71.1,68.2,59.2,D,Yes
+STU02084,14,Other,9,Math,,2.3,6.3,83.0,76.1,71.6,B,Yes
+STU02085,14,Male,11,Computer,80.6,2.1,6.8,86.1,55.6,51.1,D,Yes
+STU02086,14,Male,10,Computer,68.7,5.3,7.2,65.2,72.9,76.2,B,Yes
+STU02087,14,Male,10,Social Studies,100.0,6.1,7.3,64.7,53.3,47.4,F,Yes
+STU02088,17,Male,10,Social Studies,70.2,12.0,7.6,75.5,63.8,74.6,B,Yes
+STU02089,14,Male,11,Computer,89.3,0.8,7.1,54.4,43.9,44.6,F,Yes
+STU02090,17,Male,10,English,84.2,,5.6,69.3,63.9,68.3,C,Yes
+STU02091,17,Female,10,English,88.6,3.8,6.7,94.9,61.4,71.7,B,Yes
+STU02092,15,Male,12,Science,100.0,2.4,7.8,54.9,84.2,72.5,B,Yes
+STU02093,14,Male,11,Social Studies,88.2,4.7,6.4,71.2,69.1,74.3,B,Yes
+STU02094,14,Female,9,Science,75.9,4.5,7.8,67.7,71.8,74.1,B,Yes
+STU02095,14,Female,12,English,94.2,2.4,7.1,100.0,69.7,69.6,C,Yes
+STU02096,17,Male,10,Math,75.1,0.8,6.9,68.5,38.1,69.7,C,Yes
+STU02097,19,Female,9,Science,83.8,8.5,8.4,69.3,40.0,82.2,A,Yes
+STU02098,16,Female,10,Science,67.8,2.0,5.2,61.6,65.2,50.4,D,Yes
+STU02099,17,Female,9,English,70.6,1.7,6.4,76.1,74.2,59.0,D,Yes
+STU02100,15,Female,9,English,82.6,2.1,8.5,79.8,66.5,61.6,C,Yes
+STU02101,14,Male,11,Computer,86.0,5.9,9.1,63.6,57.0,71.8,B,Yes
+STU02102,15,Male,9,English,63.3,2.6,9.6,89.8,66.4,55.3,D,Yes
+STU02103,16,Other,12,Math,87.5,2.1,7.2,79.8,65.1,56.2,D,Yes
+STU02104,19,Male,12,English,73.0,4.4,7.6,87.9,81.7,50.6,D,Yes
+STU02105,15,Male,11,Math,96.1,4.0,8.0,71.4,80.8,69.5,C,Yes
+STU02106,19,Female,11,Social Studies,78.1,2.2,8.5,79.4,61.7,73.4,B,Yes
+STU02107,17,Male,11,Computer,69.6,0.8,7.4,73.0,69.3,56.1,D,Yes
+STU02108,16,Female,12,Science,82.8,5.8,8.1,96.4,74.1,76.4,B,Yes
+STU02109,17,Female,10,Science,71.9,4.1,7.6,77.6,76.4,70.6,B,Yes
+STU02110,18,Male,9,Math,96.0,0.6,7.7,76.1,94.8,61.1,C,Yes
+STU02111,18,Male,10,Science,82.0,9.3,6.1,69.6,69.6,75.4,B,Yes
+STU02112,19,Female,11,Math,80.3,0.5,6.7,68.8,87.5,71.7,B,Yes
+STU02113,17,Male,9,Social Studies,88.5,1.8,6.5,79.3,52.6,62.3,C,Yes
+STU02114,14,Female,11,Math,70.9,1.9,5.8,87.5,60.4,68.4,C,Yes
+STU02115,16,Female,9,Computer,67.8,2.2,5.3,66.4,38.0,60.0,C,Yes
+STU02116,19,Female,12,English,86.5,2.1,6.6,77.8,72.3,71.4,B,Yes
+STU02117,15,Female,10,Science,69.9,1.2,6.8,78.6,79.7,54.6,D,Yes
+STU02118,16,Male,9,Social Studies,69.9,3.8,7.2,81.0,31.7,51.1,D,Yes
+STU02119,17,Female,9,Math,91.2,6.4,7.7,52.1,72.8,90.0,A+,Yes
+STU02120,17,Male,10,Social Studies,87.8,3.8,7.3,63.1,79.1,71.4,B,Yes
+STU02121,19,Female,10,Computer,68.2,4.2,6.8,56.9,78.2,64.4,C,Yes
+STU02122,17,Male,9,Computer,75.2,2.7,6.1,76.5,52.1,48.4,F,Yes
+STU02123,14,Male,10,Social Studies,72.1,3.7,8.1,63.4,81.6,65.4,C,Yes
+STU02124,15,Male,9,English,100.0,4.5,7.0,69.1,70.1,77.8,B,Yes
+STU02125,17,Female,10,Science,92.0,5.5,6.6,59.3,78.9,71.1,B,Yes
+STU02126,18,Male,10,Math,77.4,2.0,6.9,70.4,68.1,55.1,D,Yes
+STU02127,17,Male,10,Social Studies,88.3,1.8,6.3,60.3,75.7,58.8,D,Yes
+STU02128,18,Female,10,English,67.1,0.4,6.5,86.6,86.6,74.6,B,Yes
+STU02129,15,Female,9,Social Studies,74.6,11.0,6.5,82.7,66.9,86.0,A,Yes
+STU02130,14,Female,9,Science,83.2,10.6,6.8,78.1,74.3,87.2,A,Yes
+STU02131,19,,9,Social Studies,87.0,3.2,7.8,71.8,88.7,76.3,B,Yes
+STU02132,17,Female,11,Social Studies,80.9,,7.5,47.5,68.0,48.1,F,Yes
+STU02133,18,Female,12,Science,84.7,8.8,8.8,69.6,53.1,76.1,B,Yes
+STU02134,19,Female,12,English,82.9,1.3,8.4,65.3,80.1,74.9,B,Yes
+STU02135,15,Male,10,Computer,80.2,1.7,9.3,79.5,91.5,68.9,C,Yes
+STU02136,19,Female,11,Science,78.7,9.2,7.7,84.7,89.3,94.5,A+,Yes
+STU02137,16,Female,10,Math,77.3,2.7,7.7,80.5,80.7,73.6,B,Yes
+STU02138,17,Male,12,Science,84.6,1.5,6.6,93.7,34.8,64.1,C,Yes
+STU02139,16,Female,11,English,86.5,4.6,8.0,68.0,60.5,66.7,C,Yes
+STU02140,15,Female,12,Math,84.2,2.0,6.4,67.5,61.2,67.5,C,Yes
+STU02141,19,Female,12,Science,69.0,8.2,5.5,90.5,70.7,59.2,D,Yes
+STU02142,16,Female,10,Social Studies,71.0,3.7,8.8,78.3,95.3,74.1,B,Yes
+STU02143,14,Female,11,Math,86.4,2.1,5.7,72.5,53.8,64.5,C,Yes
+STU02144,14,Female,12,Math,98.2,2.2,7.6,,100.0,83.9,A,Yes
+STU02145,19,Female,10,English,83.7,4.5,6.1,84.1,64.3,78.3,B,Yes
+STU02146,18,Other,12,Math,77.5,2.9,8.3,73.3,58.5,60.1,C,Yes
+STU02147,17,Male,9,Math,84.5,2.6,8.5,66.4,82.7,62.8,C,Yes
+STU02148,18,Female,12,Math,69.5,5.6,7.7,94.6,83.9,59.6,D,Yes
+STU02149,17,Female,12,Math,96.4,8.9,8.5,78.9,79.7,82.4,A,Yes
+STU02150,19,Female,9,Social Studies,84.1,5.1,7.1,76.3,58.5,71.8,B,Yes
+STU02151,14,Male,11,Math,74.6,1.9,9.6,85.5,77.5,75.9,B,Yes
+STU02152,14,Male,9,English,80.2,1.4,7.9,88.3,54.5,46.7,F,Yes
+STU02153,18,Female,12,Computer,76.2,5.4,6.1,83.7,58.0,77.4,B,Yes
+STU02154,19,Female,12,Computer,96.4,5.1,7.2,88.4,68.6,65.0,C,Yes
+STU02155,17,Female,11,Computer,79.8,2.5,6.9,82.3,57.7,60.0,C,Yes
+STU02156,19,Male,12,Science,83.7,3.0,6.8,83.8,85.8,65.5,C,Yes
+STU02157,16,Male,9,Social Studies,88.3,2.0,5.3,65.8,61.3,62.1,C,Yes
+STU02158,18,Female,10,Math,73.9,1.4,7.5,100.0,66.7,65.5,C,Yes
+STU02159,17,Male,10,Math,84.1,2.1,5.6,58.7,56.8,61.6,C,Yes
+STU02160,19,Female,9,Social Studies,85.0,0.3,4.3,80.3,85.6,80.7,A,Yes
+STU02161,17,Male,10,Math,64.9,7.2,6.7,57.3,60.0,66.8,C,Yes
+STU02162,16,Male,10,Math,84.8,1.1,6.3,74.6,87.1,59.8,D,Yes
+STU02163,15,Female,10,Math,81.5,3.3,6.2,68.0,86.0,72.1,B,Yes
+STU02164,15,Female,10,Math,83.4,0.4,3.7,77.9,63.3,74.1,B,Yes
+STU02165,14,Male,12,Math,82.4,5.0,6.2,80.8,70.4,75.8,B,Yes
+STU02166,14,Female,10,English,84.9,6.0,6.9,62.6,62.9,76.3,B,Yes
+STU02167,17,Male,12,Computer,96.7,3.5,6.4,75.6,78.2,54.8,D,Yes
+STU02168,14,Female,10,Math,69.0,3.2,7.5,95.5,67.1,70.1,B,Yes
+STU02169,16,Male,10,Social Studies,78.2,2.0,8.6,57.6,63.7,56.0,D,Yes
+STU02170,14,Female,10,Math,89.3,7.1,7.7,64.0,70.7,66.7,C,Yes
+STU02171,14,Female,10,Computer,87.3,0.9,8.2,88.1,46.3,59.0,D,Yes
+STU02172,18,Female,10,Social Studies,87.1,,8.3,77.1,68.9,67.5,C,Yes
+STU02173,14,Female,10,English,100.0,1.8,6.0,78.1,79.7,62.3,C,Yes
+STU02174,16,Female,9,English,88.8,1.8,7.6,90.3,72.1,70.2,B,Yes
+STU02175,15,Male,10,Math,94.4,7.0,8.2,64.9,84.3,77.3,B,Yes
+STU02176,14,Female,11,Science,78.6,3.0,6.6,68.7,64.3,67.8,C,Yes
+STU02177,15,Female,10,Social Studies,71.1,2.0,6.2,67.0,63.1,58.2,D,Yes
+STU02178,14,Female,12,Science,78.5,4.2,7.7,71.1,53.2,65.6,C,Yes
+STU02179,14,Female,10,Math,89.8,3.9,5.5,94.8,63.9,78.6,B,Yes
+STU02180,17,Male,12,Computer,86.5,5.9,5.9,52.2,99.5,79.6,B,Yes
+STU02181,14,Male,12,Computer,86.4,4.5,6.4,59.3,74.1,66.0,C,Yes
+STU02182,19,Female,12,Math,79.6,3.1,7.6,56.9,61.2,38.3,F,Yes
+STU02183,16,Male,12,Math,77.9,3.3,7.3,95.6,54.9,69.9,C,Yes
+STU02184,16,Male,9,Math,80.0,4.4,8.2,67.4,46.0,51.3,D,Yes
+STU02185,19,Other,11,Math,90.0,1.6,6.1,71.4,57.5,57.6,D,Yes
+STU02186,18,Female,9,Computer,91.2,3.9,6.0,53.4,81.4,70.0,B,Yes
+STU02187,16,Female,12,Math,70.9,8.8,7.7,72.3,63.6,85.8,A,Yes
+STU02188,19,Female,11,Computer,90.4,3.5,6.2,88.1,55.6,83.7,A,Yes
+STU02189,17,Male,10,Math,74.8,2.5,6.4,79.5,57.3,49.7,F,Yes
+STU02190,18,Male,12,Social Studies,87.2,2.5,5.1,74.5,79.7,52.2,D,Yes
+STU02191,19,Female,9,Computer,79.9,4.2,7.4,54.1,68.8,66.0,C,Yes
+STU02192,18,Female,11,Science,99.2,3.7,8.8,71.4,60.6,71.3,B,Yes
+STU02193,17,Male,11,English,77.4,5.1,6.0,78.1,65.4,54.1,D,Yes
+STU02194,17,Male,9,Math,84.0,2.1,8.2,62.1,100.0,70.6,B,Yes
+STU02195,17,Female,11,Math,88.7,2.9,7.0,85.2,88.3,79.3,B,Yes
+STU02196,19,Male,12,English,72.4,5.7,5.2,88.4,92.0,62.5,C,Yes
+STU02197,18,Female,9,Math,81.2,6.0,6.1,68.6,43.7,51.0,D,Yes
+STU02198,15,Female,10,Computer,,6.0,6.0,86.2,67.7,64.2,C,Yes
+STU02199,14,Male,10,Science,76.3,5.3,6.8,74.5,60.3,63.0,C,Yes
+STU02200,18,Male,11,Math,77.2,5.4,7.6,92.1,78.2,82.0,A,Yes
+STU02201,16,Male,9,English,94.2,3.9,9.1,100.0,85.9,78.0,B,Yes
+STU02202,16,Female,12,English,75.4,1.0,5.5,60.7,74.9,56.7,D,Yes
+STU02203,19,Female,12,Computer,88.2,1.1,6.6,86.8,56.9,83.1,A,Yes
+STU02204,14,Female,9,Math,85.5,3.5,6.1,94.3,60.1,57.1,D,Yes
+STU02205,14,Female,10,English,66.6,3.6,5.7,62.4,79.3,54.6,D,Yes
+STU02206,18,Female,11,Social Studies,87.7,1.7,7.2,67.9,80.8,72.1,B,Yes
+STU02207,19,Female,11,Science,66.5,1.8,7.1,67.8,72.1,68.2,C,Yes
+STU02208,18,Female,10,Social Studies,88.9,3.1,5.1,74.1,71.9,68.8,C,Yes
+STU02209,19,Female,9,Computer,76.4,12.0,7.1,71.0,70.8,99.2,A+,Yes
+STU02210,19,Female,9,English,82.1,1.5,5.8,73.2,74.0,64.4,C,Yes
+STU02211,18,Male,12,Social Studies,67.8,2.5,7.1,87.7,80.7,46.6,F,Yes
+STU02212,19,Female,10,Social Studies,83.3,5.9,8.5,49.5,79.5,71.3,B,Yes
+STU02213,16,Male,12,Science,92.2,5.2,7.6,62.4,70.4,64.1,C,Yes
+STU02214,18,Male,10,Social Studies,73.1,4.1,7.3,85.4,69.3,81.2,A,Yes
+STU02215,14,Male,12,Math,75.3,0.7,6.5,83.7,68.7,69.2,C,Yes
+STU02216,17,Female,9,Math,87.0,2.8,7.2,61.2,58.3,43.8,F,Yes
+STU02217,15,Female,9,Math,87.3,10.0,7.7,83.8,58.1,92.8,A+,Yes
+STU02218,19,Male,12,Science,55.2,1.8,7.6,94.6,78.2,72.9,B,Yes
+STU02219,16,Male,12,Social Studies,100.0,1.7,7.0,75.3,59.3,60.0,C,Yes
+STU02220,15,Female,10,Computer,87.8,8.5,7.3,61.9,82.2,77.5,B,Yes
+STU02221,17,Female,10,Computer,89.7,3.1,5.7,88.2,69.2,81.5,A,Yes
+STU02222,14,Male,10,Math,80.4,0.7,6.3,100.0,82.3,47.8,F,Yes
+STU02223,14,Female,10,English,61.6,1.3,7.9,63.6,79.6,62.9,C,Yes
+STU02224,16,Male,9,Science,89.4,2.1,8.0,76.5,82.6,80.6,A,Yes
+STU02225,17,Female,12,English,75.8,3.9,7.2,91.3,62.9,65.9,C,Yes
+STU02226,17,Female,10,Science,88.0,2.8,8.7,77.6,76.1,76.5,B,Yes
+STU02227,14,Male,11,Science,79.6,1.6,7.7,51.5,81.1,61.8,C,Yes
+STU02228,18,Female,9,Social Studies,84.6,2.9,6.8,82.2,46.7,52.0,D,Yes
+STU02229,14,Male,9,English,73.5,1.8,5.8,62.3,95.5,55.6,D,Yes
+STU02230,18,Female,11,English,91.5,10.4,8.7,58.2,100.0,95.9,A+,Yes
+STU02231,14,Female,10,Math,68.9,1.3,7.9,51.8,84.2,52.6,D,Yes
+STU02232,14,Male,11,Computer,100.0,2.3,9.1,92.7,82.1,61.6,C,Yes
+STU02233,17,Female,9,English,,2.1,9.5,64.3,78.8,71.5,B,Yes
+STU02234,18,Female,12,Science,100.0,2.1,5.7,80.7,65.1,60.1,C,Yes
+STU02235,18,Male,11,Computer,96.0,1.4,5.7,,68.3,52.5,D,Yes
+STU02236,17,Male,12,Math,81.1,8.1,4.0,78.3,84.5,76.7,B,Yes
+STU02237,15,Male,9,English,94.8,12.0,8.1,80.2,55.4,91.6,A+,Yes
+STU02238,19,Female,10,Social Studies,80.9,4.3,7.8,81.3,54.1,65.2,C,Yes
+STU02239,14,Female,10,English,64.9,4.0,7.2,77.9,64.0,51.6,D,Yes
+STU02240,16,Male,11,Math,98.5,0.8,5.8,65.4,79.8,68.3,C,Yes
+STU02241,18,Female,10,Science,94.4,8.0,7.0,64.1,57.0,82.1,A,Yes
+STU02242,17,Female,9,Math,81.7,1.8,7.3,74.5,66.6,83.8,A,Yes
+STU02243,18,Male,10,English,68.5,0.8,8.0,74.2,68.4,72.5,B,Yes
+STU02244,18,Female,10,Science,75.6,4.8,7.4,82.0,54.8,54.6,D,Yes
+STU02245,19,Female,10,Math,62.0,6.6,7.8,91.4,33.4,70.2,B,Yes
+STU02246,17,Female,9,Computer,92.4,7.9,7.0,80.8,54.6,76.3,B,Yes
+STU02247,18,Female,10,Math,64.4,2.4,8.4,64.6,73.9,48.9,F,Yes
+STU02248,14,Male,11,Science,85.2,2.1,7.8,45.5,77.3,63.7,C,Yes
+STU02249,15,Male,10,Social Studies,72.7,3.8,5.8,65.2,77.4,82.3,A,Yes
+STU02250,14,Female,10,Math,66.3,2.8,8.6,57.2,79.1,73.9,B,Yes
+STU02251,15,Female,11,Science,84.6,4.9,8.4,65.8,60.6,56.3,D,Yes
+STU02252,14,Male,12,Science,78.3,3.8,7.6,79.4,57.4,63.8,C,Yes
+STU02253,18,Female,10,English,91.2,1.6,7.4,77.2,75.6,71.5,B,Yes
+STU02254,16,Female,11,Science,68.1,8.1,8.9,100.0,66.8,61.1,C,Yes
+STU02255,16,Male,12,Social Studies,73.7,4.9,5.3,82.8,83.6,53.2,D,Yes
+STU02256,17,Male,11,Math,55.7,6.5,8.5,100.0,75.7,76.0,B,Yes
+STU02257,16,Female,12,Social Studies,58.0,1.7,6.6,86.0,89.3,65.8,C,Yes
+STU02258,17,Other,12,English,100.0,4.8,8.3,91.2,63.0,56.9,D,Yes
+STU02259,14,Female,9,Math,100.0,5.7,7.2,71.0,86.0,82.0,A,Yes
+STU02260,18,Male,10,Math,83.0,3.7,5.7,61.0,100.0,81.4,A,Yes
+STU02261,19,Male,11,Math,72.9,1.4,6.6,69.7,70.8,56.1,D,Yes
+STU02262,14,Male,12,Science,78.7,3.5,8.2,75.8,77.5,69.4,C,Yes
+STU02263,14,Male,10,Science,91.6,5.4,6.9,67.2,56.0,71.9,B,Yes
+STU02264,14,Male,9,Computer,76.3,6.8,6.4,62.0,83.4,76.0,B,Yes
+STU02265,17,Female,11,Science,84.6,0.9,6.4,81.8,86.9,49.9,F,Yes
+STU02266,18,Female,9,Computer,81.9,3.7,7.8,61.9,62.6,53.4,D,Yes
+STU02267,18,Male,11,Science,75.7,1.1,9.0,54.5,78.8,56.5,D,Yes
+STU02268,18,Male,10,Science,76.2,5.4,4.7,60.3,74.2,55.2,D,Yes
+STU02269,17,Female,11,Science,85.2,6.4,10.0,72.7,75.9,91.8,A+,Yes
+STU02270,18,Male,12,Science,71.3,1.5,7.3,62.1,82.2,67.0,C,Yes
+STU02271,15,Male,11,Social Studies,87.0,1.3,7.7,72.8,77.8,54.0,D,Yes
+STU02272,18,Female,11,Science,76.8,2.1,6.6,,67.9,60.6,C,Yes
+STU02273,15,Female,11,Science,83.4,2.9,7.1,84.0,82.5,81.7,A,Yes
+STU02274,19,Female,12,Social Studies,97.2,1.9,7.3,66.7,86.7,62.9,C,Yes
+STU02275,14,Female,12,Computer,80.1,5.8,5.9,57.7,61.7,71.4,B,Yes
+STU02276,19,Female,9,Math,92.1,6.9,6.2,67.9,70.0,86.3,A,Yes
+STU02277,16,Female,11,Social Studies,62.3,3.6,8.4,85.2,43.5,70.2,B,Yes
+STU02278,17,Female,9,Math,76.8,,5.4,88.4,78.8,66.5,C,Yes
+STU02279,14,Female,12,Math,82.3,2.8,7.6,80.9,88.3,84.0,A,Yes
+STU02280,15,Male,11,English,100.0,3.6,6.7,92.8,66.1,66.9,C,Yes
+STU02281,19,Female,10,Computer,60.4,2.8,6.0,100.0,72.0,88.9,A,Yes
+STU02282,14,Other,9,Math,80.9,3.1,9.3,69.2,66.7,67.9,C,Yes
+STU02283,15,Male,10,Computer,98.0,6.5,6.1,96.8,64.2,88.5,A,Yes
+STU02284,17,Male,11,Math,73.4,1.8,5.9,72.4,73.5,56.1,D,Yes
+STU02285,18,Male,9,Computer,79.7,10.9,6.9,90.3,58.2,84.8,A,Yes
+STU02286,16,Male,9,Math,85.6,3.6,6.3,85.9,66.5,72.6,B,Yes
+STU02287,14,Female,12,English,84.0,2.7,7.1,48.3,56.4,46.4,F,Yes
+STU02288,14,Male,11,Computer,99.2,1.8,7.3,62.5,78.8,57.0,D,Yes
+STU02289,19,Female,9,Science,86.9,1.9,7.4,58.9,73.6,59.9,D,Yes
+STU02290,15,Male,10,Computer,96.6,3.3,7.0,51.1,63.5,73.1,B,Yes
+STU02291,17,Male,12,Computer,78.0,3.6,6.3,88.3,70.6,48.8,F,Yes
+STU02292,19,Female,11,Computer,73.9,2.6,7.8,100.0,66.7,63.7,C,Yes
+STU02293,16,Female,11,Science,79.5,1.1,7.0,72.4,87.2,77.9,B,Yes
+STU02294,14,Male,10,Computer,69.2,3.3,6.6,88.0,63.4,50.6,D,Yes
+STU02295,18,Female,10,Computer,87.3,1.9,8.7,96.8,79.5,85.4,A,Yes
+STU02296,18,Female,9,Science,77.8,0.7,7.0,78.9,59.4,45.9,F,Yes
+STU02297,17,Female,11,Computer,74.6,5.0,8.3,75.6,82.2,63.1,C,Yes
+STU02298,19,Female,9,Social Studies,87.5,0.8,8.4,72.6,85.6,65.7,C,Yes
+STU02299,18,Male,9,Social Studies,69.4,2.5,8.5,83.5,86.3,87.9,A,Yes
+STU02300,18,Male,11,Computer,90.5,3.1,7.9,88.2,92.1,70.4,B,Yes
+STU02301,16,Female,12,Computer,76.7,7.5,7.1,82.5,74.4,58.2,D,Yes
+STU02302,14,Female,11,Social Studies,94.8,0.7,7.0,82.0,88.6,55.6,D,Yes
+STU02303,18,Female,10,Science,77.7,5.4,6.8,75.3,94.4,84.7,A,Yes
+STU02304,19,Female,10,Computer,89.0,6.0,4.7,53.7,53.2,47.1,F,Yes
+STU02305,18,Male,10,Math,,8.9,7.9,88.6,61.0,90.2,A+,Yes
+STU02306,17,Male,10,Science,90.2,6.7,7.4,58.0,47.6,65.5,C,Yes
+STU02307,18,Female,11,Social Studies,83.2,3.1,8.0,84.7,85.9,72.6,B,Yes
+STU02308,15,Male,10,Science,63.7,5.5,7.0,86.6,47.4,64.8,C,Yes
+STU02309,14,Female,11,Social Studies,93.1,7.7,7.8,60.0,43.3,59.2,D,Yes
+STU02310,17,Male,12,English,81.0,0.6,5.6,67.5,53.5,53.4,D,Yes
+STU02311,19,Male,12,Science,90.7,1.1,5.8,100.0,43.9,47.3,F,Yes
+STU02312,14,Male,9,Math,89.6,3.9,4.4,74.9,74.1,79.8,B,Yes
+STU02313,14,Male,10,English,,5.9,7.0,58.9,53.7,50.7,D,Yes
+STU02314,18,Male,9,English,71.9,4.9,6.3,87.2,44.6,65.3,C,Yes
+STU02315,16,Female,10,English,89.2,4.1,6.1,65.2,69.4,55.1,D,Yes
+STU02316,19,Female,10,Math,78.7,8.9,7.5,49.1,70.3,66.1,C,Yes
+STU02317,16,Female,9,Science,92.3,2.6,6.6,83.3,42.0,55.9,D,Yes
+STU02318,17,Male,11,Math,80.0,1.9,5.5,63.2,59.3,84.9,A,Yes
+STU02319,14,Male,10,Science,93.3,2.2,9.9,80.5,68.9,69.9,C,Yes
+STU02320,19,Male,12,Social Studies,86.7,3.9,7.1,64.6,64.6,56.0,D,Yes
+STU02321,15,Male,9,Math,85.2,3.0,5.9,85.9,65.1,60.6,C,Yes
+STU02322,16,Female,9,Computer,77.9,6.1,6.4,78.6,87.7,60.0,C,Yes
+STU02323,17,Male,10,Math,84.6,1.9,6.9,39.8,100.0,62.8,C,Yes
+STU02324,19,Male,9,English,95.1,4.3,6.9,81.3,65.3,88.7,A,Yes
+STU02325,18,Female,10,Social Studies,81.4,5.6,8.5,71.9,50.2,68.9,C,Yes
+STU02326,18,Female,12,Science,87.8,7.7,7.0,95.8,66.5,87.7,A,Yes
+STU02327,14,Female,9,Math,82.5,1.3,9.1,81.5,72.9,57.1,D,Yes
+STU02328,14,Female,9,English,83.4,2.2,6.6,86.6,69.2,63.1,C,Yes
+STU02329,18,Male,11,Science,100.0,2.9,7.6,66.1,79.2,72.2,B,Yes
+STU02330,19,Male,10,Social Studies,95.2,1.0,8.2,64.9,100.0,64.3,C,Yes
+STU02331,17,Male,11,Social Studies,82.9,4.1,8.4,75.6,44.3,65.8,C,Yes
+STU02332,19,Female,10,Computer,84.4,4.1,8.5,71.0,62.4,72.6,B,Yes
+STU02333,15,Male,12,Computer,74.3,3.8,6.8,94.7,93.1,80.3,A,Yes
+STU02334,16,Male,9,Computer,80.1,2.8,7.1,73.9,62.2,60.2,C,Yes
+STU02335,15,Female,10,Computer,85.4,7.2,4.4,58.9,81.8,81.9,A,Yes
+STU02336,18,Male,11,English,91.4,2.2,6.9,64.4,79.5,63.2,C,Yes
+STU02337,18,Female,12,Social Studies,90.2,6.7,8.3,89.5,88.6,80.2,A,Yes
+STU02338,15,Female,10,Science,69.8,2.2,8.1,73.7,98.7,84.1,A,Yes
+STU02339,19,Female,11,Math,92.7,1.2,7.0,72.9,75.0,53.5,D,Yes
+STU02340,14,Female,9,Computer,81.0,3.1,9.0,90.8,43.8,46.0,F,Yes
+STU02341,18,Male,9,Computer,71.1,3.6,6.7,63.2,59.5,49.3,F,Yes
+STU02342,15,Female,9,Social Studies,96.7,4.4,6.3,44.7,100.0,76.2,B,Yes
+STU02343,18,Female,11,Science,98.1,0.4,6.6,64.1,48.8,67.4,C,Yes
+STU02344,16,Female,10,English,84.9,2.5,5.9,79.4,77.5,59.5,D,Yes
+STU02345,15,Female,11,English,89.8,10.4,7.8,72.5,32.3,89.4,A,Yes
+STU02346,14,Female,9,Science,90.4,2.1,7.4,54.2,49.7,55.8,D,Yes
+STU02347,17,Female,12,Computer,97.4,6.0,7.8,90.2,83.3,80.8,A,Yes
+STU02348,14,Male,12,English,90.0,12.0,6.6,78.3,70.5,76.4,B,Yes
+STU02349,16,Female,9,Computer,67.4,11.7,7.0,81.4,64.4,98.3,A+,Yes
+STU02350,19,Male,9,English,100.0,1.4,4.7,81.9,57.8,59.3,D,Yes
+STU02351,19,Female,9,Science,93.7,5.6,7.5,57.8,40.1,48.1,F,Yes
+STU02352,16,Male,12,Social Studies,76.4,5.9,7.2,80.2,80.4,98.2,A+,Yes
+STU02353,18,Male,9,English,,5.1,5.9,88.7,65.8,70.7,B,Yes
+STU02354,18,Female,11,Computer,87.6,1.2,7.0,92.0,47.2,67.5,C,Yes
+STU02355,17,Female,10,English,78.9,3.8,6.8,86.1,70.5,84.7,A,Yes
+STU02356,15,Male,12,Science,85.6,3.8,9.0,83.2,78.7,79.9,B,Yes
+STU02357,18,Female,10,Social Studies,90.2,1.1,5.9,51.7,67.0,65.8,C,Yes
+STU02358,14,Male,10,Science,75.8,2.6,7.5,75.8,71.7,64.5,C,Yes
+STU02359,17,Female,12,Social Studies,69.7,3.9,5.9,62.6,70.6,67.6,C,Yes
+STU02360,18,Female,9,English,86.2,3.1,6.5,94.0,59.4,65.9,C,Yes
+STU02361,17,Male,12,Math,76.1,5.3,7.4,91.8,70.8,72.0,B,Yes
+STU02362,16,Male,9,Math,83.6,2.6,6.9,62.7,81.0,66.1,C,Yes
+STU02363,16,Female,10,Social Studies,67.2,3.5,7.1,75.4,85.5,63.2,C,Yes
+STU02364,16,Male,12,English,79.2,6.2,7.5,79.5,81.9,80.5,A,Yes
+STU02365,18,Male,11,Science,89.9,9.7,6.6,88.6,59.9,84.4,A,Yes
+STU02366,19,Female,11,Social Studies,88.7,1.2,8.1,52.5,79.5,70.4,B,Yes
+STU02367,18,Female,10,Computer,73.3,5.2,6.8,45.1,77.0,69.5,C,Yes
+STU02368,15,Female,10,Computer,69.1,2.3,7.0,76.5,59.4,77.9,B,Yes
+STU02369,14,Female,10,Computer,82.2,4.4,7.5,40.6,63.0,70.0,B,Yes
+STU02370,16,Male,11,Math,88.2,1.1,7.3,78.2,80.2,64.2,C,Yes
+STU02371,19,Female,10,Math,86.5,7.3,7.8,84.3,90.7,87.6,A,Yes
+STU02372,17,Female,10,Computer,76.4,1.8,7.4,93.3,42.8,71.9,B,Yes
+STU02373,15,Male,10,Math,85.3,6.3,7.6,67.3,94.6,68.7,C,Yes
+STU02374,14,Male,10,Computer,98.5,1.3,6.7,78.3,87.5,90.4,A+,Yes
+STU02375,15,Male,10,Math,84.3,0.9,5.9,85.1,73.0,54.9,D,Yes
+STU02376,18,Male,9,Science,64.0,2.8,5.5,59.5,66.4,63.6,C,Yes
+STU02377,18,Female,12,Computer,84.2,3.8,5.3,88.8,75.9,69.4,C,Yes
+STU02378,16,Male,11,Computer,100.0,12.0,9.0,79.8,60.4,87.0,A,Yes
+STU02379,16,Female,9,Computer,67.8,3.8,4.7,67.5,67.3,45.3,F,Yes
+STU02380,15,Female,11,Computer,82.3,1.4,8.4,78.0,47.9,66.9,C,Yes
+STU02381,19,Female,12,Math,79.5,5.6,6.2,74.0,43.9,48.1,F,Yes
+STU02382,16,Male,9,Social Studies,83.1,8.0,8.4,86.9,100.0,73.1,B,Yes
+STU02383,18,Male,9,Science,84.1,1.7,4.7,71.0,70.9,71.0,B,Yes
+STU02384,16,Female,9,Math,94.5,6.1,6.8,79.2,73.1,93.2,A+,Yes
+STU02385,17,Male,9,Social Studies,82.9,7.4,8.7,67.3,69.5,67.5,C,Yes
+STU02386,17,Male,11,Math,96.0,5.7,7.9,62.9,57.6,78.5,B,Yes
+STU02387,16,,12,English,80.7,2.0,6.7,78.4,65.4,69.6,C,Yes
+STU02388,19,Male,9,English,78.1,3.9,5.0,63.4,71.4,60.5,C,Yes
+STU02389,16,Female,11,Computer,,4.4,5.6,87.2,67.1,79.3,B,Yes
+STU02390,18,Other,9,Math,62.0,7.1,8.6,84.3,58.7,67.6,C,Yes
+STU02391,19,Female,11,Math,85.0,2.1,6.7,65.3,77.2,68.6,C,Yes
+STU02392,16,Female,11,English,100.0,6.2,7.0,79.0,72.8,64.2,C,Yes
+STU02393,15,Female,10,English,87.0,3.0,7.4,65.2,75.9,54.0,D,Yes
+STU02394,19,Female,9,Computer,89.6,2.5,5.7,53.5,80.6,74.3,B,Yes
+STU02395,18,Male,11,Computer,77.5,3.5,7.5,67.6,67.4,68.8,C,Yes
+STU02396,18,Female,12,Math,79.3,0.3,6.6,75.3,67.5,56.3,D,Yes
+STU02397,19,Female,10,Social Studies,92.8,0.5,7.4,83.3,92.2,89.7,A,Yes
+STU02398,14,Male,9,English,100.0,0.6,6.5,78.1,55.8,79.0,B,Yes
+STU02399,19,Male,9,Social Studies,98.4,4.5,5.4,88.7,41.9,68.8,C,Yes
+STU02400,14,Male,11,Social Studies,90.9,2.8,6.6,62.3,78.3,51.1,D,Yes
+STU02401,14,Male,11,Math,82.4,2.0,7.8,70.7,60.6,59.3,D,Yes
+STU02402,15,Female,12,English,84.3,3.2,7.5,99.0,53.8,58.3,D,Yes
+STU02403,14,Female,11,English,73.7,6.3,7.1,49.0,83.3,69.2,C,Yes
+STU02404,14,Male,12,English,66.1,3.1,8.1,69.7,67.8,51.8,D,Yes
+STU02405,14,Male,12,Science,69.6,1.4,6.9,61.0,51.0,38.7,F,Yes
+STU02406,16,Male,10,English,82.5,,7.2,73.3,99.0,68.3,C,Yes
+STU02407,16,Male,11,English,78.8,3.4,6.6,69.9,45.8,58.3,D,Yes
+STU02408,16,Female,10,Math,65.8,,8.2,84.4,68.7,50.0,D,Yes
+STU02409,15,Male,10,Science,81.6,5.8,7.4,79.6,41.7,60.6,C,Yes
+STU02410,19,Female,12,Math,78.5,2.4,6.5,57.7,74.1,66.9,C,Yes
+STU02411,15,Female,11,Social Studies,69.1,9.6,5.5,67.8,60.4,62.1,C,Yes
+STU02412,16,Female,12,Computer,77.9,2.1,8.3,76.0,82.3,56.5,D,Yes
+STU02413,14,Female,10,Science,78.5,4.5,6.3,86.4,69.7,67.7,C,Yes
+STU02414,15,Male,11,Science,75.2,4.1,7.2,100.0,90.3,68.2,C,Yes
+STU02415,15,Female,10,Math,92.2,4.3,9.7,85.8,63.6,75.1,B,Yes
+STU02416,19,Male,9,Science,61.1,8.5,8.0,61.8,45.9,52.7,D,Yes
+STU02417,15,Male,9,Social Studies,60.2,3.4,8.9,74.7,73.6,63.0,C,Yes
+STU02418,17,Male,11,Math,82.0,3.9,6.5,78.5,66.2,62.2,C,Yes
+STU02419,17,Male,9,Math,83.1,4.0,8.3,68.7,42.7,59.6,D,Yes
+STU02420,14,Female,12,Social Studies,,12.0,7.1,82.6,54.2,97.4,A+,Yes
+STU02421,16,Female,9,English,76.1,7.1,7.5,44.2,58.9,65.1,C,Yes
+STU02422,14,Female,9,Math,71.9,0.9,9.3,83.7,93.3,74.5,B,Yes
+STU02423,15,Female,11,English,81.9,2.2,6.8,69.3,80.6,58.6,D,Yes
+STU02424,18,Male,9,Computer,77.1,3.6,7.1,74.5,64.8,65.8,C,Yes
+STU02425,17,Female,12,Science,,8.4,6.1,96.5,77.1,81.9,A,Yes
+STU02426,16,Female,11,Science,78.4,9.0,8.1,58.3,39.4,65.8,C,Yes
+STU02427,15,Female,9,Computer,81.4,3.3,6.5,79.8,61.5,69.8,C,Yes
+STU02428,17,Female,11,English,100.0,2.1,8.2,87.1,76.0,67.5,C,Yes
+STU02429,19,Male,11,Social Studies,79.9,2.9,5.3,78.4,72.5,59.5,D,Yes
+STU02430,19,Female,11,Science,88.1,3.7,7.7,53.4,61.9,57.0,D,Yes
+STU02431,15,Male,12,Science,89.1,2.8,6.4,94.9,69.4,64.0,C,Yes
+STU02432,18,Male,11,Math,90.0,7.6,7.9,73.0,75.1,79.6,B,Yes
+STU02433,15,Male,11,Computer,85.2,2.6,7.1,68.6,69.9,59.9,D,Yes
+STU02434,19,Female,10,English,84.1,1.7,6.5,71.7,82.9,80.0,A,Yes
+STU02435,16,Male,11,Science,83.1,2.9,6.7,70.6,74.8,91.8,A+,Yes
+STU02436,18,Female,12,Computer,75.7,4.2,6.2,59.3,77.7,58.2,D,Yes
+STU02437,17,Female,11,Science,85.6,,8.0,78.3,95.7,87.0,A,Yes
+STU02438,18,Male,11,Math,100.0,1.6,5.9,67.6,82.4,77.1,B,Yes
+STU02439,19,Male,10,English,95.3,4.2,6.8,85.4,96.1,76.7,B,Yes
+STU02440,14,Female,11,English,85.3,4.3,7.5,83.2,59.9,57.6,D,Yes
+STU02441,19,Male,12,English,91.4,4.9,8.9,98.8,46.1,88.4,A,Yes
+STU02442,16,Female,9,English,72.4,2.6,7.1,73.0,67.9,67.9,C,Yes
+STU02443,14,Male,9,Social Studies,79.1,4.8,6.8,64.8,66.6,67.8,C,Yes
+STU02444,16,Other,11,Science,92.4,5.7,7.4,55.4,91.9,89.7,A,Yes
+STU02445,14,Male,10,Science,98.4,2.6,4.8,100.0,53.0,73.0,B,Yes
+STU02446,17,Male,11,English,73.5,3.9,5.8,85.3,68.8,64.6,C,Yes
+STU02447,16,Male,9,Math,76.7,,6.7,66.3,76.1,53.5,D,Yes
+STU02448,16,Male,10,Math,100.0,1.9,6.3,99.7,71.5,66.2,C,Yes
+STU02449,16,Male,11,English,83.1,1.1,5.3,95.0,67.4,74.6,B,Yes
+STU02450,17,Male,11,English,100.0,2.1,8.0,57.1,75.4,73.0,B,Yes
+STU02451,18,Female,11,Computer,84.3,2.2,7.4,65.5,86.2,65.0,C,Yes
+STU02452,16,Male,11,Math,84.7,1.1,7.3,74.1,93.0,85.9,A,Yes
+STU02453,14,Female,11,Social Studies,78.6,4.6,6.3,61.0,70.5,62.2,C,Yes
+STU02454,17,Other,12,English,92.4,5.9,7.2,74.6,57.8,79.5,B,Yes
+STU02455,19,Female,11,Math,96.9,3.0,7.7,86.0,93.0,79.8,B,Yes
+STU02456,16,Female,11,Science,70.6,3.3,6.8,56.8,53.8,73.8,B,Yes
+STU02457,14,Male,11,Science,78.1,2.4,7.6,80.1,96.9,79.6,B,Yes
+STU02458,19,Female,9,English,92.1,3.2,6.2,92.4,90.2,76.1,B,Yes
+STU02459,16,Female,10,English,80.6,4.9,7.2,81.6,92.3,74.3,B,Yes
+STU02460,16,Male,11,English,76.6,4.2,8.4,74.9,80.3,70.4,B,Yes
+STU02461,15,Female,12,English,93.1,3.2,8.5,66.6,38.3,51.7,D,Yes
+STU02462,18,Female,11,Social Studies,94.1,2.2,8.6,87.6,54.4,52.3,D,Yes
+STU02463,14,Female,9,Social Studies,77.1,5.6,7.4,59.5,74.6,70.7,B,Yes
+STU02464,17,Female,11,English,84.3,2.4,7.1,79.4,59.9,57.0,D,Yes
+STU02465,16,Female,9,Social Studies,68.7,1.2,6.6,76.4,65.3,51.4,D,Yes
+STU02466,16,Female,11,Social Studies,72.1,3.7,5.1,91.8,79.2,66.8,C,Yes
+STU02467,15,Female,12,Social Studies,83.4,0.7,5.6,67.8,67.5,57.3,D,Yes
+STU02468,18,Female,11,Science,82.3,4.1,6.9,69.0,51.7,60.7,C,Yes
+STU02469,16,Female,11,English,71.4,4.3,7.0,58.6,83.3,82.9,A,Yes
+STU02470,19,Male,10,Science,74.1,2.1,8.7,82.1,77.7,73.5,B,Yes
+STU02471,18,Male,10,Math,70.3,2.3,8.5,70.1,66.3,81.7,A,Yes
+STU02472,18,Female,12,Math,87.0,6.1,6.3,63.9,80.7,67.7,C,Yes
+STU02473,16,Female,11,Computer,60.4,11.3,8.0,65.3,71.4,84.2,A,Yes
+STU02474,19,Male,10,English,70.9,3.4,6.6,83.5,90.0,66.2,C,Yes
+STU02475,17,Male,10,Social Studies,61.5,2.1,7.9,60.6,72.3,51.8,D,Yes
+STU02476,16,Female,9,Computer,86.6,4.4,8.0,61.8,89.9,94.2,A+,Yes
+STU02477,16,Female,9,Math,62.2,3.1,8.5,88.5,41.9,49.6,F,Yes
+STU02478,19,Female,9,Social Studies,82.3,4.2,6.6,73.7,76.9,46.2,F,Yes
+STU02479,15,Male,10,English,100.0,3.7,8.2,89.4,64.0,65.8,C,Yes
+STU02480,19,Male,12,English,100.0,3.8,5.0,71.0,57.1,43.5,F,Yes
+STU02481,15,Male,10,Social Studies,62.1,0.5,8.5,76.0,87.4,52.8,D,Yes
+STU02482,18,Female,9,Computer,85.3,2.3,7.1,78.2,83.3,60.1,C,Yes
+STU02483,15,Female,9,Math,71.1,2.2,7.1,95.4,39.9,57.0,D,Yes
+STU02484,19,Female,10,Math,68.9,2.1,4.9,94.3,80.7,44.0,F,Yes
+STU02485,19,Female,12,English,80.8,5.1,6.7,92.1,78.9,86.3,A,Yes
+STU02486,18,Female,10,Math,95.5,1.3,8.6,67.2,59.2,43.0,F,Yes
+STU02487,19,Male,12,Math,88.6,0.5,6.6,62.2,57.5,53.5,D,Yes
+STU02488,17,Female,12,Computer,74.1,2.1,7.9,86.7,46.1,54.8,D,Yes
+STU02489,19,Male,9,Math,89.8,1.8,7.1,95.3,64.9,75.2,B,Yes
+STU02490,17,Female,11,Math,57.3,3.4,8.3,92.3,67.3,68.0,C,Yes
+STU02491,14,Female,12,English,73.7,1.8,7.3,76.2,82.0,76.4,B,Yes
+STU02492,16,Male,10,Math,72.9,2.7,6.1,86.2,74.0,60.9,C,Yes
+STU02493,14,Male,9,Science,82.9,2.5,7.2,86.4,54.1,57.5,D,Yes
+STU02494,17,Female,12,Social Studies,79.8,7.4,8.9,78.1,73.6,81.2,A,Yes
+STU02495,14,Male,12,Computer,80.4,1.8,7.6,78.7,66.2,72.8,B,Yes
+STU02496,15,Female,11,Social Studies,80.1,4.9,7.0,77.4,56.0,73.0,B,Yes
+STU02497,19,Female,11,Science,82.2,3.1,9.6,65.0,46.2,62.8,C,Yes
+STU02498,18,Female,9,Computer,87.9,6.2,8.4,66.4,79.4,77.5,B,Yes
+STU02499,16,Female,12,Science,83.6,8.9,8.0,66.2,76.7,77.9,B,Yes
+STU02500,17,Male,10,Science,78.9,3.1,7.4,53.6,78.4,67.0,C,Yes
